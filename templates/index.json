@@ -252,14 +252,14 @@
         "button_text": "CONTACTEZ-NOUS",
         "button_url": "",
         "text_position": "start",
-        "background": "#ffffff",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#ffffff",
         "accordion_text_color": ""
       }
     },
