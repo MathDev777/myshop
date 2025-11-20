@@ -11,6 +11,22 @@
   "sections": {
     "image_with_text_overlay_c9mgd9": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "button_brCa3E": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "ACHETER MAINTENANT",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_brCa3E"
+      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -235,7 +251,7 @@
         "answer_time": "Délai de réponse moyen : 1 à 2 jours ouvrés.",
         "button_text": "CONTACTEZ-NOUS",
         "button_url": "",
-        "text_position": "center",
+        "text_position": "start",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
