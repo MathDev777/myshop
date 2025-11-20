@@ -11,25 +11,6 @@
   "sections": {
     "image_with_text_overlay_c9mgd9": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_Mq8QEC": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_mNzykn": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Mq8QEC",
-        "richtext_mNzykn"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -43,73 +24,105 @@
         "overlay_opacity": 30
       }
     },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
+    "featured_collection_qPGDEP": {
+      "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
+        "collection": "",
+        "products": [],
         "full_width": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
+        "stack_products": false,
         "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Collection list",
+        "title": "",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "text_with_icons_NgnqKc": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_hebRnR": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Effet gainant à 360°",
+            "content": "<p>Le tissu s'adapte à la forme du corps, ce qui confère aux vêtements confort et liberté de mouvement.</p>"
+          }
+        },
+        "item_DpKz4M": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Incroyablement doux",
+            "content": "<p>Nos tissus sont conçus pour le confort des peaux ultra-sensibles afin de prévenir les irritations cutanées.</p>"
+          }
+        },
+        "item_qyfHqN": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Respirant",
+            "content": "<p>Nos vêtements évacuent efficacement la transpiration pour vous assurer de rester au sec tout au long de la journée.</p>"
+          }
+        },
+        "item_kX7TMP": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Gardez le contrôle",
+            "content": "<p>Nos produits sont conçus pour résoudre tous les problèmes de performances des autres vêtements de sport.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_hebRnR",
+        "item_DpKz4M",
+        "item_qyfHqN",
+        "item_kX7TMP"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq": {
@@ -167,7 +180,8 @@
   },
   "order": [
     "image_with_text_overlay_c9mgd9",
-    "collection-list",
+    "featured_collection_qPGDEP",
+    "text_with_icons_NgnqKc",
     "faq"
   ]
 }
