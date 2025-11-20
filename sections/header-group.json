@@ -17,21 +17,21 @@
         "message_GqrwQE": {
           "type": "message",
           "settings": {
-            "text": "1 LEGGING ACHET2 = 1 LEGGING OFFERT",
+            "text": "1 LEGGING ACHETÉ = 1 LEGGING OFFERT",
             "url": ""
           }
         },
         "message_p8Gait": {
           "type": "message",
           "settings": {
-            "text": "LIVRAISON OFFERTE D2S 40 D'ACHAT",
+            "text": "LIVRAISON OFFERTE DÉS 40€ D'ACHAT",
             "url": ""
           }
         },
         "message_gtWk7A": {
           "type": "message",
           "settings": {
-            "text": "100% SATISFAIT OU REMBOURS2",
+            "text": "100% SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
         }
