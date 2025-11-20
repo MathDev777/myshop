@@ -24,7 +24,7 @@
         "overlay_opacity": 30
       }
     },
-    "featured_collection_qPGDEP": {
+    "featured_collection_cVEzP6": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
@@ -32,10 +32,82 @@
         "products": [],
         "full_width": true,
         "stack_products": false,
-        "show_progress_bar": false,
+        "show_progress_bar": true,
         "products_count": 6,
-        "products_per_row_mobile": "1",
+        "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos meilleures ventes",
+        "content": "",
+        "link_url": "",
+        "link_text": "Afficher tous les articles",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "collection_list_7rYFjU": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_mabFNc": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_PrYdz4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_PTFzbi": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_mabFNc",
+        "collection_PrYdz4",
+        "collection_PTFzbi"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": true,
         "subheading": "",
         "title": "",
         "content": "",
@@ -45,9 +117,7 @@
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "heading_gradient": ""
       }
     },
     "text_with_icons_NgnqKc": {
@@ -165,7 +235,7 @@
         "answer_time": "Délai de réponse moyen : 1 à 2 jours ouvrés.",
         "button_text": "CONTACTEZ-NOUS",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -180,7 +250,8 @@
   },
   "order": [
     "image_with_text_overlay_c9mgd9",
-    "featured_collection_qPGDEP",
+    "featured_collection_cVEzP6",
+    "collection_list_7rYFjU",
     "text_with_icons_NgnqKc",
     "faq"
   ]
