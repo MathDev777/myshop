@@ -25,7 +25,7 @@
         "links_rn3Jfw": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "menu-informations",
             "show_menu_title": true,
             "menu_title": ""
           }
