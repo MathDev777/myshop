@@ -13,6 +13,34 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
+      "blocks": {
+        "message_GqrwQE": {
+          "type": "message",
+          "settings": {
+            "text": "1 LEGGING ACHET2 = 1 LEGGING OFFERT",
+            "url": ""
+          }
+        },
+        "message_p8Gait": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE D2S 40 D'ACHAT",
+            "url": ""
+          }
+        },
+        "message_gtWk7A": {
+          "type": "message",
+          "settings": {
+            "text": "100% SATISFAIT OU REMBOURS2",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_GqrwQE",
+        "message_p8Gait",
+        "message_gtWk7A"
+      ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
