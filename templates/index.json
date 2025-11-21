@@ -101,6 +101,21 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_NQFYNj": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "impact_text_x7MNVy": {
       "type": "impact-text",
       "blocks": {
@@ -183,28 +198,13 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "image_with_text_overlay_NQFYNj": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
     "image_with_text_overlay_c9mgd9",
     "text_with_icons_NgnqKc",
+    "image_with_text_overlay_NQFYNj",
     "impact_text_x7MNVy",
-    "text_with_icons_fgrPW8",
-    "image_with_text_overlay_NQFYNj"
+    "text_with_icons_fgrPW8"
   ]
 }
