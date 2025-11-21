@@ -150,7 +150,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 1",
+            "title": "Quel est le délai d'expédition des produits ?",
             "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
             "page": ""
           }
@@ -160,7 +160,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 2",
+            "title": "La livraison est-elle gratuite ?",
             "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
             "page": ""
           }
@@ -170,7 +170,17 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 3",
+            "title": "Comment sont taillées vos collants ?",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_RMaTBD": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Si les collants ne me convient pas, puis-je l'échanger ?",
             "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
             "page": ""
           }
@@ -179,14 +189,15 @@
       "block_order": [
         "item_eeUrzj",
         "item_K6CkEJ",
-        "item_jHPCqJ"
+        "item_jHPCqJ",
+        "item_RMaTBD"
       ],
       "name": "Accordion content",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Heading",
-        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "title": "Des questions ?",
+        "content": "<p>Si vous avez plus de questions, une personne de l'équipe de ... est là pour vous répondre.</p><p>Notre service est disponible du lundi au vendredi de 8h à 16 à \"...........\"</p>",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
