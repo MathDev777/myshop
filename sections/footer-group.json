@@ -14,12 +14,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links_rn3Jfw": {
-          "type": "links",
+        "newsletter": {
+          "type": "newsletter",
           "settings": {
-            "menu": "menu-informations",
-            "show_menu_title": true,
-            "menu_title": ""
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Inscrivez-vous pour profiter d'offres exclusives !",
+            "content": ""
           }
         },
         "links_V4JU7f": {
@@ -30,20 +31,19 @@
             "menu_title": ""
           }
         },
-        "newsletter": {
-          "type": "newsletter",
+        "links_rn3Jfw": {
+          "type": "links",
           "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Inscrivez-vous pour profiter d'offres exclusives !",
-            "content": ""
+            "menu": "menu-informations",
+            "show_menu_title": true,
+            "menu_title": ""
           }
         }
       },
       "block_order": [
-        "links_rn3Jfw",
+        "newsletter",
         "links_V4JU7f",
-        "newsletter"
+        "links_rn3Jfw"
       ],
       "settings": {
         "show_social_media": true,
