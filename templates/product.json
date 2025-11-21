@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -27,16 +33,6 @@
           "settings": {
             "show_taxes_notice": false
           }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
         },
         "separator": {
           "type": "separator",
@@ -76,6 +72,10 @@
             "payment_button_text_color": ""
           }
         },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
         "collapsible_text_FXKLH9": {
           "type": "collapsible_text",
           "settings": {
@@ -108,16 +108,16 @@
         }
       },
       "block_order": [
+        "rating",
         "title",
         "badges",
         "price",
-        "rating",
-        "payment_terms",
         "separator",
         "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "payment_terms",
         "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
         "collapsible_text_wqMwHr"
@@ -222,11 +222,69 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "media_with_text_wBWy6W": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_T8CMtN": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-end-start text-start",
+            "icon": "none",
+            "icon_width": 52,
+            "subheading": "Le collant polaire",
+            "title": "Effet peau bluffant Chaud, doux, indéchirable",
+            "content": "<p>À l’intérieur, la micro-polaire retient la chaleur et reste ultra douce sur la peau. À l’extérieur, un voile lisse et fin donne un rendu “vrai collant”, sans brillance ni volume. Une seule couture pour un confort total : ça ne cisaille pas, ça ne gratte pas, ça tient toute la journée.</p><p>Chaleur sans épaisseur : intérieur moelleux, extérieur voile 60–80D</p><p>Effet peau naturel : teinte homogène, fini élégant et réaliste</p><p>Ceinture stable qui affine : ne roule pas, maintien confortable</p><p>Nylon ultra-résistant : ne s’effiloche pas, incassable au quotidien</p><p>Entretien simple : 30 °C sur l’envers, séchage à l’air libre</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_YKYf3N": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-end-start text-start",
+            "icon": "none",
+            "icon_width": 52,
+            "subheading": "Teinte & maintien",
+            "title": "Couleur peau réaliste Ceinture qui ne bouge pas",
+            "content": "<p>Une <strong>teinte naturelle</strong>, uniforme et crédible — sans sous-tons jaunes ni marbrures. Le tombé est net (anti-statique), et l’<strong>élasticité </strong>du nylon reste douce et résistante au fil des lavages.</p><p>Couleur <strong>peau</strong> fidèle, fini élégant et réaliste</p><p>Transparence <strong>homogène</strong> : zéro marbrure, pas de zones plus claires</p><p><strong>Anti-statique</strong> : ne colle pas à la jupe, tombé net</p><p><strong>Pied renforcé</strong> : limite les déchirures aux orteils</p><p>Ceinture <strong>gainante & stable</strong> : affine sans comprimer</p><p>Élasticité qui <strong>dure</strong> : forme préservée lavage après lavage</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_T8CMtN",
+        "image_YKYf3N"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "text_with_icons_ibTanB"
+    "text_with_icons_ibTanB",
+    "media_with_text_wBWy6W"
   ]
 }
