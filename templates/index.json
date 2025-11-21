@@ -142,87 +142,63 @@
         "overlay_opacity": 30
       }
     },
-    "impact_text_x7MNVy": {
-      "type": "impact-text",
+    "accordion_content_79WQ7g": {
+      "type": "accordion-content",
       "blocks": {
-        "item_hrB7cK": {
+        "item_eeUrzj": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_hrB7cK"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "text_with_icons_fgrPW8": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_XTEWbH": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 36,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Expédié en 48H",
-            "content": "<p>Toutes nos commandes sont expédiées sous 2 jours ouvrés</p>"
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 1",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
           }
         },
-        "item_TwUdRm": {
+        "item_K6CkEJ": {
           "type": "item",
           "settings": {
-            "icon": "picto-return",
-            "mobile_icon_width": 36,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Satisfait ou remboursé !",
-            "content": "<p>Vous disposez de 30 jours pour retourner le produit !</p>"
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_jHPCqJ": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "item_XTEWbH",
-        "item_TwUdRm"
+        "item_eeUrzj",
+        "item_K6CkEJ",
+        "item_jHPCqJ"
       ],
-      "name": "Text with icons",
+      "name": "Accordion content",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
+        "subheading": "",
+        "title": "Heading",
+        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     }
   },
@@ -231,7 +207,6 @@
     "featured_collection_dgc9zV",
     "text_with_icons_NgnqKc",
     "image_with_text_overlay_NQFYNj",
-    "impact_text_x7MNVy",
-    "text_with_icons_fgrPW8"
+    "accordion_content_79WQ7g"
   ]
 }
