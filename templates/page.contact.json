@@ -22,7 +22,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Des questions ?",
-        "content": "",
+        "content": "<p>Si vous avez plus de questions, une personne de l'équipe de ... est là pour vous répondre.</p><p>Notre service est disponible du lundi au vendredi de 8h à 16 à \"...........\"</p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
