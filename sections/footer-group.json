@@ -30,14 +30,6 @@
             "menu_title": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -51,7 +43,6 @@
       "block_order": [
         "links_rn3Jfw",
         "links_V4JU7f",
-        "links",
         "newsletter"
       ],
       "settings": {
