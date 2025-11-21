@@ -40,102 +40,6 @@
         "overlay_opacity": 30
       }
     },
-    "featured_collection_cVEzP6": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Nos meilleures ventes",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "collection_list_7rYFjU": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_mabFNc": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_PrYdz4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_PTFzbi": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_mabFNc",
-        "collection_PrYdz4",
-        "collection_PTFzbi"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Nos collections",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "text_with_icons_NgnqKc": {
       "type": "text-with-icons",
       "blocks": {
@@ -145,7 +49,7 @@
             "icon": "picto-coupon",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
             "title": "Le confort d’une seule couture",
@@ -158,7 +62,7 @@
             "icon": "picto-coupon",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
             "title": "Finition parfaite, zéro sur-épaisseur et respirant",
@@ -171,7 +75,7 @@
             "icon": "picto-coupon",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
             "title": "Ceinture gainante & intérieur doux",
@@ -197,74 +101,45 @@
         "text_color": ""
       }
     },
-    "faq": {
-      "type": "faq",
+    "impact_text_x7MNVy": {
+      "type": "impact-text",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_hrB7cK": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps faut-il pour recevoir ma commande ?",
-            "content": "<p>Cela dépend de l'endroit où vous vous trouvez. Les commandes traitées ici prendront 5 à 7 jours ouvrables pour arriver. Les livraisons à l'étranger peuvent prendre de 7 à 12 jours. Les détails de la livraison seront fournis dans votre e-mail de confirmation.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "Expédiez-vous à l'étranger ?",
-            "content": "<p>Oui, nous expédions partout dans le monde. Nous offrons une livraison gratuite dans le monde entier. Par ailleurs, nous proposons des réductions et des promotions toute l'année, alors restez à l'écoute des offres exclusives.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Besoin d'aide pour votre commande ?",
-            "content": "<p>Notre équipe est là pour vous aider, contactez-nous via<a href=\"mailto:support@heyshape.co\" title=\"mailto:support@heyshape.co\">support@heyshape.co</a></p>"
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_hrB7cK"
       ],
+      "name": "Impact text",
       "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Besoin d'aide par rapport à votre commande ou avez-vous une question sur l'un de nos produits ? Veuillez contacter notre équipe d'assistance via .........</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Notre support client est disponible tous les jours.",
-        "answer_time": "Délai de réponse moyen : 1 à 2 jours ouvrés.",
-        "button_text": "CONTACTEZ-NOUS",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#f5f5f5",
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "heading_text_color": "",
         "heading_gradient": "",
+        "text_color": "",
         "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "#ffffff",
-        "accordion_text_color": ""
+        "button_text_color": ""
       }
     },
     "text_with_icons_fgrPW8": {
       "type": "text-with-icons",
       "blocks": {
-        "item_xHnMiM": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-truck",
-            "mobile_icon_width": 36,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Livraison offerte",
-            "content": "<p>Livraison offerte dès 40 € d'achat</p>"
-          }
-        },
         "item_XTEWbH": {
           "type": "item",
           "settings": {
@@ -293,7 +168,6 @@
         }
       },
       "block_order": [
-        "item_xHnMiM",
         "item_XTEWbH",
         "item_TwUdRm"
       ],
@@ -309,14 +183,28 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_NQFYNj": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "image_with_text_overlay_c9mgd9",
-    "featured_collection_cVEzP6",
-    "collection_list_7rYFjU",
     "text_with_icons_NgnqKc",
-    "faq",
-    "text_with_icons_fgrPW8"
+    "impact_text_x7MNVy",
+    "text_with_icons_fgrPW8",
+    "image_with_text_overlay_NQFYNj"
   ]
 }
