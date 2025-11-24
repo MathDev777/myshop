@@ -68,6 +68,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_khk3b7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-payment-icons'>"
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -102,12 +108,6 @@
             "page": ""
           }
         },
-        "liquid_khk3b7": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-payment-icons'>"
-          }
-        },
         "liquid_nkakMF": {
           "type": "liquid",
           "settings": {
@@ -130,11 +130,11 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "liquid_khk3b7",
         "payment_terms",
         "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
         "collapsible_text_wqMwHr",
-        "liquid_khk3b7",
         "liquid_nkakMF",
         "liquid_TVViTh"
       ],
