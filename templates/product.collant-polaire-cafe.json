@@ -1,0 +1,269 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "dropdown",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "collapsible_text_FXKLH9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Détails produits",
+            "content": "<p>Restez au chaud, confortable et stylée lorsque les températures baissent grâce à nos collants effet voile doublés polaire.</p><p>À l’extérieur, ces collants paraissent fins et délicats, reflétant naturellement votre carnation. Ils sont proposés en trois teintes flatteuses : Clair/Noir Transparent, Bronzé/Noir Transparent et Foncé/Noir Transparent.<br/><br/>À l’intérieur, ils sont en réalité opaques, avec une <strong>doublure douce en polaire</strong> qui conserve la chaleur pour affronter le froid avec confiance.</p><p>Affinants et isolants, ils offrent une <strong>compression confortable</strong>, un <strong>effet galbant</strong> et une <strong>ceinture gainante haute</strong>, tout en gardant un effet translucide naturel — la doublure reste votre petit secret.<br/><br/>De plus, ils sont <strong>100 % résistants aux accros, aux déchirures et aux trous</strong>, grâce à une matière <strong>ultra-extensible</strong> qui ne vous laissera jamais tomber.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_MefjR4": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Composition & entretien",
+            "content": "<h4>Composition</h4><p>44 % polyester – 41,2 % nylon – 14,4 % spandex</p><p>Cette combinaison offre <strong>un ajustement parfait</strong>, une <strong>grande durabilité</strong> et un <strong>toucher incroyablement doux</strong> sur la peau. Les collants Maison Sidonie épousent la silhouette avec confort et élégance, tout en conservant leur forme au fil du temps.</p><h4>Conseils d’entretien</h4><p>Pour préserver la douceur et l’élasticité de vos collants, nous vous recommandons de :</p><ul><li>Les <strong>laver en machine à 30 °C</strong>, sur un <strong>cycle délicat</strong> ou dans un <strong>filet de lavage</strong>.</li><li><strong>Éviter la javel et le sèche-linge.</strong></li><li><strong>Faire sécher à l’air libre</strong>, à plat si possible.</li><li><strong>Ne pas repasser.</strong></li></ul><p>Grâce à cette attention, vos collants resteront <strong>souples, doux et parfaitement ajustés</strong>, lavage après lavage.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_wqMwHr": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison & retour",
+            "content": "<p><strong>Livraison gratuite</strong> en France métropolitaine.</p><h4>Livraison standard (France)</h4><p>La livraison est assurée sous <strong>4 à 6 jours ouvrés</strong> à partir de la <strong>confirmation de votre commande</strong>.<br/><br/>Dès l’expédition, vous recevrez un e-mail de suivi afin de suivre l’avancement de votre colis en temps réel.</p><h4>Retours & échanges</h4><p>Vous disposez de <strong>30 jours après réception</strong> pour nous retourner un article s’il ne vous convient pas.<br/><br/>Les retours sont <strong>gratuits en France métropolitaine</strong> et donnent lieu à un <strong>remboursement ou un avoir</strong>, selon votre préférence.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "rating",
+        "title",
+        "badges",
+        "price",
+        "separator",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "payment_terms",
+        "collapsible_text_FXKLH9",
+        "collapsible_text_MefjR4",
+        "collapsible_text_wqMwHr"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "text_with_icons_ibTanB": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_zixXqg": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Le confort d’une seule couture",
+            "content": "<p>Une coupe fluide qui épouse chaque courbe sans marquer la peau. Zéro gêne, 100 % liberté de mouvement.</p>"
+          }
+        },
+        "item_qGDtg3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Finition parfaite, zéro sur-épaisseur et respirant",
+            "content": "<p>Invisible sous les vêtements, sans plis ni démarcations. L’élégance jusqu’au détail.</p>"
+          }
+        },
+        "item_8eK9Lc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Ceinture gainante & intérieur doux",
+            "content": "<p>Maintien parfait, douceur cocooning. Tes collants tiennent en place tout en te caressant la peau.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_zixXqg",
+        "item_qGDtg3",
+        "item_8eK9Lc"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_wBWy6W": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_T8CMtN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Image_benefice.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-end-start text-start",
+            "icon": "none",
+            "icon_width": 52,
+            "subheading": "Le collant polaire",
+            "title": "Effet peau bluffant Chaud, doux, indéchirable",
+            "content": "<p>À l’intérieur, la micro-polaire retient la chaleur et reste ultra douce sur la peau. À l’extérieur, un voile lisse et fin donne un rendu “vrai collant”, sans brillance ni volume. Une seule couture pour un confort total : ça ne cisaille pas, ça ne gratte pas, ça tient toute la journée.</p><p>Chaleur sans épaisseur : intérieur moelleux, extérieur voile 60–80D</p><p>Effet peau naturel : teinte homogène, fini élégant et réaliste</p><p>Ceinture stable qui affine : ne roule pas, maintien confortable</p><p>Nylon ultra-résistant : ne s’effiloche pas, incassable au quotidien</p><p>Entretien simple : 30 °C sur l’envers, séchage à l’air libre</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_YKYf3N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Image_benefice_2.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-end-start text-start",
+            "icon": "none",
+            "icon_width": 52,
+            "subheading": "Teinte & maintien",
+            "title": "Couleur peau réaliste Ceinture qui ne bouge pas",
+            "content": "<p>Une <strong>teinte naturelle</strong>, uniforme et crédible — sans sous-tons jaunes ni marbrures. Le tombé est net (anti-statique), et l’<strong>élasticité </strong>du nylon reste douce et résistante au fil des lavages.</p><p>Couleur <strong>peau</strong> fidèle, fini élégant et réaliste</p><p>Transparence <strong>homogène</strong> : zéro marbrure, pas de zones plus claires</p><p><strong>Anti-statique</strong> : ne colle pas à la jupe, tombé net</p><p><strong>Pied renforcé</strong> : limite les déchirures aux orteils</p><p>Ceinture <strong>gainante & stable</strong> : affine sans comprimer</p><p>Élasticité qui <strong>dure</strong> : forme préservée lavage après lavage</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_T8CMtN",
+        "image_YKYf3N"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_with_icons_ibTanB",
+    "media_with_text_wBWy6W"
+  ]
+}
