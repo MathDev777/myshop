@@ -151,67 +151,6 @@
         "input_text_color": ""
       }
     },
-    "text_with_icons_ibTanB": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_zixXqg": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Le confort d’une seule couture",
-            "content": "<p>Une coupe fluide qui épouse chaque courbe sans marquer la peau. Zéro gêne, 100 % liberté de mouvement.</p>"
-          }
-        },
-        "item_qGDtg3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Finition parfaite, zéro sur-épaisseur et respirant",
-            "content": "<p>Invisible sous les vêtements, sans plis ni démarcations. L’élégance jusqu’au détail.</p>"
-          }
-        },
-        "item_8eK9Lc": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Ceinture gainante & intérieur doux",
-            "content": "<p>Maintien parfait, douceur cocooning. Tes collants tiennent en place tout en te caressant la peau.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_zixXqg",
-        "item_qGDtg3",
-        "item_8eK9Lc"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "media_with_text_wBWy6W": {
       "type": "media-with-text",
       "blocks": {
@@ -275,7 +214,7 @@
       "type": "ss-payment-icons",
       "name": "SS - Payment icons",
       "settings": {
-        "payment_position": "above_buy",
+        "payment_position": "below_buy",
         "use_payments_store": true,
         "payment_title": "✔ Garantie satisfait ou remboursé sous 30 jours",
         "text_size": 12,
@@ -357,18 +296,18 @@
         "dots_show_mobile": true,
         "stars_color": "#121212",
         "text_color": "#121212",
-        "verification_icon_bg_color": "#31B211",
-        "verification_icon_color": "#FFFFFF",
+        "verification_icon_bg_color": "#31b211",
+        "verification_icon_color": "#ffffff",
         "author_color": "#121212",
         "image_border_color": "#121212",
-        "review_bg_color": "#F7F7F7",
-        "review_border_color": "#E6E6E6",
-        "arrow_color": "#7B7B7B",
-        "arrow_hover_color": "#7B7B7B",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
-        "arrow_border_color": "#EAEAEA",
-        "arrow_border_hover_color": "#C7C7C7",
+        "review_bg_color": "#f7f7f7",
+        "review_border_color": "#e6e6e6",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#eaeaea",
+        "arrow_border_hover_color": "#c7c7c7",
         "dots_color": "#121212",
         "background_color": "",
         "background_gradient": "",
@@ -492,31 +431,31 @@
         "modal_text_align_mobile": "center",
         "modal_text_mt": 16,
         "modal_text_mt_mobile": 16,
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
         "video_overlay_color": "#000000",
         "card_shadow_color": "#000000",
-        "icon_color": "#FFFFFF",
+        "icon_color": "#ffffff",
         "icon_bg_color": "#000000",
-        "icon_border_color": "#FFFFFF",
+        "icon_border_color": "#ffffff",
         "arrow_icon_color": "#1c1c1c",
         "arrow_icon_hover_color": "#1c1c1c",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
         "arrow_border_color": "#000000",
         "arrow_border_hover_color": "#000000",
         "modal_heading_color": "#000000",
         "modal_text_color": "#000000",
-        "modal_content_bg_color": "#FFFFFF",
+        "modal_content_bg_color": "#ffffff",
         "modal_border_color": "#000000",
         "modal_overlay_color": "#000000",
-        "modal_bg_color": "#FFFFFF",
+        "modal_bg_color": "#ffffff",
         "modal_video_border_color": "#000000",
-        "buttons_icon_color": "#FFFFFF",
-        "buttons_bg_color": "#FFFFFF",
+        "buttons_icon_color": "#ffffff",
+        "buttons_bg_color": "#ffffff",
         "buttons_border_color": "#000000",
-        "close_icon_color": "#FFFFFF",
-        "close_bg_color": "#FFFFFF",
+        "close_icon_color": "#ffffff",
+        "close_bg_color": "#ffffff",
         "close_border_color": "#000000",
         "heading_color": "#000000",
         "background_color": "",
@@ -531,14 +470,67 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "faq_GFYPnX": {
+      "type": "faq",
+      "blocks": {
+        "item_7XKjRX": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_XBiiD4": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_cBjHYQ": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7XKjRX",
+        "item_XBiiD4",
+        "item_cBjHYQ"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "text_with_icons_ibTanB",
     "media_with_text_wBWy6W",
     "ss_payment_icons_hpppmC",
     "ss_product_reviews_3_RJtrEE",
-    "ss_product_vidoes_HW9ahB"
+    "ss_product_vidoes_HW9ahB",
+    "faq_GFYPnX"
   ]
 }
