@@ -22,15 +22,6 @@
             "menu_title": "Mentions légales"
           }
         },
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Inscrivez-vous pour profiter d'offres exclusives !",
-            "content": ""
-          }
-        },
         "links_V4JU7f": {
           "type": "links",
           "settings": {
@@ -39,20 +30,20 @@
             "menu_title": ""
           }
         },
-        "links_rn3Jfw": {
-          "type": "links",
+        "newsletter": {
+          "type": "newsletter",
           "settings": {
-            "menu": "",
-            "show_menu_title": true,
-            "menu_title": ""
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Inscrivez-vous pour profiter d'offres exclusives !",
+            "content": ""
           }
         }
       },
       "block_order": [
         "links_7Hngxe",
-        "newsletter",
         "links_V4JU7f",
-        "links_rn3Jfw"
+        "newsletter"
       ],
       "settings": {
         "show_social_media": true,
