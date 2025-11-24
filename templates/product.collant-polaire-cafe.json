@@ -111,7 +111,7 @@
         "liquid_nkakMF": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div id='ss-product-reviews-3'>"
           }
         },
         "liquid_TVViTh": {
