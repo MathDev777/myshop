@@ -12,16 +12,16 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
           }
         },
         "badges": {
@@ -64,6 +64,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_mEaQD4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -104,12 +110,6 @@
             "liquid": "<div id='ss-payment-icons'>"
           }
         },
-        "liquid_mEaQD4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
-          }
-        },
         "liquid_LWwAdP": {
           "type": "liquid",
           "settings": {
@@ -118,19 +118,19 @@
         }
       },
       "block_order": [
-        "rating",
         "title",
+        "rating",
         "badges",
         "price",
         "description",
         "variant_picker",
         "buy_buttons",
+        "liquid_mEaQD4",
         "payment_terms",
         "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
         "collapsible_text_wqMwHr",
         "liquid_UX9g6V",
-        "liquid_mEaQD4",
         "liquid_LWwAdP"
       ],
       "settings": {
