@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "links_7Hngxe": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": "Mentions légales"
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -34,13 +42,14 @@
         "links_rn3Jfw": {
           "type": "links",
           "settings": {
-            "menu": "menu-informations",
+            "menu": "",
             "show_menu_title": true,
             "menu_title": ""
           }
         }
       },
       "block_order": [
+        "links_7Hngxe",
         "newsletter",
         "links_V4JU7f",
         "links_rn3Jfw"
