@@ -271,7 +271,7 @@
           "settings": {
             "stars_count": 5,
             "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name"
+            "author": "Camille D."
           }
         }
       },
@@ -393,7 +393,7 @@
       "settings": {
         "videos_position": "above_description",
         "use_metafield": false,
-        "heading": "<h2>WHAT OUR FELLOWS SAY</h2>",
+        "heading": "<p>+2000 femmes déjà conquises</p>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 18,
