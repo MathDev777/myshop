@@ -105,7 +105,7 @@
         "liquid_khk3b7": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div id='ss-payment-icons'>"
           }
         },
         "liquid_nkakMF": {
@@ -379,19 +379,10 @@
             "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
             "author": "Author's name"
           }
-        },
-        "review_nFhcFF": {
-          "type": "review",
-          "settings": {
-            "stars_count": 5,
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name"
-          }
         }
       },
       "block_order": [
-        "review_UJwrqp",
-        "review_nFhcFF"
+        "review_UJwrqp"
       ],
       "name": "SS - Product reviews #3",
       "settings": {
@@ -474,31 +465,15 @@
     "ss_product_vidoes_HW9ahB": {
       "type": "ss-product-vidoes",
       "blocks": {
+        "video_xpPpia": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Heading</h4>",
+            "modal_text": "<p>Text</p>"
+          }
+        },
         "video_pMkLj7": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Heading</h4>",
-            "modal_text": "<p>Text</p>"
-          }
-        },
-        "video_bGeFxA": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Heading</h4>",
-            "modal_text": "<p>Text</p>"
-          }
-        },
-        "video_KtKMr4": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Heading</h4>",
-            "modal_text": "<p>Text</p>"
-          }
-        },
-        "video_YwergD": {
           "type": "video",
           "settings": {
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
@@ -516,10 +491,8 @@
         }
       },
       "block_order": [
+        "video_xpPpia",
         "video_pMkLj7",
-        "video_bGeFxA",
-        "video_KtKMr4",
-        "video_YwergD",
         "video_46D4qk"
       ],
       "name": "SS - Product videos",
