@@ -41,32 +41,6 @@
         "overlay_opacity": 0
       }
     },
-    "featured_collection_dgc9zV": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "nos-collants-polaires",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": true,
-        "products_count": 3,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Nos collants polaires",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "text_with_icons_NgnqKc": {
       "type": "text-with-icons",
       "blocks": {
@@ -216,7 +190,6 @@
   },
   "order": [
     "image_with_text_overlay_c9mgd9",
-    "featured_collection_dgc9zV",
     "text_with_icons_NgnqKc",
     "image_with_text_overlay_NQFYNj",
     "accordion_content_79WQ7g"
