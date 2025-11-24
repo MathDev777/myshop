@@ -494,12 +494,20 @@
             "title": "Comment sont taillées vos collants ?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
+        },
+        "item_XarVYa": {
+          "type": "item",
+          "settings": {
+            "title": "Si les collants ne me convient pas, puis-je l'échanger ?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
         }
       },
       "block_order": [
         "item_7XKjRX",
         "item_XBiiD4",
-        "item_cBjHYQ"
+        "item_cBjHYQ",
+        "item_XarVYa"
       ],
       "name": "FAQ",
       "settings": {
