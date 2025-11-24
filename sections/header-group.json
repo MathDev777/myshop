@@ -44,13 +44,13 @@
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
-        "cycle_speed": 6,
+        "cycle_speed": 4,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "header": {
