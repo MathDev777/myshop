@@ -57,10 +57,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -115,7 +111,6 @@
         "separator",
         "description",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "payment_terms",
         "collapsible_text_FXKLH9",
@@ -138,67 +133,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "text_with_icons_ibTanB": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_zixXqg": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Le confort d’une seule couture",
-            "content": "<p>Une coupe fluide qui épouse chaque courbe sans marquer la peau. Zéro gêne, 100 % liberté de mouvement.</p>"
-          }
-        },
-        "item_qGDtg3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Finition parfaite, zéro sur-épaisseur et respirant",
-            "content": "<p>Invisible sous les vêtements, sans plis ni démarcations. L’élégance jusqu’au détail.</p>"
-          }
-        },
-        "item_8eK9Lc": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Ceinture gainante & intérieur doux",
-            "content": "<p>Maintien parfait, douceur cocooning. Tes collants tiennent en place tout en te caressant la peau.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_zixXqg",
-        "item_qGDtg3",
-        "item_8eK9Lc"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "media_with_text_wBWy6W": {
@@ -259,11 +193,64 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "faq_hdJ94c": {
+      "type": "faq",
+      "blocks": {
+        "item_LDQHbP": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_7AdTW7": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_3JAyxP": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_LDQHbP",
+        "item_7AdTW7",
+        "item_3JAyxP"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "text_with_icons_ibTanB",
-    "media_with_text_wBWy6W"
+    "media_with_text_wBWy6W",
+    "faq_hdJ94c"
   ]
 }
