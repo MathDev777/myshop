@@ -186,12 +186,88 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "text_with_icons_7TJcWp": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_rJezGT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Livraison offerte",
+            "content": "<p>Livraison offerte dès 40 € d'achat</p>"
+          }
+        },
+        "item_ty8bqb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Expédié en 48H",
+            "content": "<p>Toutes nos commandes sont expédiées sous 2 jours ouvrés</p>"
+          }
+        },
+        "item_fBwd6T": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Satisfait ou remboursé !",
+            "content": "<p>Vous disposez de 30 jours pour retourner le produit !</p>"
+          }
+        },
+        "item_T8Fcwd": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-recycle",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Mode responsable",
+            "content": "<p>Nos fournisseurs sont engagés dans une démarche éco-responsable.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_rJezGT",
+        "item_ty8bqb",
+        "item_fBwd6T",
+        "item_T8Fcwd"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_c9mgd9",
     "text_with_icons_NgnqKc",
     "image_with_text_overlay_NQFYNj",
-    "accordion_content_79WQ7g"
+    "accordion_content_79WQ7g",
+    "text_with_icons_7TJcWp"
   ]
 }
