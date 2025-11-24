@@ -34,10 +34,6 @@
             "show_taxes_notice": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -51,7 +47,7 @@
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
-            "selector_style": "dropdown",
+            "selector_style": "block",
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
@@ -65,7 +61,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
-            "show_gift_card_recipient": true,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -105,6 +101,24 @@
             "content": "<p><strong>Livraison gratuite</strong> en France métropolitaine.</p><h4>Livraison standard (France)</h4><p>La livraison est assurée sous <strong>4 à 6 jours ouvrés</strong> à partir de la <strong>confirmation de votre commande</strong>.<br/><br/>Dès l’expédition, vous recevrez un e-mail de suivi afin de suivre l’avancement de votre colis en temps réel.</p><h4>Retours & échanges</h4><p>Vous disposez de <strong>30 jours après réception</strong> pour nous retourner un article s’il ne vous convient pas.<br/><br/>Les retours sont <strong>gratuits en France métropolitaine</strong> et donnent lieu à un <strong>remboursement ou un avoir</strong>, selon votre préférence.</p>",
             "page": ""
           }
+        },
+        "liquid_khk3b7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "liquid_nkakMF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "liquid_TVViTh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         }
       },
       "block_order": [
@@ -112,7 +126,6 @@
         "title",
         "badges",
         "price",
-        "separator",
         "description",
         "variant_picker",
         "quantity_selector",
@@ -120,7 +133,10 @@
         "payment_terms",
         "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
-        "collapsible_text_wqMwHr"
+        "collapsible_text_wqMwHr",
+        "liquid_khk3b7",
+        "liquid_nkakMF",
+        "liquid_TVViTh"
       ],
       "settings": {
         "full_width": true,
