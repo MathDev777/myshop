@@ -64,6 +64,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_UX9g6V": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-payment-icons'>"
+          }
+        },
         "liquid_mEaQD4": {
           "type": "liquid",
           "settings": {
@@ -104,12 +110,6 @@
             "page": ""
           }
         },
-        "liquid_UX9g6V": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-payment-icons'>"
-          }
-        },
         "liquid_LWwAdP": {
           "type": "liquid",
           "settings": {
@@ -125,12 +125,12 @@
         "description",
         "variant_picker",
         "buy_buttons",
+        "liquid_UX9g6V",
         "liquid_mEaQD4",
         "payment_terms",
         "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
         "collapsible_text_wqMwHr",
-        "liquid_UX9g6V",
         "liquid_LWwAdP"
       ],
       "settings": {
