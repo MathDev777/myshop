@@ -73,7 +73,7 @@
         "liquid_mEaQD4": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div id='ss-product-videos'>"
           }
         },
         "payment_terms": {
@@ -382,30 +382,12 @@
             "modal_heading": "<h4>Heading</h4>",
             "modal_text": "<p>Text</p>"
           }
-        },
-        "video_D3qLmb": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Heading</h4>",
-            "modal_text": "<p>Text</p>"
-          }
-        },
-        "video_W6RmtY": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Heading</h4>",
-            "modal_text": "<p>Text</p>"
-          }
         }
       },
       "block_order": [
         "video_AYyapC",
         "video_z6WjKQ",
-        "video_7pktLt",
-        "video_D3qLmb",
-        "video_W6RmtY"
+        "video_7pktLt"
       ],
       "name": "SS - Product videos",
       "settings": {
