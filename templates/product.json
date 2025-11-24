@@ -532,8 +532,8 @@
       "settings": {
         "payment_position": "below_buy",
         "use_payments_store": true,
-        "payment_title": "Safe payment on our website",
-        "text_size": 16,
+        "payment_title": "Garantie satisfait ou remboursé sous 30 jours",
+        "text_size": 12,
         "color": "#000000",
         "icon_size": 60,
         "icon_size_mobile": 60,
