@@ -45,10 +45,10 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "nos-collants-polaires",
         "products": [],
         "full_width": true,
-        "stack_products": false,
+        "stack_products": true,
         "show_progress_bar": true,
         "products_count": 3,
         "products_per_row_mobile": "1",
