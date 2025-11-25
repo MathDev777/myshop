@@ -525,11 +525,48 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "impact_text_WmWjxg": {
+      "type": "impact-text",
+      "blocks": {
+        "item_kmfHNg": {
+          "type": "item",
+          "settings": {
+            "title": "97%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "Ajouter au panier",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_kmfHNg"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "media_with_text_wBWy6W",
+    "impact_text_WmWjxg",
     "ss_product_reviews_3_FpdgyW",
     "ss_payment_icons_JEExdq",
     "text_with_icons_KzRLbj"
