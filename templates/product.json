@@ -218,7 +218,8 @@
           "settings": {
             "stars_count": 5,
             "text": "<p>Sous robe pull + bottes = tombé net, pas de plis aux chevilles 👌</p>",
-            "author": "Sarah B."
+            "author": "Sarah B.",
+            "image": "shopify://shop_images/Avis_1_Collant_Polaire.jpg"
           }
         },
         "review_wFXrxX": {
@@ -226,7 +227,8 @@
           "settings": {
             "stars_count": 5,
             "text": "<p>Frileuse de base et c’est top : chaud dehors, pas étouffant dedans. Texture ultra douce, ça glisse sous une jupe, rien qui gratte. 🧸</p>",
-            "author": "Camille D."
+            "author": "Camille D.",
+            "image": "shopify://shop_images/Avis_2_Collant_Polaire.jpg"
           }
         }
       },
