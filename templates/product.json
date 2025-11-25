@@ -79,8 +79,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Détails produits",
-            "content": "<p>Restez au chaud, confortable et stylée lorsque les températures baissent grâce à nos collants effet voile doublés polaire.</p><p>À l’extérieur, ces collants paraissent fins et délicats, reflétant naturellement votre carnation. Ils sont proposés en trois teintes flatteuses : Clair/Noir Transparent, Bronzé/Noir Transparent et Foncé/Noir Transparent.<br/><br/>À l’intérieur, ils sont en réalité opaques, avec une <strong>doublure douce en polaire</strong> qui conserve la chaleur pour affronter le froid avec confiance.</p><p>Affinants et isolants, ils offrent une <strong>compression confortable</strong>, un <strong>effet galbant</strong> et une <strong>ceinture gainante haute</strong>, tout en gardant un effet translucide naturel — la doublure reste votre petit secret.<br/><br/>De plus, ils sont <strong>100 % résistants aux accros, aux déchirures et aux trous</strong>, grâce à une matière <strong>ultra-extensible</strong> qui ne vous laissera jamais tomber.</p>",
+            "title": "Comment choisir ma pointure ?",
+            "content": "<p><strong>Et si ma pointure est plus petite que votre plus petite taille ?</strong></p><p>Pas d'inquiétude ! Commandez simplement notre plus petite taille : vous pourrez la découper facilement en suivant les repères situés à l’arrière des semelles pour un ajustement parfait.</p><p><strong>Je suis entre deux tailles, laquelle choisir ?</strong></p><p>Nous vous recommandons de toujours choisir la <strong>taille supérieure</strong>. Les semelles sont conçues pour être ajustées : il suffit de les découper selon les repères pour qu'elles s’adaptent parfaitement à vos chaussures.</p><p><strong>Un ajustement simple et précis</strong><br/>Nos semelles sont <strong>flexibles, </strong>découplables<strong> et pensées pour s’adapter à chaque pied</strong>.<br/><br/>Simple. Ajustable. Conçues pour vous aller parfaitement.</p>",
             "page": ""
           }
         },
@@ -90,7 +90,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Composition & entretien",
-            "content": "<h4>Composition</h4><p>44 % polyester – 41,2 % nylon – 14,4 % spandex</p><p>Cette combinaison offre <strong>un ajustement parfait</strong>, une <strong>grande durabilité</strong> et un <strong>toucher incroyablement doux</strong> sur la peau. Les collants Maison Sidonie épousent la silhouette avec confort et élégance, tout en conservant leur forme au fil du temps.</p><h4>Conseils d’entretien</h4><p>Pour préserver la douceur et l’élasticité de vos collants, nous vous recommandons de :</p><ul><li>Les <strong>laver en machine à 30 °C</strong>, sur un <strong>cycle délicat</strong> ou dans un <strong>filet de lavage</strong>.</li><li><strong>Éviter la javel et le sèche-linge.</strong></li><li><strong>Faire sécher à l’air libre</strong>, à plat si possible.</li><li><strong>Ne pas repasser.</strong></li></ul><p>Grâce à cette attention, vos collants resteront <strong>souples, doux et parfaitement ajustés</strong>, lavage après lavage.</p>",
+            "content": "",
             "page": ""
           }
         },
@@ -157,7 +157,6 @@
         "image_T8CMtN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Image_benefice.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-end-start text-start",
@@ -179,7 +178,6 @@
         "image_YKYf3N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Image_benefice_2.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-end-start text-start",
@@ -218,8 +216,7 @@
           "settings": {
             "stars_count": 5,
             "text": "<p>Sous robe pull + bottes = tombé net, pas de plis aux chevilles 👌</p>",
-            "author": "Sarah B.",
-            "image": "shopify://shop_images/Avis_1_Collant_Polaire.jpg"
+            "author": "Sarah B."
           }
         },
         "review_wFXrxX": {
@@ -227,8 +224,7 @@
           "settings": {
             "stars_count": 5,
             "text": "<p>Frileuse de base et c’est top : chaud dehors, pas étouffant dedans. Texture ultra douce, ça glisse sous une jupe, rien qui gratte. 🧸</p>",
-            "author": "Camille D.",
-            "image": "shopify://shop_images/Avis_2_Collant_Polaire.jpg"
+            "author": "Camille D."
           }
         }
       },
