@@ -634,14 +634,14 @@
         "item_PBKJeB": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
+            "icon": "picto-box",
+            "mobile_icon_width": 36,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "title": "Expédié en 48h",
+            "content": "<p>Toutes nos commandes sont expédiées sous 2 jours ouvrés</p>"
           }
         },
         "item_L66MTf": {
