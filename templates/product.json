@@ -360,11 +360,20 @@
             "text": "<p>De l'argent bien dépensé ! Bien moins chères que les semelles vendues par les médecins, pour le même résultat...</p>",
             "author": "Mathieu D."
           }
+        },
+        "review_jxcqqp": {
+          "type": "review",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>Pour moi qui suis infirmière et qui reste debout toute la journée, c'est un produit tout simplement parfait !</p>",
+            "author": "Camille F."
+          }
         }
       },
       "block_order": [
         "review_eGnCfG",
-        "review_wFXrxX"
+        "review_wFXrxX",
+        "review_jxcqqp"
       ],
       "name": "SS - Product reviews #3",
       "settings": {
