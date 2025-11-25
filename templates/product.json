@@ -199,6 +199,21 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_L4d6e7": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "media_with_text_wBWy6W": {
       "type": "media-with-text",
       "blocks": {
@@ -248,6 +263,77 @@
       "block_order": [
         "image_T8CMtN",
         "image_YKYf3N"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "impact_text_WmWjxg": {
+      "type": "impact-text",
+      "blocks": {
+        "item_kmfHNg": {
+          "type": "item",
+          "settings": {
+            "title": "97%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "Ajouter au panier",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_kmfHNg"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "media_with_text_7T7dcQ": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_n6wwdK": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-end-start text-start",
+            "icon": "none",
+            "icon_width": 52,
+            "subheading": "La semelle N°1",
+            "title": "Marchez sur un nuages",
+            "content": "<p>Fini les pieds en feu à la fin de la journée. Footiz <strong>soulage, amortit et soutient</strong>. Essayez-les. Vos pieds ne voudront plus rien d’autre.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_n6wwdK"
       ],
       "name": "Media with text",
       "settings": {
@@ -525,48 +611,14 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "impact_text_WmWjxg": {
-      "type": "impact-text",
-      "blocks": {
-        "item_kmfHNg": {
-          "type": "item",
-          "settings": {
-            "title": "97%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "Ajouter au panier",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_kmfHNg"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
     "main",
+    "image_with_text_overlay_L4d6e7",
     "media_with_text_wBWy6W",
     "impact_text_WmWjxg",
+    "media_with_text_7T7dcQ",
     "ss_product_reviews_3_FpdgyW",
     "ss_payment_icons_JEExdq",
     "text_with_icons_KzRLbj"
