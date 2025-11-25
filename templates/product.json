@@ -70,6 +70,12 @@
             "liquid": "<div id='ss-payment-icons'>"
           }
         },
+        "liquid_LWwAdP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-reviews-3'>"
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -153,12 +159,6 @@
             "content": "<p>Oui ! Nous sommes convaincus que vous allez adorer le confort des<strong>Footiz</strong>.<br/>C’est pourquoi nous offrons une<strong>garantie 100 % satisfait ou remboursé pendant 90 jours</strong>.<br/><br/>Si vous n’êtes pas entièrement satisfait, il vous suffit de nous envoyer un email à<a><strong>contact@footiz.com</strong></a>et nous traiterons votre remboursement rapidement.</p>",
             "page": ""
           }
-        },
-        "liquid_LWwAdP": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-reviews-3'>"
-          }
         }
       },
       "block_order": [
@@ -170,6 +170,7 @@
         "variant_picker",
         "buy_buttons",
         "liquid_UX9g6V",
+        "liquid_LWwAdP",
         "payment_terms",
         "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
@@ -178,8 +179,7 @@
         "collapsible_text_9UC7eH",
         "collapsible_text_FeAeyb",
         "collapsible_text_taN4wi",
-        "collapsible_text_igpb3e",
-        "liquid_LWwAdP"
+        "collapsible_text_igpb3e"
       ],
       "settings": {
         "full_width": true,
@@ -231,9 +231,9 @@
             "text_position": "place-self-end-start text-start",
             "icon": "none",
             "icon_width": 52,
-            "subheading": "Teinte & maintien",
-            "title": "Couleur peau réaliste Ceinture qui ne bouge pas",
-            "content": "<p>Une <strong>teinte naturelle</strong>, uniforme et crédible — sans sous-tons jaunes ni marbrures. Le tombé est net (anti-statique), et l’<strong>élasticité </strong>du nylon reste douce et résistante au fil des lavages.</p><p>Couleur <strong>peau</strong> fidèle, fini élégant et réaliste</p><p>Transparence <strong>homogène</strong> : zéro marbrure, pas de zones plus claires</p><p><strong>Anti-statique</strong> : ne colle pas à la jupe, tombé net</p><p><strong>Pied renforcé</strong> : limite les déchirures aux orteils</p><p>Ceinture <strong>gainante & stable</strong> : affine sans comprimer</p><p>Élasticité qui <strong>dure</strong> : forme préservée lavage après lavage</p>",
+            "subheading": "Confort & maintien",
+            "title": "La différence Footiz",
+            "content": "<p>Soutien de la voûte plantaire, absorption des chocs, maintien parfait. Footiz change vraiment la donne pour vos pieds. Testez-les, la différence est scientifique.</p>",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
