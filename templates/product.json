@@ -124,6 +124,36 @@
             "page": ""
           }
         },
+        "collapsible_text_FeAeyb": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Quelle durée de vie ?",
+            "content": "<p>Les <strong>Footiz sont conçues pour durer</strong>!<br/>Avec un bon entretien, elles vous offriront confort et soutien pendant <strong>plus de 12 mois</strong>.<br/>Pour prolonger leur durée de vie, il suffit de les <strong>laver à la main régulièrement</strong>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_taN4wi": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison et expédition",
+            "content": "<p>Profitez d'un envoi gratuit dès 40€ d'achat vers toute l'Europe, avec un temps de livraison compris <strong>entre 2 et 4 jours ouvrés.</strong></p><p>Un numéro de suivi vous sera communiqué à la validation de votre commande.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_igpb3e": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Retours et remboursements",
+            "content": "<p>Oui ! Nous sommes convaincus que vous allez adorer le confort des<strong>Footiz</strong>.<br/>C’est pourquoi nous offrons une<strong>garantie 100 % satisfait ou remboursé pendant 90 jours</strong>.<br/><br/>Si vous n’êtes pas entièrement satisfait, il vous suffit de nous envoyer un email à<a><strong>contact@footiz.com</strong></a>et nous traiterons votre remboursement rapidement.</p>",
+            "page": ""
+          }
+        },
         "liquid_LWwAdP": {
           "type": "liquid",
           "settings": {
@@ -152,6 +182,9 @@
         "collapsible_text_wqMwHr",
         "collapsible_text_AFmHiP",
         "collapsible_text_9UC7eH",
+        "collapsible_text_FeAeyb",
+        "collapsible_text_taN4wi",
+        "collapsible_text_igpb3e",
         "liquid_LWwAdP",
         "liquid_mEaQD4"
       ],
