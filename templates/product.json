@@ -104,6 +104,26 @@
             "page": ""
           }
         },
+        "collapsible_text_AFmHiP": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Contre les douleurs aux pieds ?",
+            "content": "<p>Oui, les semelles Footiz <strong>soulagent efficacement plusieurs affections du pied</strong>, comme la <strong>fasciite plantaire</strong>, les <strong>douleurs à la voûte plantaire</strong>, les <strong>douleurs au talon </strong>ou la <strong>métatarsalgie</strong>.<br/><br/>Elles offrent un <strong>soutien renforcé </strong>et un <strong>amorti supérieur </strong>pour réduire l’inconfort et améliorer la santé globale de vos pieds.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_9UC7eH": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Adaptés au sport ?",
+            "content": "<p>Absolument ! <strong>Footiz </strong>est conçu pour <strong>absorber les chocs </strong>et offrir un <strong>soutien optimal</strong>, ce qui les rend parfaites pour les activités sportives.<br/><br/>Elles améliorent le confort, réduisent la fatigue et aident à <strong>prévenir les douleurs </strong>pendant l’effort.</p>",
+            "page": ""
+          }
+        },
         "liquid_LWwAdP": {
           "type": "liquid",
           "settings": {
@@ -130,6 +150,8 @@
         "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
         "collapsible_text_wqMwHr",
+        "collapsible_text_AFmHiP",
+        "collapsible_text_9UC7eH",
         "liquid_LWwAdP",
         "liquid_mEaQD4"
       ],
