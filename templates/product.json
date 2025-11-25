@@ -251,7 +251,7 @@
         "review_border_thickness": 1,
         "image_width": 100,
         "image_width_mobile": 60,
-        "image_radius": 100,
+        "image_radius": 18,
         "image_border_thickness": 0,
         "stars_size": 14,
         "stars_size_mobile": 14,
