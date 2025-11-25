@@ -213,6 +213,14 @@
     "ss_product_reviews_3_FpdgyW": {
       "type": "ss-product-reviews-3",
       "blocks": {
+        "review_eGnCfG": {
+          "type": "review",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>Sous robe pull + bottes = tombé net, pas de plis aux chevilles 👌</p>",
+            "author": "Sarah B."
+          }
+        },
         "review_wFXrxX": {
           "type": "review",
           "settings": {
@@ -223,6 +231,7 @@
         }
       },
       "block_order": [
+        "review_eGnCfG",
         "review_wFXrxX"
       ],
       "name": "SS - Product reviews #3",
