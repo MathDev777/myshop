@@ -133,8 +133,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Quel est le délai d'expédition des produits ?",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Livraison & expédition",
+            "content": "<p>Profitez d'un envoi gratuit dès 40€ d'achat vers toute l'Europe, avec un temps de livraison compris <strong>entre 2 et 4 jours ouvrés.</strong></p><p>Un numéro de suivi vous sera communiqué à la validation de votre commande.</p>",
             "page": ""
           }
         },
@@ -143,37 +143,15 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "La livraison est-elle gratuite ?",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
-        },
-        "item_jHPCqJ": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Comment sont taillées vos collants ?",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
-        },
-        "item_RMaTBD": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Si les collants ne me convient pas, puis-je l'échanger ?",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Retours & remboursements",
+            "content": "<p>Oui ! Nous sommes convaincus que vous allez adorer le confort des <strong>Footiz</strong>.<br/>C’est pourquoi nous offrons une <strong>garantie 100 % satisfait ou remboursé pendant 90 jours</strong>.<br/><br/>Si vous n’êtes pas entièrement satisfait, il vous suffit de nous envoyer un email à <strong>contact@footiz.com </strong>et nous traiterons votre remboursement rapidement.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "item_eeUrzj",
-        "item_K6CkEJ",
-        "item_jHPCqJ",
-        "item_RMaTBD"
+        "item_K6CkEJ"
       ],
       "name": "Accordion content",
       "settings": {
