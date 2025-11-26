@@ -81,16 +81,6 @@
           "type": "payment_terms",
           "settings": {}
         },
-        "collapsible_text_FXKLH9": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Comment choisir ma pointure ?",
-            "content": "<p><strong>Et si ma pointure est plus petite que votre plus petite taille ?</strong></p><p>Pas d'inquiétude ! Commandez simplement notre plus petite taille : vous pourrez la découper facilement en suivant les repères situés à l’arrière des semelles pour un ajustement parfait.</p><p><strong>Je suis entre deux tailles, laquelle choisir ?</strong></p><p>Nous vous recommandons de toujours choisir la <strong>taille supérieure</strong>. Les semelles sont conçues pour être ajustées : il suffit de les découper selon les repères pour qu'elles s’adaptent parfaitement à vos chaussures.</p><p><strong>Un ajustement simple et précis</strong><br/>Nos semelles sont <strong>flexibles, </strong>découplables<strong> et pensées pour s’adapter à chaque pied</strong>.<br/><br/>Simple. Ajustable. Conçues pour vous aller parfaitement.</p>",
-            "page": ""
-          }
-        },
         "collapsible_text_MefjR4": {
           "type": "collapsible_text",
           "settings": {
@@ -98,46 +88,6 @@
             "icon_width": 20,
             "title": "Composition & entretien",
             "content": "",
-            "page": ""
-          }
-        },
-        "collapsible_text_wqMwHr": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Mes chaussures seront serrées ?",
-            "content": "<p>Non, pas du tout. Les semelles <strong>Footiz sont conçues pour offrir confort et soutien </strong>sans comprimer vos orteils.<br/><br/>Leur design ergonomique permet aux semelles d’<strong>épouser la forme naturelle de votre pied</strong>, assurant ainsi un <strong>ajustement confortable et sans pression </strong>dans vos chaussures.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_AFmHiP": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Contre les douleurs aux pieds ?",
-            "content": "<p>Oui, les semelles Footiz <strong>soulagent efficacement plusieurs affections du pied</strong>, comme la <strong>fasciite plantaire</strong>, les <strong>douleurs à la voûte plantaire</strong>, les <strong>douleurs au talon </strong>ou la <strong>métatarsalgie</strong>.<br/><br/>Elles offrent un <strong>soutien renforcé </strong>et un <strong>amorti supérieur </strong>pour réduire l’inconfort et améliorer la santé globale de vos pieds.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_9UC7eH": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Adaptés au sport ?",
-            "content": "<p>Absolument ! <strong>Footiz </strong>est conçu pour <strong>absorber les chocs </strong>et offrir un <strong>soutien optimal</strong>, ce qui les rend parfaites pour les activités sportives.<br/><br/>Elles améliorent le confort, réduisent la fatigue et aident à <strong>prévenir les douleurs </strong>pendant l’effort.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_FeAeyb": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Quelle durée de vie ?",
-            "content": "<p>Les <strong>Footiz sont conçues pour durer</strong>!<br/>Avec un bon entretien, elles vous offriront confort et soutien pendant <strong>plus de 12 mois</strong>.<br/>Pour prolonger leur durée de vie, il suffit de les <strong>laver à la main régulièrement</strong>.</p>",
             "page": ""
           }
         },
@@ -157,7 +107,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Retours & remboursements",
-            "content": "<p>Oui ! Nous sommes convaincus que vous allez adorer le confort des<strong>Footiz</strong>.<br/>C’est pourquoi nous offrons une<strong>garantie 100 % satisfait ou remboursé pendant 90 jours</strong>.<br/><br/>Si vous n’êtes pas entièrement satisfait, il vous suffit de nous envoyer un email à<a><strong>contact@footiz.com</strong></a>et nous traiterons votre remboursement rapidement.</p>",
+            "content": "<p>Oui ! Nous sommes convaincus que vous allez adorer le confort de nos semelles.<br/>C’est pourquoi nous offrons une <strong>garantie 100 % satisfait ou remboursé pendant 30 jours</strong>.<br/><br/>Si vous n’êtes pas entièrement satisfait, il vous suffit de nous envoyer un email à ..... et nous traiterons votre remboursement rapidement.</p>",
             "page": ""
           }
         }
@@ -173,12 +123,7 @@
         "liquid_UX9g6V",
         "liquid_LWwAdP",
         "payment_terms",
-        "collapsible_text_FXKLH9",
         "collapsible_text_MefjR4",
-        "collapsible_text_wqMwHr",
-        "collapsible_text_AFmHiP",
-        "collapsible_text_9UC7eH",
-        "collapsible_text_FeAeyb",
         "collapsible_text_taN4wi",
         "collapsible_text_igpb3e"
       ],
@@ -328,8 +273,8 @@
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 52,
-            "subheading": "Recommandé par les professionnels",
-            "title": "Dr Edouard BRET – Podologue",
+            "subheading": "Recommandé par les podologues",
+            "title": "Dr Edouard Bret",
             "content": "<p>En tant que podologue spécialiste dans le traitement de pieds plats ou de fasciite plantaire, je recommande les semelles Footiz. Leur design unique soulage la voûte plantaire, répartit la pression et réduit la tension sur le fascia plantaire. Avec une utilisation régulière, les patients constatent une nette amélioration de leurs symptômes. Je recommande Footiz en toute confiance comme élément essentiel pour vos chaussures.</p>",
             "link_text": "",
             "link_url": "",
