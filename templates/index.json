@@ -235,6 +235,16 @@
             "page": ""
           }
         },
+        "item_CAGEEj": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Faut-il retirer les semelles d’origine de mes chaussures ?",
+            "content": "<p>Dans la plupart des cas, oui. Cela permet d’assurer un ajustement parfait et d’éviter que la chaussure ne soit trop serrée.</p>",
+            "page": ""
+          }
+        },
         "item_fNAAKU": {
           "type": "item",
           "settings": {
@@ -361,6 +371,7 @@
         "item_VM66zJ",
         "item_PT8QHT",
         "item_bChUEX",
+        "item_CAGEEj",
         "item_fNAAKU",
         "item_bJwm7G",
         "item_Kyebbb",
