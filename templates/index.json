@@ -195,6 +195,146 @@
     "accordion_content_79WQ7g": {
       "type": "accordion-content",
       "blocks": {
+        "item_MGcHcA": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "À qui s’adressent ces semelles ?",
+            "content": "<p>Elles sont conçues pour les sportifs, les personnes qui marchent beaucoup, celles qui travaillent debout, et toute personne ressentant des douleurs aux pieds, aux talons ou aux jambes.</p>",
+            "page": ""
+          }
+        },
+        "item_VM66zJ": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Est-ce que les semelles soulagent vraiment la douleur ?",
+            "content": "<p>Oui. Elles réduisent les pressions excessives, stabilisent le talon et améliorent l’alignement du pied, ce qui diminue progressivement les douleurs liées à la marche, au sport ou à la station debout prolongée.</p>",
+            "page": ""
+          }
+        },
+        "item_PT8QHT": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Combien de temps faut-il pour sentir les effets ?",
+            "content": "<p>La plupart ressentent un soulagement dès les premiers jours. Pour un réalignement et un confort optimal, compte généralement 1 à 2 semaines d’utilisation régulière.</p>",
+            "page": ""
+          }
+        },
+        "item_bChUEX": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Puis-je les utiliser pour faire du sport ?",
+            "content": "<p>Absolument. Elles améliorent la stabilité, absorbent les chocs et réduisent les risques d’inflammation, ce qui les rend idéales pour la course, la musculation, le fitness ou les sports de terrain.</p>",
+            "page": ""
+          }
+        },
+        "item_fNAAKU": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "S’adaptent-elles à tous les types de chaussures ?",
+            "content": "<p>Oui. Elles sont fines et flexibles, ce qui permet de les utiliser dans la majorité des chaussures : baskets, chaussures de travail, bottes, chaussures du quotidien…</p>",
+            "page": ""
+          }
+        },
+        "item_bJwm7G": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Les semelles conviennent-elles aux pieds plats ou creux ?",
+            "content": "<p>Oui. Elles ont été pensées pour offrir un soutien équilibré et améliorer la posture du pied, quel que soit ton type de voûte plantaire.</p>",
+            "page": ""
+          }
+        },
+        "item_Kyebbb": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Est-ce que je peux les découper ?",
+            "content": "<p>Oui. Elles sont découplables afin de s’ajuster parfaitement à la taille de ta chaussure.</p>",
+            "page": ""
+          }
+        },
+        "item_XymcXQ": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Combien de temps durent les semelles ?",
+            "content": "<p>Selon l’utilisation, entre 6 et 12 mois. Les matériaux ont été choisis pour conserver leur densité et leur stabilité dans le temps.</p>",
+            "page": ""
+          }
+        },
+        "item_RjGG3Q": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Puis-je les laver ?",
+            "content": "<p>Oui. Un nettoyage à la main avec de l’eau tiède et un savon doux suffit. Laisse-les ensuite sécher à l’air libre.</p>",
+            "page": ""
+          }
+        },
+        "item_6BzYzr": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Les semelles peuvent-elles aider à corriger ma posture ?",
+            "content": "<p>Indirectement, oui. En stabilisant le talon et en améliorant l’alignement du pied, elles réduisent les tensions qui remontent vers les jambes, les genoux et la colonne.</p>",
+            "page": ""
+          }
+        },
+        "item_HPTP6t": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Recommandées en cas de fasciite plantaire ?",
+            "content": "<p>Elles peuvent soulager la douleur en diminuant la pression sur le talon et en supportant mieux le pied, mais ne remplacent pas un avis médical si la douleur est sévère.</p>",
+            "page": ""
+          }
+        },
+        "item_xmgEkW": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Je travaille debout toute la journée. Est-ce adapté ?",
+            "content": "<p>Oui. Elles sont spécialement conçues pour réduire la fatigue musculaire et absorber les chocs liés à de longues heures debout.</p>",
+            "page": ""
+          }
+        },
+        "item_KcbNzY": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Est-ce que les semelles glissent dans la chaussure ?",
+            "content": "<p>Non, la base est anti-dérapante pour rester parfaitement en place.</p>",
+            "page": ""
+          }
+        },
+        "item_kYMd8y": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Pourquoi ne pas acheter des semelles classiques en magasin ?",
+            "content": "<p>Elles utilisent des matériaux à densité variable et une conception pensée pour stabiliser le talon — un avantage que les semelles classiques n’ont pas.</p>",
+            "page": ""
+          }
+        },
         "item_eeUrzj": {
           "type": "item",
           "settings": {
@@ -217,6 +357,20 @@
         }
       },
       "block_order": [
+        "item_MGcHcA",
+        "item_VM66zJ",
+        "item_PT8QHT",
+        "item_bChUEX",
+        "item_fNAAKU",
+        "item_bJwm7G",
+        "item_Kyebbb",
+        "item_XymcXQ",
+        "item_RjGG3Q",
+        "item_6BzYzr",
+        "item_HPTP6t",
+        "item_xmgEkW",
+        "item_KcbNzY",
+        "item_kYMd8y",
         "item_eeUrzj",
         "item_K6CkEJ"
       ],
