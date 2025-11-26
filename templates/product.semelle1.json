@@ -297,6 +297,134 @@
         "spacing": "small"
       }
     },
+    "faq_wTFMqz": {
+      "type": "faq",
+      "blocks": {
+        "item_qNWYVQ": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_p496mi": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_kfR8LA": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qNWYVQ",
+        "item_p496mi",
+        "item_kfR8LA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Semelles de Confort & Réalignement</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Si vous avez plus de questions, une personne de l'équipe de ... est là pour vous répondre.",
+        "answer_time": "Notre service est disponible du lundi au vendredi de 8h à 16 à \"...........\"",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "text_with_icons_KzRLbj": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_Mxa7eR": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Livraison offerte",
+            "content": "<p>Livraison offerte dès 40 € d'achat</p>"
+          }
+        },
+        "item_PBKJeB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Expédié en 48h",
+            "content": "<p>Toutes nos commandes sont expédiées sous 2 jours ouvrés</p>"
+          }
+        },
+        "item_L66MTf": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Satisfait ou remboursé !",
+            "content": "<p>Vous disposez de 30 jours pour retourner le produit !</p>"
+          }
+        },
+        "item_HjKipj": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-recycle",
+            "mobile_icon_width": 36,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Mode responsable",
+            "content": "<p>Nos fournisseurs sont engagés dans une démarche éco-responsable.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Mxa7eR",
+        "item_PBKJeB",
+        "item_L66MTf",
+        "item_HjKipj"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ss_product_reviews_3_FpdgyW": {
       "type": "ss-product-reviews-3",
       "blocks": {
@@ -502,134 +630,6 @@
         "mt": 0,
         "mb": 2,
         "bg_color": ""
-      }
-    },
-    "text_with_icons_KzRLbj": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_Mxa7eR": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-truck",
-            "mobile_icon_width": 36,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Livraison offerte",
-            "content": "<p>Livraison offerte dès 40 € d'achat</p>"
-          }
-        },
-        "item_PBKJeB": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 36,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Expédié en 48h",
-            "content": "<p>Toutes nos commandes sont expédiées sous 2 jours ouvrés</p>"
-          }
-        },
-        "item_L66MTf": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-return",
-            "mobile_icon_width": 36,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Satisfait ou remboursé !",
-            "content": "<p>Vous disposez de 30 jours pour retourner le produit !</p>"
-          }
-        },
-        "item_HjKipj": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-recycle",
-            "mobile_icon_width": 36,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Mode responsable",
-            "content": "<p>Nos fournisseurs sont engagés dans une démarche éco-responsable.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_Mxa7eR",
-        "item_PBKJeB",
-        "item_L66MTf",
-        "item_HjKipj"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "faq_wTFMqz": {
-      "type": "faq",
-      "blocks": {
-        "item_qNWYVQ": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "item_p496mi": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "item_kfR8LA": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_qNWYVQ",
-        "item_p496mi",
-        "item_kfR8LA"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
       }
     }
   },
