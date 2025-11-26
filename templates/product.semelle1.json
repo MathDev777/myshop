@@ -386,7 +386,8 @@
           "settings": {
             "stars_count": 5,
             "text": "<p>De l'argent bien dépensé ! Bien moins chères que les semelles vendues par les médecins, pour le même résultat...</p>",
-            "author": "Mathieu D."
+            "author": "Mathieu D.",
+            "image": "shopify://shop_images/Avis_Image.png"
           }
         },
         "review_jxcqqp": {
@@ -394,7 +395,8 @@
           "settings": {
             "stars_count": 5,
             "text": "<p>Pour moi qui suis infirmière et qui reste debout toute la journée, c'est un produit tout simplement parfait !</p>",
-            "author": "Camille F."
+            "author": "Camille F.",
+            "image": "shopify://shop_images/Avis_Image_1.png"
           }
         }
       },
