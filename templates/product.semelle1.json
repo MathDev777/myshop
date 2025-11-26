@@ -309,8 +309,8 @@
           "type": "item",
           "settings": {
             "title": "97%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
+            "subheading": "",
+            "content": "<p><strong>des utilisateurs déclarent ressentir un confort immédiat et une réduction significative de la fatigue</strong> après avoir porté nos semelles au quotidien.<br/><br/>Grâce à leur conception ergonomique et leur technologie d’amorti avancée, elles transforment chaque pas en une sensation de légèreté — que vous soyez sportif, marcheur ou debout toute la journée.</p>",
             "button_text": "Ajouter au panier",
             "button_url": "",
             "animate_impact_text": true,
