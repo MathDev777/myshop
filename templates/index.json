@@ -389,11 +389,64 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Des questions ?",
-        "content": "<p>Si vous avez plus de questions, une personne de l'équipe de ... est là pour vous répondre.</p><p>Notre service est disponible du lundi au vendredi de 8h à 16 à \"...........\"</p>",
+        "title": "",
+        "content": "",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "faq_QwRPEB": {
+      "type": "faq",
+      "blocks": {
+        "item_PnGtz3": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_n36wfF": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_jktxkp": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_PnGtz3",
+        "item_n36wfF",
+        "item_jktxkp"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Semelles de Confort & Réalignement</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Si vous avez plus de questions, une personne de l'équipe de ... est là pour vous répondre.",
+        "answer_time": "Notre service est disponible du lundi au vendredi de 8h à 16 à \"...........\"",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -489,6 +542,7 @@
     "impact_text_g6Fgqf",
     "media_with_text_6dqTby",
     "accordion_content_79WQ7g",
+    "faq_QwRPEB",
     "text_with_icons_7TJcWp"
   ]
 }
