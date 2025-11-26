@@ -247,12 +247,40 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "before_after_image_BHXGF9": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/BeforeAfter_Ordinateur.png",
+        "before_image_mobile": "shopify://shop_images/BeforeAfter_Mobile.png",
+        "after_image": "shopify://shop_images/BeforeAfter_Ordinateur_1.png",
+        "after_image_mobile": "shopify://shop_images/BeforeAfter_Ordinateur_1.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
     }
   },
   "order": [
     "image_with_text_overlay_c9mgd9",
     "media_with_text_rQCGtX",
     "image_with_text_overlay_qggVCm",
+    "before_after_image_BHXGF9",
     "media_with_text_6dqTby",
     "accordion_content_79WQ7g",
     "text_with_icons_7TJcWp"
