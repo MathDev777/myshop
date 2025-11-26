@@ -200,48 +200,6 @@
         "input_text_color": ""
       }
     },
-    "image_with_text_overlay_L4d6e7": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "before_after_image_cWtyjQ": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Corrige la déviation du talon pour soulager l’effort",
-        "content": "<p><strong>des utilisateurs déclarent ressentir un confort immédiat et une réduction significative de la fatigue</strong> après avoir porté nos semelles au quotidien.<br/><br/>Grâce à leur conception ergonomique et leur technologie d’amorti avancée, elles transforment chaque pas en une sensation de légèreté — que vous soyez sportif, marcheur ou debout toute la journée.</p>",
-        "before_image": "shopify://shop_images/BeforeAfter_Ordinateur.png",
-        "before_image_mobile": "shopify://shop_images/BeforeAfter_Mobile.png",
-        "after_image": "shopify://shop_images/BeforeAfter_Ordinateur_1.png",
-        "after_image_mobile": "shopify://shop_images/BeforeAfter_Mobile_1.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "rgba(0,0,0,0)",
-        "before_text_color": "rgba(0,0,0,0)",
-        "after_text_color": "rgba(0,0,0,0)",
-        "drag_cursor_background": "rgba(0,0,0,0)",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "media_with_text_wBWy6W": {
       "type": "media-with-text",
       "blocks": {
@@ -268,38 +226,58 @@
             "button_background": "",
             "button_text_color": ""
           }
-        },
-        "image_YKYf3N": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 52,
-            "subheading": "Confort & maintien",
-            "title": "La différence Footiz",
-            "content": "<p>Soutien de la voûte plantaire, absorption des chocs, maintien parfait. Footiz change vraiment la donne pour vos pieds. Testez-les, la différence est scientifique.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "rgba(0,0,0,0)",
-            "background_gradient": "",
-            "text_color": "rgba(0,0,0,0)",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
         }
       },
       "block_order": [
-        "video_zQP8Nd",
-        "image_YKYf3N"
+        "video_zQP8Nd"
       ],
       "name": "Media with text",
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
+      }
+    },
+    "image_with_text_overlay_L4d6e7": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "before_after_image_cWtyjQ": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Réduit les douleurs en réalignant le talon",
+        "content": "<p>Le talon qui s’affaisse vers l’intérieur crée des tensions dans tout le pied.<br/><br/>Notre solution aide à stabiliser l’arrière-pied et à rétablir un axe plus droit, ce qui diminue les zones de surcharge et les douleurs associées.</p>",
+        "before_image": "shopify://shop_images/BeforeAfter_Ordinateur.png",
+        "before_image_mobile": "shopify://shop_images/BeforeAfter_Mobile.png",
+        "after_image": "shopify://shop_images/BeforeAfter_Ordinateur_1.png",
+        "after_image_mobile": "shopify://shop_images/BeforeAfter_Mobile_1.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "bottom",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "rgba(0,0,0,0)",
+        "before_text_color": "rgba(0,0,0,0)",
+        "after_text_color": "rgba(0,0,0,0)",
+        "drag_cursor_background": "rgba(0,0,0,0)",
+        "drag_cursor_color": "#000000"
       }
     },
     "impact_text_WmWjxg": {
@@ -659,9 +637,9 @@
   },
   "order": [
     "main",
+    "media_with_text_wBWy6W",
     "image_with_text_overlay_L4d6e7",
     "before_after_image_cWtyjQ",
-    "media_with_text_wBWy6W",
     "impact_text_WmWjxg",
     "media_with_text_7T7dcQ",
     "ss_product_reviews_3_FpdgyW",
