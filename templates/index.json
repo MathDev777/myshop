@@ -43,17 +43,20 @@
     "media_with_text_rQCGtX": {
       "type": "media-with-text",
       "blocks": {
-        "image_zizkLR": {
-          "type": "image",
+        "video_dffGrn": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/Gif Semelle.mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
             "media_width": 50,
             "media_position": "start",
-            "text_position": "place-self-center-start text-start",
+            "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
             "title": "Heading",
-            "content": "",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
@@ -66,7 +69,7 @@
         }
       },
       "block_order": [
-        "image_zizkLR"
+        "video_dffGrn"
       ],
       "name": "Media with text",
       "settings": {
@@ -96,8 +99,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Améliore la posture",
-        "content": "<p>Un bon soutien de la voûte plantaire aide à réaligner naturellement la colonne vertébrale.</p>",
+        "title": "Réduit les douleurs en réalignant le talon",
+        "content": "<p>Le talon qui s’affaisse vers l’intérieur crée des tensions dans tout le pied.<br/><br/>Notre solution aide à stabiliser l’arrière-pied et à rétablir un axe plus droit, ce qui diminue les zones de surcharge et les douleurs associées.</p>",
         "before_image": "shopify://shop_images/BeforeAfter_Ordinateur.png",
         "before_image_mobile": "shopify://shop_images/BeforeAfter_Mobile.png",
         "after_image": "shopify://shop_images/BeforeAfter_Ordinateur_1.png",
@@ -115,6 +118,42 @@
         "after_text_color": "rgba(0,0,0,0)",
         "drag_cursor_background": "rgba(0,0,0,0)",
         "drag_cursor_color": "#000000"
+      }
+    },
+    "impact_text_g6Fgqf": {
+      "type": "impact-text",
+      "blocks": {
+        "item_twXpqQ": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "",
+            "content": "<p><strong>des utilisateurs déclarent ressentir un confort immédiat et une réduction significative de la fatigue</strong> après avoir porté nos semelles au quotidien.<br/><br/>Grâce à leur conception ergonomique et leur technologie d’amorti avancée, elles transforment chaque pas en une sensation de légèreté — que vous soyez sportif, marcheur ou debout toute la journée.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_twXpqQ"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1.5,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "media_with_text_6dqTby": {
@@ -274,42 +313,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "impact_text_g6Fgqf": {
-      "type": "impact-text",
-      "blocks": {
-        "item_twXpqQ": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "",
-            "content": "<p><strong>des utilisateurs déclarent ressentir un confort immédiat et une réduction significative de la fatigue</strong> après avoir porté nos semelles au quotidien.<br/><br/>Grâce à leur conception ergonomique et leur technologie d’amorti avancée, elles transforment chaque pas en une sensation de légèreté — que vous soyez sportif, marcheur ou debout toute la journée.</p>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_twXpqQ"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1.5,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     }
   },
