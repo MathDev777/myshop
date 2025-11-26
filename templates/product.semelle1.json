@@ -340,6 +340,7 @@
         "image_n6wwdK": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Docteur.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
