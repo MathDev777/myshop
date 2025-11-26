@@ -275,6 +275,42 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "impact_text_g6Fgqf": {
+      "type": "impact-text",
+      "blocks": {
+        "item_twXpqQ": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "",
+            "content": "<p><strong>des utilisateurs déclarent ressentir un confort immédiat et une réduction significative de la fatigue</strong> après avoir porté nos semelles au quotidien.<br/><br/>Grâce à leur conception ergonomique et leur technologie d’amorti avancée, elles transforment chaque pas en une sensation de légèreté — que vous soyez sportif, marcheur ou debout toute la journée.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_twXpqQ"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1.5,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -282,6 +318,7 @@
     "media_with_text_rQCGtX",
     "image_with_text_overlay_qggVCm",
     "before_after_image_BHXGF9",
+    "impact_text_g6Fgqf",
     "media_with_text_6dqTby",
     "accordion_content_79WQ7g",
     "text_with_icons_7TJcWp"
