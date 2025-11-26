@@ -222,6 +222,8 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "before_image_mobile": "shopify://shop_images/BeforeAfter_Mobile.png",
+        "after_image_mobile": "shopify://shop_images/BeforeAfter_Mobile.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
