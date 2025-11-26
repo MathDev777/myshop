@@ -244,16 +244,19 @@
     "media_with_text_wBWy6W": {
       "type": "media-with-text",
       "blocks": {
-        "image_T8CMtN": {
-          "type": "image",
+        "video_zQP8Nd": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/Gif Semelle.mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
-            "icon_width": 52,
-            "subheading": "La semelle N°1",
-            "title": "Marchez sur un nuages",
+            "icon_width": 48,
+            "subheading": "Semelle N°1 en Europe",
+            "title": "Comme sur un nuage",
             "content": "<p>Fini les pieds en feu à la fin de la journée. Footiz <strong>soulage, amortit et soutient</strong>. Essayez-les. Vos pieds ne voudront plus rien d’autre.</p>",
             "link_text": "",
             "link_url": "",
@@ -270,7 +273,7 @@
           "settings": {
             "media_width": 50,
             "media_position": "end",
-            "text_position": "place-self-center-end text-end",
+            "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 52,
             "subheading": "Confort & maintien",
@@ -288,7 +291,7 @@
         }
       },
       "block_order": [
-        "image_T8CMtN",
+        "video_zQP8Nd",
         "image_YKYf3N"
       ],
       "name": "Media with text",
