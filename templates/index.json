@@ -168,8 +168,8 @@
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "Recommandé par les professionnels",
-            "title": "Dr Edouard BRET – Podologue",
+            "subheading": "Recommandé par les podologues",
+            "title": "Dr Edouard Bret",
             "content": "<p>En tant que podologue spécialiste dans le traitement de pieds plats ou de fasciite plantaire, je recommande les semelles Footiz. Leur design unique soulage la voûte plantaire, répartit la pression et réduit la tension sur le fascia plantaire. Avec une utilisation régulière, les patients constatent une nette amélioration de leurs symptômes. Je recommande Footiz en toute confiance comme élément essentiel pour vos chaussures.</p>",
             "link_text": "",
             "link_url": "",
@@ -235,16 +235,6 @@
             "page": ""
           }
         },
-        "item_CAGEEj": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Faut-il retirer les semelles d’origine de mes chaussures ?",
-            "content": "<p>Dans la plupart des cas, oui. Cela permet d’assurer un ajustement parfait et d’éviter que la chaussure ne soit trop serrée.</p>",
-            "page": ""
-          }
-        },
         "item_fNAAKU": {
           "type": "item",
           "settings": {
@@ -252,6 +242,16 @@
             "icon_width": 20,
             "title": "S’adaptent-elles à tous les types de chaussures ?",
             "content": "<p>Oui. Elles sont fines et flexibles, ce qui permet de les utiliser dans la majorité des chaussures : baskets, chaussures de travail, bottes, chaussures du quotidien…</p>",
+            "page": ""
+          }
+        },
+        "item_CAGEEj": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Faut-il retirer les semelles d’origine de mes chaussures ?",
+            "content": "<p>Dans la plupart des cas, oui. Cela permet d’assurer un ajustement parfait et d’éviter que la chaussure ne soit trop serrée.</p>",
             "page": ""
           }
         },
@@ -361,7 +361,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Retours & remboursements",
-            "content": "<p>Oui ! Nous sommes convaincus que vous allez adorer le confort des <strong>Footiz</strong>.<br/>C’est pourquoi nous offrons une <strong>garantie 100 % satisfait ou remboursé pendant 90 jours</strong>.<br/><br/>Si vous n’êtes pas entièrement satisfait, il vous suffit de nous envoyer un email à <strong>contact@footiz.com </strong>et nous traiterons votre remboursement rapidement.</p>",
+            "content": "<p>Oui ! Nous sommes convaincus que vous allez adorer le confort de nos semelles.<br/>C’est pourquoi nous offrons une <strong>garantie 100 % satisfait ou remboursé pendant 30 jours</strong>.<br/><br/>Si vous n’êtes pas entièrement satisfait, il vous suffit de nous envoyer un email à ..... et nous traiterons votre remboursement rapidement.</p>",
             "page": ""
           }
         }
@@ -371,8 +371,8 @@
         "item_VM66zJ",
         "item_PT8QHT",
         "item_bChUEX",
-        "item_CAGEEj",
         "item_fNAAKU",
+        "item_CAGEEj",
         "item_bJwm7G",
         "item_Kyebbb",
         "item_XymcXQ",
