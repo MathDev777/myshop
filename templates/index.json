@@ -16,7 +16,7 @@
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "lg",
+            "size": "base",
             "text": "ACHETER MAINTENANT",
             "url": "",
             "background": "",
@@ -129,7 +129,7 @@
             "title": "100%",
             "subheading": "",
             "content": "<p><strong>des utilisateurs déclarent ressentir un confort immédiat et une réduction significative de la fatigue</strong> après avoir porté nos semelles au quotidien.<br/><br/>Grâce à leur conception ergonomique et leur technologie d’amorti avancée, elles transforment chaque pas en une sensation de légèreté — que vous soyez sportif, marcheur ou debout toute la journée.</p>",
-            "button_text": "",
+            "button_text": "Découvrir",
             "button_url": "",
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
