@@ -214,6 +214,29 @@
         "overlay_opacity": 30
       }
     },
+    "before_after_image_cWtyjQ": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "media_with_text_wBWy6W": {
       "type": "media-with-text",
       "blocks": {
@@ -625,6 +648,7 @@
   "order": [
     "main",
     "image_with_text_overlay_L4d6e7",
+    "before_after_image_cWtyjQ",
     "media_with_text_wBWy6W",
     "impact_text_WmWjxg",
     "media_with_text_7T7dcQ",
