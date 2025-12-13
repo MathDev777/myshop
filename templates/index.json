@@ -223,16 +223,6 @@
           "settings": {
             "liquid": ""
           }
-        },
-        "collapsible_text_CamKAG": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Livraison",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -246,8 +236,7 @@
         "buy-buttons",
         "liquid_yPKJb7",
         "liquid_ybd9pk",
-        "liquid_MirkDa",
-        "collapsible_text_CamKAG"
+        "liquid_MirkDa"
       ],
       "settings": {
         "full_width": false,
