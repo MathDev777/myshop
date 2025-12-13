@@ -178,12 +178,9 @@
             "show_empty": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -225,7 +222,6 @@
         "badges",
         "price",
         "rating",
-        "separator",
         "description",
         "variant-picker",
         "buy-buttons",
@@ -432,8 +428,8 @@
         "icons_advanced": false,
         "icon_gap": 10,
         "icon_gap_mobile": 10,
-        "mt": 0,
-        "mb": 6,
+        "mt": 1,
+        "mb": 2,
         "bg_color": ""
       }
     },
