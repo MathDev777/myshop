@@ -150,10 +150,10 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "liquid_MirkDa": {
+        "liquid_ybd9pk": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div id='ss-product-reviews-3'>"
           }
         },
         "title": {
@@ -217,16 +217,10 @@
           "settings": {
             "liquid": "<div id='ss-payment-icons'>"
           }
-        },
-        "liquid_ybd9pk": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-reviews-3'>"
-          }
         }
       },
       "block_order": [
-        "liquid_MirkDa",
+        "liquid_ybd9pk",
         "title",
         "badges",
         "price",
@@ -235,8 +229,7 @@
         "description",
         "variant-picker",
         "buy-buttons",
-        "liquid_yPKJb7",
-        "liquid_ybd9pk"
+        "liquid_yPKJb7"
       ],
       "settings": {
         "full_width": false,
