@@ -215,7 +215,7 @@
         "liquid_ybd9pk": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div id='ss-product-reviews-3'>"
           }
         },
         "liquid_MirkDa": {
