@@ -214,6 +214,36 @@
           "settings": {
             "liquid": "<div id='ss-payment-icons'>"
           }
+        },
+        "collapsible_text_FR8eMM": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_JAK4DL": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_DkJwF9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -225,7 +255,10 @@
         "description",
         "variant-picker",
         "buy-buttons",
-        "liquid_yPKJb7"
+        "liquid_yPKJb7",
+        "collapsible_text_FR8eMM",
+        "collapsible_text_JAK4DL",
+        "collapsible_text_DkJwF9"
       ],
       "settings": {
         "full_width": false,
@@ -250,13 +283,13 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
+        "title": "Avant / Après",
         "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "Avant",
+        "after_text": "Après",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -301,7 +334,7 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
