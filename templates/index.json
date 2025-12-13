@@ -150,6 +150,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_MirkDa": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -217,15 +223,10 @@
           "settings": {
             "liquid": "<div id='ss-product-reviews-3'>"
           }
-        },
-        "liquid_MirkDa": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
-          }
         }
       },
       "block_order": [
+        "liquid_MirkDa",
         "title",
         "badges",
         "price",
@@ -235,8 +236,7 @@
         "variant-picker",
         "buy-buttons",
         "liquid_yPKJb7",
-        "liquid_ybd9pk",
-        "liquid_MirkDa"
+        "liquid_ybd9pk"
       ],
       "settings": {
         "full_width": false,
@@ -454,19 +454,10 @@
             "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
             "author": "Author's name"
           }
-        },
-        "review_8GcxcP": {
-          "type": "review",
-          "settings": {
-            "stars_count": 5,
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name"
-          }
         }
       },
       "block_order": [
-        "review_YKHr6M",
-        "review_8GcxcP"
+        "review_YKHr6M"
       ],
       "name": "SS - Product reviews #3",
       "settings": {
