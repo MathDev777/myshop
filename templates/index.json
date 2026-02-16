@@ -105,10 +105,10 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_AaXMEH": {
+    "rich_text_PRmaPf": {
       "type": "rich-text",
       "blocks": {
-        "heading_weYAda": {
+        "heading_JnhUqJ": {
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir ... ?",
@@ -119,7 +119,7 @@
         }
       },
       "block_order": [
-        "heading_weYAda"
+        "heading_JnhUqJ"
       ],
       "name": "Rich text",
       "settings": {
@@ -167,65 +167,6 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
-      }
-    },
-    "multi_column_B8dEfw": {
-      "type": "multi-column",
-      "blocks": {
-        "item_3rGtQV": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dnEKmG": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VRkDKk": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_3rGtQV",
-        "item_dnEKmG",
-        "item_VRkDKk"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "featured_product_ht8Nqc": {
@@ -498,10 +439,9 @@
     "image_with_text_overlay_EzzkWg",
     "rich_text_MJQ8zd",
     "logo_list_ti4m3W",
-    "rich_text_AaXMEH",
+    "rich_text_PRmaPf",
     "image_with_text_overlay_4UBebf",
     "before_after_image_wycia7",
-    "multi_column_B8dEfw",
     "featured_product_ht8Nqc",
     "tabs_Vf86H9",
     "faq_CQxkC7",
