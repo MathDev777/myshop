@@ -14,15 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -30,20 +21,10 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
-        "newsletter",
-        "links",
-        "text"
+        "links"
       ],
       "settings": {
         "show_social_media": true,
@@ -54,9 +35,33 @@
         "show_country_name": true,
         "show_locale_selector": true
       }
+    },
+    "rich_text_hKMe4W": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_tafM9x": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>AVERTISSEMENT IMPORTANT</strong></p><p>Les informations présentées sur ce site concernant les produits Verdalyae sont fournies à titre informatif uniquement et ne constituent pas un conseil médical professionnel. Nos produits ne sont pas destinés à diagnostiquer, traiter, guérir ou prévenir une maladie.<br/><br/>Les résultats individuels peuvent varier considérablement. Les témoignages et résultats présentés ne sont pas nécessairement représentatifs de ce que vous pourriez expérimenter et ne peuvent être garantis. Les résultats montrés ne sont pas typiques.<br/><br/>En cas de mycose persistante, de diabète, de problèmes circulatoires ou de plaies ouvertes, consultez un professionnel de santé avant utilisation. Ce produit ne remplace pas un avis médical professionnel.<br/><br/>Conformément à la réglementation européenne (Règlement cosmétique CE n°1223/2009), nos produits sont des cosmétiques d'hygiène corporelle. Pour toute question médicale, veuillez consulter votre médecin ou pharmacien.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_tafM9x"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "footer"
+    "footer",
+    "rich_text_hKMe4W"
   ]
 }
