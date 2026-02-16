@@ -24,87 +24,6 @@
         "overlay_opacity": 30
       }
     },
-    "rich_text_MJQ8zd": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_VNKRm7": {
-          "type": "heading",
-          "settings": {
-            "text": "Ils parlent de nous",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_VNKRm7"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "logo_list_ti4m3W": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_TVXCrF": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_UFnr9B": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_b7qfdx": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_Pijd6x": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_TVXCrF",
-        "logo_UFnr9B",
-        "logo_b7qfdx",
-        "logo_Pijd6x"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "",
-        "content": "",
-        "text_alignment": "start",
-        "items_per_row": 4,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "rich_text_PRmaPf": {
       "type": "rich-text",
       "blocks": {
@@ -182,18 +101,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price_AW3k8X": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_r9F3TE": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "description_ydLPbQ": {
           "type": "description",
           "settings": {
@@ -226,14 +133,13 @@
         },
         "pickup_availability_Dtagtb": {
           "type": "pickup_availability",
+          "disabled": true,
           "settings": {}
         }
       },
       "block_order": [
         "title_6QMpc3",
         "badges_N86EJk",
-        "price_AW3k8X",
-        "rating_r9F3TE",
         "description_ydLPbQ",
         "variant_picker_cUVhB4",
         "buy_buttons_ang6Kj",
@@ -437,8 +343,6 @@
   },
   "order": [
     "image_with_text_overlay_EzzkWg",
-    "rich_text_MJQ8zd",
-    "logo_list_ti4m3W",
     "rich_text_PRmaPf",
     "image_with_text_overlay_4UBebf",
     "before_after_image_wycia7",
