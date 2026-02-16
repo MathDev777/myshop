@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Paiement 100% Sécurisé",
+            "url": ""
+          }
+        },
+        "message_XKAMQq": {
+          "type": "message",
+          "settings": {
+            "text": "🎁 Soldes d'Hiver : -25%",
+            "url": ""
+          }
+        },
+        "message_Q7EpXk": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou Remboursé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_XKAMQq",
+        "message_Q7EpXk"
       ],
       "settings": {
         "enable_sticky": false,
