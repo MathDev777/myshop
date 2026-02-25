@@ -24,70 +24,6 @@
         "overlay_opacity": 30
       }
     },
-    "rich_text_PRmaPf": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_JnhUqJ": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir ... ?",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_JnhUqJ"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_4UBebf": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "before_after_image_wycia7": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Résultat Avant/Après",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "featured_product_ht8Nqc": {
       "type": "featured-product",
       "blocks": {
@@ -97,8 +33,21 @@
             "heading_tag": "h2"
           }
         },
+        "price_fmhrkB": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "text_fCzrnb": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Votre Carplay, Sans Fil !</strong></p>"
+          }
+        },
         "description_ydLPbQ": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -122,13 +71,59 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_nrT3U3": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_JHGmmf": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_ny6N4i": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_UXHb9k": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "title_6QMpc3",
+        "price_fmhrkB",
+        "text_fCzrnb",
         "description_ydLPbQ",
         "kaching_bundles_app_block_Dnny99",
-        "buy_buttons_ang6Kj"
+        "buy_buttons_ang6Kj",
+        "collapsible_text_nrT3U3",
+        "collapsible_text_JHGmmf",
+        "collapsible_text_ny6N4i",
+        "collapsible_text_UXHb9k"
       ],
       "name": "Featured product",
       "settings": {
@@ -147,54 +142,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "tabs_Vf86H9": {
-      "type": "tabs",
-      "blocks": {
-        "tab_zpYPf9": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
-            "page": ""
-          }
-        },
-        "tab_frizyp": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": ""
-          }
-        },
-        "tab_gUKQfi": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_zpYPf9",
-        "tab_frizyp",
-        "tab_gUKQfi"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "faq_CQxkC7": {
@@ -328,11 +275,7 @@
   },
   "order": [
     "image_with_text_overlay_EzzkWg",
-    "rich_text_PRmaPf",
-    "image_with_text_overlay_4UBebf",
-    "before_after_image_wycia7",
     "featured_product_ht8Nqc",
-    "tabs_Vf86H9",
     "faq_CQxkC7",
     "text_with_icons_PJUUgV"
   ]
