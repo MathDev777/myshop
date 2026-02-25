@@ -47,7 +47,6 @@
         },
         "description_ydLPbQ": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
