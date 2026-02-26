@@ -134,6 +134,63 @@
         "input_text_color": ""
       }
     },
+    "media_with_text_VRt7hY": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9Brhb4": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Voiture plus moderne",
+            "content": "<p>Grâce à notre clé CarPlay, offrez à votre véhicule des <strong>fonctionnalités </strong>dignes des voitures les plus récentes. Profiter d'une expérience <strong>sans fil</strong>, et accéder à vos applications <strong>favorites</strong> directement depuis l'écran de votre voiture</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_aYE9Te": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "picto-validation",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "La clé Carplay qui transforme vos trajets",
+            "content": "<p>Optimisez votre <strong>expérience de conduite</strong> en connectant facilement votre <strong>iPhone </strong>ou smartphone<strong> Android </strong>à votre véhicule. <strong>Simple, rapide, sans fil</strong> : tout ce dont vous avez besoin pour un trajet<strong> fluide et connecté.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9Brhb4",
+        "image_aYE9Te"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
     "faq_CQxkC7": {
       "type": "faq",
       "blocks": {
@@ -422,6 +479,7 @@
   },
   "order": [
     "featured_product_ht8Nqc",
+    "media_with_text_VRt7hY",
     "faq_CQxkC7",
     "text_with_icons_PJUUgV",
     "ss_payment_icons_DdQtbP",
