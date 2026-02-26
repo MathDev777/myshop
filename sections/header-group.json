@@ -21,13 +21,6 @@
             "url": ""
           }
         },
-        "message_XKAMQq": {
-          "type": "message",
-          "settings": {
-            "text": "🎁 Soldes d'Hiver : -25%",
-            "url": ""
-          }
-        },
         "message_Q7EpXk": {
           "type": "message",
           "settings": {
@@ -38,7 +31,6 @@
       },
       "block_order": [
         "message",
-        "message_XKAMQq",
         "message_Q7EpXk"
       ],
       "settings": {
