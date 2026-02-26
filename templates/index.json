@@ -38,17 +38,10 @@
             "collapse_content": false
           }
         },
-        "kaching_bundles_app_block_Dnny99": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
-          }
-        },
         "buy_buttons_ang6Kj": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": false,
+            "show_payment_button": true,
             "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -61,8 +54,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Comment ça fonctionne ?",
+            "content": "<p>Il vous suffit de brancher la clé dans le port USB ou USB-C de votre voiture pour établir la connexion. Ensuite, connectez votre téléphone à la clé via Bluetooth, et c'est tout.</p>",
             "page": ""
           }
         },
@@ -71,8 +64,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Compatibilité universelle ?",
+            "content": "<p>La Clé CarPlay est compatible avec toutes les voitures équipées de CarPlay.</p>",
             "page": ""
           }
         },
@@ -81,8 +74,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Informations sur la livraison",
+            "content": "<p>Nous traitons toutes les commandes dans un délai de 12h à 24h. Une fois votre commande expédiée, le délai de livraison estimé est de 4 à 6 jours ouvrables, en fonction de votre adresse de livraison et de la méthode choisie. En express le délai est de 2 à 3 jours ouvrables.</p><p>Vous recevrez un numéro de suivi dès que votre commande sera expédiée, vous permettant de suivre son acheminement.</p><p>Nous mettons tout en oeuvre pour garantir que votre commande vous parvienne dans les meilleurs délais. Si vous avez des questions concernant la livraison, n'hésitez pas à nous contacter. contact.ezconnect@gmail.com.</p>",
             "page": ""
           }
         },
@@ -91,8 +84,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Politique de retour et de remboursement",
+            "content": "<p>Nous nous engageons à ce que vous soyez pleinement satisfait de votre achat. Si, pour une raison quelconque, vous n'êtes pas entièrement satisfait de votre commande, vous avez 30 jours à compter de la réception de votre produit pour nous le retourner.</p><p>Les frais de retour ainsi que les frais de livraison sont à la charge du client. Nous vous recommandons d'utiliser un service de suivi pour assurer la sécurité de votre retour.</p><p>Une fois l'article reçu et vérifié, nous procéderons à un remboursement complet du montant payé, excluant les frais de livraison.</p><p>Si vous avez des questions ou besoin d'assistance, n'hésitez pas à nous contacter. contact.ezconnect@gmail.com</p>",
             "page": ""
           }
         }
@@ -102,7 +95,6 @@
         "price_fmhrkB",
         "text_fCzrnb",
         "description_ydLPbQ",
-        "kaching_bundles_app_block_Dnny99",
         "buy_buttons_ang6Kj",
         "collapsible_text_nrT3U3",
         "collapsible_text_JHGmmf",
