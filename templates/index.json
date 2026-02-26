@@ -140,6 +140,7 @@
         "image_9Brhb4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Voiture_plus_moderne.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
