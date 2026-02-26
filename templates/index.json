@@ -148,7 +148,7 @@
           "settings": {
             "image": "shopify://shop_images/Voiture_plus_moderne.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
