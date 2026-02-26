@@ -12,6 +12,12 @@
     "featured_product_ht8Nqc": {
       "type": "featured-product",
       "blocks": {
+        "liquid_DzmfHd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-trust-badges-6'>"
+          }
+        },
         "title_6QMpc3": {
           "type": "title",
           "settings": {
@@ -106,15 +112,10 @@
           "settings": {
             "liquid": "<div id='ss-trust-badges'></div>"
           }
-        },
-        "liquid_DzmfHd": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-trust-badges-6'>"
-          }
         }
       },
       "block_order": [
+        "liquid_DzmfHd",
         "title_6QMpc3",
         "price_fmhrkB",
         "text_fCzrnb",
@@ -126,8 +127,7 @@
         "collapsible_text_ny6N4i",
         "collapsible_text_UXHb9k",
         "liquid_7M87TM",
-        "liquid_CRMLT8",
-        "liquid_DzmfHd"
+        "liquid_CRMLT8"
       ],
       "name": "Featured product",
       "settings": {
