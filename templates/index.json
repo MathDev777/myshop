@@ -414,7 +414,7 @@
         "text_size": 16,
         "color": "#1a1a1a",
         "icon_size": 60,
-        "icon_size_mobile": 60,
+        "icon_size_mobile": 40,
         "icons_advanced": false,
         "icon_gap": 10,
         "icon_gap_mobile": 10,
