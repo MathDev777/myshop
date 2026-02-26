@@ -126,29 +126,37 @@
         "item_RrPXQt": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment installer la clé USB CarPlay ?",
+            "content": "<p>Étape 1 : Branchez la clé USB CarPlay sur le port USB de votre voiture.<br/><br/>Etape 2 : Connecté votre téléphone en bluetooth à la clé.<br/><br/>Etape 3 : Attendez 5 sec :)</p>"
           }
         },
         "item_YmYhHG": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "La clé USB CarPlay est-elle compatible avec tous les modèles de voitures ?",
+            "content": "<p>Oui, la clé USB CarPlay est compatible avec toutes les voitures équipées de la technologie CarPlay. Il vous suffit de la brancher dans le port USB ou USB-C de votre voiture pour établir la connexion.</p>"
           }
         },
         "item_Ti33ey": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "La livraison est elle rapide ?",
+            "content": "<p>Nous proposons deux options de livraison :</p><p>Livraison express : en 48h/72h</p><p>Livraison international : 4 à 6 jours ouvrés</p>"
+          }
+        },
+        "item_wpEpcr": {
+          "type": "item",
+          "settings": {
+            "title": "Le produit est-il garanti ?",
+            "content": "<p>Oui, il y a une garantie pour assurer votre tranquillité d'esprit. 30j satisfait ou remboursé !</p>"
           }
         }
       },
       "block_order": [
         "item_RrPXQt",
         "item_YmYhHG",
-        "item_Ti33ey"
+        "item_Ti33ey",
+        "item_wpEpcr"
       ],
       "name": "FAQ",
       "settings": {
