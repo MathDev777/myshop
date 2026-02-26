@@ -414,7 +414,7 @@
         "text_size": 16,
         "color": "#1a1a1a",
         "icon_size": 60,
-        "icon_size_mobile": 42,
+        "icon_size_mobile": 44,
         "icons_advanced": false,
         "icon_gap": 10,
         "icon_gap_mobile": 10,
@@ -457,7 +457,7 @@
       "settings": {
         "trust_position": "below_buy",
         "image_icon_size": 30,
-        "image_icon_size_mobile": 24,
+        "image_icon_size_mobile": 22,
         "text_custom": true,
         "text_font": "poppins_n4",
         "text_size": 12,
