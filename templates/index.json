@@ -12,12 +12,6 @@
     "featured_product_ht8Nqc": {
       "type": "featured-product",
       "blocks": {
-        "liquid_DzmfHd": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-trust-badges-6'>"
-          }
-        },
         "title_6QMpc3": {
           "type": "title",
           "settings": {
@@ -115,7 +109,6 @@
         }
       },
       "block_order": [
-        "liquid_DzmfHd",
         "title_6QMpc3",
         "price_fmhrkB",
         "text_fCzrnb",
@@ -284,67 +277,6 @@
         "text_color": ""
       }
     },
-    "ss_trust_badges_6_kkQENP": {
-      "type": "ss-trust-badges-6",
-      "blocks": {
-        "item_MFbXqJ": {
-          "type": "item",
-          "settings": {
-            "icon": "plant",
-            "title": "Text"
-          }
-        },
-        "item_CftCji": {
-          "type": "item",
-          "settings": {
-            "icon": "plant",
-            "title": "Text"
-          }
-        },
-        "item_JgKbRR": {
-          "type": "item",
-          "settings": {
-            "icon": "plant",
-            "title": "Text"
-          }
-        }
-      },
-      "block_order": [
-        "item_MFbXqJ",
-        "item_CftCji",
-        "item_JgKbRR"
-      ],
-      "name": "SS - Trust badges #6",
-      "settings": {
-        "items_row": 3,
-        "items_row_mobile": 3,
-        "items_gap": 20,
-        "items_gap_mobile": 20,
-        "item_gap": 10,
-        "item_gap_mobile": 10,
-        "content_align": "center",
-        "content_align_mobile": "center",
-        "icon_width": 30,
-        "icon_width_mobile": 30,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 13,
-        "text_size_mobile": 13,
-        "text_line_height": 150,
-        "icon_color": "#000000",
-        "text_color": "#000000",
-        "background_color": "",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 16,
-        "padding_bottom": 32,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0.5,
-        "border_thickness": 0
-      }
-    },
     "ss_trust_badges_APV8bc": {
       "type": "ss-trust-badges",
       "blocks": {
@@ -352,21 +284,21 @@
           "type": "item",
           "settings": {
             "icon": "truck",
-            "text": "<p>Free shipping</p>"
+            "text": "<p>Livraison 48h/72h</p>"
           }
         },
         "item_R33cwE": {
           "type": "item",
           "settings": {
             "icon": "return_arrow",
-            "text": "<p>30 days return</p>"
+            "text": "<p>30j Satisfait ou Remboursé</p>"
           }
         },
         "item_g8atKi": {
           "type": "item",
           "settings": {
-            "icon": "payment",
-            "text": "<p>Secure checkout</p>"
+            "icon": "chat-dots",
+            "text": "<p>Service Client 24/7</p>"
           }
         }
       },
@@ -601,7 +533,6 @@
     "featured_product_ht8Nqc",
     "faq_CQxkC7",
     "text_with_icons_PJUUgV",
-    "ss_trust_badges_6_kkQENP",
     "ss_trust_badges_APV8bc",
     "ss_product_reviews_3_yEJkAa",
     "ss_payment_icons_DdQtbP"
