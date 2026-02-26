@@ -61,12 +61,6 @@
             "liquid": "<div id='ss-trust-badges'></div>"
           }
         },
-        "liquid_7M87TM": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-reviews-3'>"
-          }
-        },
         "collapsible_text_nrT3U3": {
           "type": "collapsible_text",
           "settings": {
@@ -116,7 +110,6 @@
         "buy_buttons_ang6Kj",
         "liquid_DfUQac",
         "liquid_CRMLT8",
-        "liquid_7M87TM",
         "collapsible_text_nrT3U3",
         "collapsible_text_JHGmmf",
         "collapsible_text_ny6N4i",
@@ -333,108 +326,6 @@
         "border_thickness": 0
       }
     },
-    "ss_product_reviews_3_yEJkAa": {
-      "type": "ss-product-reviews-3",
-      "blocks": {
-        "review_GcBbwT": {
-          "type": "review",
-          "settings": {
-            "stars_count": 5,
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name"
-          }
-        },
-        "review_m3itMQ": {
-          "type": "review",
-          "settings": {
-            "stars_count": 5,
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author's name"
-          }
-        }
-      },
-      "block_order": [
-        "review_GcBbwT",
-        "review_m3itMQ"
-      ],
-      "name": "SS - Product reviews #3",
-      "settings": {
-        "reviews_position": "below_image",
-        "reviews_position_mobile": "below_image",
-        "hide_on_mobile": false,
-        "review_padding_horizontal": 20,
-        "review_padding_horizontal_mobile": 12,
-        "review_padding_vertical": 20,
-        "review_padding_vertical_mobile": 16,
-        "review_gap": 16,
-        "review_gap_mobile": 10,
-        "review_radius": 12,
-        "review_border_thickness": 1,
-        "image_width": 100,
-        "image_width_mobile": 60,
-        "image_radius": 100,
-        "image_border_thickness": 0,
-        "stars_size": 14,
-        "stars_size_mobile": 14,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 13,
-        "text_size_mobile": 12,
-        "text_height": 150,
-        "text_mt": 12,
-        "text_mt_mobile": 8,
-        "verification_icon_size": 18,
-        "verification_icon_size_mobile": 16,
-        "hide_icon": false,
-        "author_custom": false,
-        "author_font": "josefin_sans_n4",
-        "author_size": 13,
-        "author_size_mobile": 12,
-        "author_height": 130,
-        "author_mt": 16,
-        "author_mt_mobile": 12,
-        "arrow_size": 32,
-        "arrow_size_mobile": 24,
-        "arrow_icon_size": 8,
-        "arrow_icon_size_mobile": 6,
-        "arrow_border_thickness": 1,
-        "arrow_radius": 100,
-        "arrow_hover_effect": "color",
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 10,
-        "dots_size_mobile": 10,
-        "dots_mt": 12,
-        "dots_show_desktop": false,
-        "dots_show_mobile": true,
-        "stars_color": "#121212",
-        "text_color": "#121212",
-        "verification_icon_bg_color": "#31B211",
-        "verification_icon_color": "#FFFFFF",
-        "author_color": "#121212",
-        "image_border_color": "#121212",
-        "review_bg_color": "#F7F7F7",
-        "review_border_color": "#E6E6E6",
-        "arrow_color": "#7B7B7B",
-        "arrow_hover_color": "#7B7B7B",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
-        "arrow_border_color": "#EAEAEA",
-        "arrow_border_hover_color": "#C7C7C7",
-        "dots_color": "#121212",
-        "background_color": "",
-        "background_gradient": "",
-        "border_color": "#121212",
-        "margin_top": 0,
-        "margin_bottom": 16,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "ss_payment_icons_DdQtbP": {
       "type": "ss-payment-icons",
       "blocks": {
@@ -514,8 +405,8 @@
       "name": "SS - Payment icons",
       "settings": {
         "payment_position": "below_buy",
-        "use_payments_store": false,
-        "payment_title": "Safe payment on our website",
+        "use_payments_store": true,
+        "payment_title": "Paiement sécurisé",
         "text_size": 16,
         "color": "#121212",
         "icon_size": 60,
@@ -534,7 +425,6 @@
     "faq_CQxkC7",
     "text_with_icons_PJUUgV",
     "ss_trust_badges_APV8bc",
-    "ss_product_reviews_3_yEJkAa",
     "ss_payment_icons_DdQtbP"
   ]
 }
