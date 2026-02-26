@@ -55,6 +55,12 @@
             "liquid": "<div id='ss-payment-icons'>"
           }
         },
+        "liquid_CRMLT8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-trust-badges'></div>"
+          }
+        },
         "collapsible_text_nrT3U3": {
           "type": "collapsible_text",
           "settings": {
@@ -94,12 +100,6 @@
             "content": "<p>Nous nous engageons à ce que vous soyez pleinement satisfait de votre achat. Si, pour une raison quelconque, vous n'êtes pas entièrement satisfait de votre commande, vous avez 30 jours à compter de la réception de votre produit pour nous le retourner.</p><p>Les frais de retour ainsi que les frais de livraison sont à la charge du client. Nous vous recommandons d'utiliser un service de suivi pour assurer la sécurité de votre retour.</p><p>Une fois l'article reçu et vérifié, nous procéderons à un remboursement complet du montant payé, excluant les frais de livraison.</p><p>Si vous avez des questions ou besoin d'assistance, n'hésitez pas à nous contacter. contact.ezconnect@gmail.com</p>",
             "page": ""
           }
-        },
-        "liquid_CRMLT8": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-trust-badges'></div>"
-          }
         }
       },
       "block_order": [
@@ -109,11 +109,11 @@
         "description_ydLPbQ",
         "buy_buttons_ang6Kj",
         "liquid_DfUQac",
+        "liquid_CRMLT8",
         "collapsible_text_nrT3U3",
         "collapsible_text_JHGmmf",
         "collapsible_text_ny6N4i",
-        "collapsible_text_UXHb9k",
-        "liquid_CRMLT8"
+        "collapsible_text_UXHb9k"
       ],
       "name": "Featured product",
       "settings": {
