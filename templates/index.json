@@ -409,14 +409,14 @@
         "use_payments_store": true,
         "payment_title": "Paiement sécurisé",
         "text_size": 16,
-        "color": "#121212",
+        "color": "#1a1a1a",
         "icon_size": 60,
         "icon_size_mobile": 60,
         "icons_advanced": false,
         "icon_gap": 10,
         "icon_gap_mobile": 10,
         "mt": 0,
-        "mb": 2,
+        "mb": 0,
         "bg_color": ""
       }
     },
