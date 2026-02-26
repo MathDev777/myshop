@@ -126,7 +126,7 @@
         "full_width": true,
         "product": "coussin-de-genoux-orthopedique",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "grid_one",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
@@ -456,7 +456,7 @@
       "name": "SS - Trust badges #1",
       "settings": {
         "trust_position": "below_buy",
-        "image_icon_size": 35,
+        "image_icon_size": 30,
         "image_icon_size_mobile": 22,
         "text_custom": true,
         "text_font": "poppins_n4",
