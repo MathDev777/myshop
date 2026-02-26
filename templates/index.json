@@ -457,7 +457,7 @@
       "settings": {
         "trust_position": "below_buy",
         "image_icon_size": 30,
-        "image_icon_size_mobile": 22,
+        "image_icon_size_mobile": 24,
         "text_custom": true,
         "text_font": "poppins_n4",
         "text_size": 12,
