@@ -484,7 +484,7 @@
       "name": "SS - Trust badges #1",
       "settings": {
         "trust_position": "below_buy",
-        "image_icon_size": 40,
+        "image_icon_size": 35,
         "image_icon_size_mobile": 22,
         "text_custom": true,
         "text_font": "poppins_n4",
