@@ -14,31 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
+        "message_4TrCLD": {
           "type": "message",
           "settings": {
-            "text": "Paiement 100% Sécurisé",
-            "url": ""
-          }
-        },
-        "message_Q7EpXk": {
-          "type": "message",
-          "settings": {
-            "text": "Satisfait ou Remboursé",
+            "text": "UpDrive.com",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_Q7EpXk"
+        "message_4TrCLD"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
         "background_gradient": "",
