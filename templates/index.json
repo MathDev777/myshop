@@ -339,29 +339,50 @@
         "item_RrPXQt": {
           "type": "item",
           "settings": {
-            "title": "Comment installer la clé USB CarPlay ?",
-            "content": "<p>Étape 1 : Branchez la clé USB CarPlay sur le port USB de votre voiture.<br/><br/>Etape 2 : Connecté votre téléphone en bluetooth à la clé.<br/><br/>Etape 3 : Attendez 5 sec :)</p>"
+            "title": "Les feutres sont-ils inclus ?",
+            "content": "<p>Oui ! Chaque couverture est livrée avec un lot de feutres spécialement sélectionnés pour commencer à créer dès la réception.</p>"
           }
         },
         "item_YmYhHG": {
           "type": "item",
           "settings": {
-            "title": "La clé USB CarPlay est-elle compatible avec tous les modèles de voitures ?",
-            "content": "<p>Oui, la clé USB CarPlay est compatible avec toutes les voitures équipées de la technologie CarPlay. Il vous suffit de la brancher dans le port USB ou USB-C de votre voiture pour établir la connexion.</p>"
+            "title": "Peut-on laver la couverture ?",
+            "content": "<p>Oui. La couverture est lavable en machine. Consultez les instructions d'entretien fournies pour préserver au mieux les couleurs.</p>"
           }
         },
         "item_Ti33ey": {
           "type": "item",
           "settings": {
-            "title": "La livraison est elle rapide ?",
-            "content": "<p>Nous proposons deux options de livraison :</p><p>Livraison express : en 48h/72h</p><p>Livraison international : 4 à 6 jours ouvrés</p>"
+            "title": "Les couleurs disparaissent-elles au lavage ?",
+            "content": "<p>Non. Les dessins réalisés sont conçus pour rester sur votre couverture afin de conserver vos souvenirs.</p>"
           }
         },
         "item_wpEpcr": {
           "type": "item",
           "settings": {
-            "title": "Le produit est-il garanti ?",
-            "content": "<p>Oui, il y a une garantie pour assurer votre tranquillité d'esprit. 30j satisfait ou remboursé !</p>"
+            "title": "Est-ce adapté aux enfants ?",
+            "content": "<p>Oui. C'est une activité idéale pour les enfants, les parents, les couples et même les grands-parents.</p>"
+          }
+        },
+        "item_baWQP9": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la taille de la couverture ?",
+            "content": "<p>Environ <strong>180 × 130 cm</strong>, parfaite pour se détendre à deux ou en famille.</p>"
+          }
+        },
+        "item_FNtiFJ": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps vais-je recevoir ma commande ?",
+            "content": "<p>Les commandes sont préparées rapidement et expédiées avec un suivi. Les délais varient selon votre pays de livraison, mais vous recevrez un numéro de suivi dès l'expédition.</p>"
+          }
+        },
+        "item_mzwrkf": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si je ne suis pas satisfait ?",
+            "content": "<p>Nous proposons une <strong>garantie satisfait ou remboursé de 30 jours</strong>. Si le produit ne répond pas à vos attentes, contactez-nous et nous trouverons une solution.</p>"
           }
         }
       },
@@ -369,7 +390,10 @@
         "item_RrPXQt",
         "item_YmYhHG",
         "item_Ti33ey",
-        "item_wpEpcr"
+        "item_wpEpcr",
+        "item_baWQP9",
+        "item_FNtiFJ",
+        "item_mzwrkf"
       ],
       "name": "FAQ",
       "settings": {
