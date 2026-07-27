@@ -9,6 +9,21 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_mRjqjG": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured_product_ht8Nqc": {
       "type": "featured-product",
       "blocks": {
@@ -26,6 +41,7 @@
         },
         "description_ydLPbQ": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -35,13 +51,6 @@
         "separator_ARxwd4": {
           "type": "separator",
           "settings": {}
-        },
-        "kaching_bundles_app_block_Q3PUj3": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
-          }
         },
         "buy_buttons_ang6Kj": {
           "type": "buy_buttons",
@@ -112,7 +121,6 @@
         "text_fCzrnb",
         "description_ydLPbQ",
         "separator_ARxwd4",
-        "kaching_bundles_app_block_Q3PUj3",
         "buy_buttons_ang6Kj",
         "liquid_DfUQac",
         "liquid_CRMLT8",
@@ -146,7 +154,6 @@
         "image_9Brhb4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Voiture_plus_moderne.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -168,7 +175,6 @@
         "image_Qi9WTd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Voiture_plus_moderne.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -190,7 +196,6 @@
         "image_aYE9Te": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/CarPlay_1.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -481,6 +486,7 @@
     }
   },
   "order": [
+    "image_with_text_overlay_mRjqjG",
     "featured_product_ht8Nqc",
     "media_with_text_VRt7hY",
     "faq_CQxkC7",
