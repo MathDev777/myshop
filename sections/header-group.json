@@ -17,13 +17,29 @@
         "message_4TrCLD": {
           "type": "message",
           "settings": {
-            "text": "Derniers jours : -40% sur UpDrive.com",
+            "text": "🚚 Livraison offerte aujourd'hui",
+            "url": ""
+          }
+        },
+        "message_BKLn8x": {
+          "type": "message",
+          "settings": {
+            "text": "❤️ Plus de 2 000 clients satisfaits",
+            "url": ""
+          }
+        },
+        "message_kgw86W": {
+          "type": "message",
+          "settings": {
+            "text": "🔒 Paiement sécurisé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_4TrCLD"
+        "message_4TrCLD",
+        "message_BKLn8x",
+        "message_kgw86W"
       ],
       "settings": {
         "enable_sticky": false,
@@ -42,7 +58,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Logo_Shop.png",
         "logo_max_width": 300,
         "logo_mobile_max_width": 170,
         "menu": "main-menu",
