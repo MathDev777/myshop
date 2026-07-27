@@ -17,20 +17,24 @@
     "block_shadow_vertical_offset": 18,
     "icon_style": "duo",
     "button_style": "fill",
-    "background": "#ffffff",
-    "text_color": "#1a1a1a",
-    "success_color": "#38b6ff",
+    "background": "#FAF9F7",
+    "text_color": "#2F2F2F",
+    "success_color": "#6FCF97",
+    "warning_color": "#F2C94C",
+    "error_color": "#EB5757",
     "header_background": "#ffffff",
-    "header_text_color": "#1a1a1a",
-    "footer_background": "#ffffff",
-    "footer_text_color": "#1a1a1a",
-    "primary_button_background": "#1a1a1a",
+    "header_text_color": "#2F2F2F",
+    "footer_background": "#F7F4FB",
+    "footer_text_color": "#2F2F2F",
+    "primary_button_background": "#BFA2DB",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#f0c417",
-    "secondary_button_text_color": "#1a1a1a",
-    "product_card_text_color": "#1a1a1a",
-    "product_on_sale_accent": "#38b6ff",
-    "product_primary_badge_background": "#803cee",
+    "secondary_button_text_color": "#2F2F2F",
+    "product_card_text_color": "#2F2F2F",
+    "product_rating_color": "#FFC857",
+    "product_on_sale_accent": "#F8D7DA",
+    "product_sold_out_badge_background": "#2F2F2F",
+    "product_primary_badge_background": "#BFA2DB",
     "heading_font": "din_next_n7",
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
@@ -47,14 +51,7 @@
     "cart_show_free_shipping_threshold": true,
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
