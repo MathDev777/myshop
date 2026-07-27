@@ -256,7 +256,7 @@
     "featured_product_ht8Nqc": {
       "type": "featured-product",
       "blocks": {
-        "title_6QMpc3": {
+        "title_Pta4Fa": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
@@ -268,18 +268,17 @@
             "text": "<p>Créez des souvenirs inoubliables en famille avec une couverture à colorier unique.</p>"
           }
         },
+        "separator_ARxwd4": {
+          "type": "separator",
+          "settings": {}
+        },
         "description_ydLPbQ": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
             "collapse_content": false
           }
-        },
-        "separator_ARxwd4": {
-          "type": "separator",
-          "settings": {}
         },
         "buy_buttons_ang6Kj": {
           "type": "buy_buttons",
@@ -330,10 +329,10 @@
         }
       },
       "block_order": [
-        "title_6QMpc3",
+        "title_Pta4Fa",
         "text_fCzrnb",
-        "description_ydLPbQ",
         "separator_ARxwd4",
+        "description_ydLPbQ",
         "buy_buttons_ang6Kj",
         "liquid_DfUQac",
         "collapsible_text_nrT3U3",
