@@ -180,8 +180,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Comment ça fonctionne ?",
-            "content": "<p>Il vous suffit de brancher la clé dans le port USB ou USB-C de votre voiture pour établir la connexion. Ensuite, connectez votre téléphone à la clé via Bluetooth, et c'est tout.</p>",
+            "title": "",
+            "content": "",
             "page": ""
           }
         },
@@ -190,8 +190,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Compatibilité universelle ?",
-            "content": "<p>La Clé CarPlay est compatible avec toutes les voitures équipées de CarPlay.</p>",
+            "title": "",
+            "content": "",
             "page": ""
           }
         },
@@ -200,8 +200,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Informations sur la livraison",
-            "content": "<p>Nous traitons toutes les commandes dans un délai de 12h à 24h. Une fois votre commande expédiée, le délai de livraison estimé est de 4 à 6 jours ouvrables, en fonction de votre adresse de livraison et de la méthode choisie. En express le délai est de 2 à 3 jours ouvrables.</p><p>Vous recevrez un numéro de suivi dès que votre commande sera expédiée, vous permettant de suivre son acheminement.</p><p>Nous mettons tout en oeuvre pour garantir que votre commande vous parvienne dans les meilleurs délais. Si vous avez des questions concernant la livraison, n'hésitez pas à nous contacter. contact.ezconnect@gmail.com.</p>",
+            "title": "",
+            "content": "",
             "page": ""
           }
         }
@@ -248,8 +248,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Voiture plus moderne",
-            "content": "<p>Grâce à notre clé CarPlay, offrez à votre véhicule des <strong>fonctionnalités </strong>dignes des voitures les plus récentes. Profiter d'une expérience <strong>sans fil</strong>, et accéder à vos applications <strong>favorites</strong> directement depuis l'écran de votre voiture</p>",
+            "title": "",
+            "content": "",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
@@ -269,8 +269,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "La clé Carplay qui transforme vos trajets",
-            "content": "<p>Optimisez votre <strong>expérience de conduite</strong> en connectant facilement votre <strong>iPhone </strong>ou smartphone<strong> Android </strong>à votre véhicule. <strong>Simple, rapide, sans fil</strong> : tout ce dont vous avez besoin pour un trajet<strong> fluide et connecté.</strong></p>",
+            "title": "",
+            "content": "",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
@@ -359,11 +359,11 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Questions fréquentes",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Notre service client est disponible 7 jours sur 7.",
-        "answer_time": "Temps de réponse moyen : 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -376,81 +376,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "text_with_icons_PJUUgV": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_YjAmaj": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-return",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#1a1a1a",
-            "icon_color": "#ffffff",
-            "title": "Satisfait ou remboursé",
-            "content": ""
-          }
-        },
-        "item_YjaXJX": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#1a1a1a",
-            "icon_color": "#ffffff",
-            "title": "Service client 7j/7",
-            "content": ""
-          }
-        },
-        "item_EihkRK": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-credit-card",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#1a1a1a",
-            "icon_color": "#ffffff",
-            "title": "Paiement sécurisé",
-            "content": ""
-          }
-        },
-        "item_mEfRwd": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#1a1a1a",
-            "icon_color": "#ffffff",
-            "title": "Livraison offerte à partir de 50€",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_YjAmaj",
-        "item_YjaXJX",
-        "item_EihkRK",
-        "item_mEfRwd"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "ss_payment_icons_DdQtbP": {
@@ -517,62 +442,6 @@
         "mb": 1,
         "bg_color": ""
       }
-    },
-    "ss_trust_badges_APV8bc": {
-      "type": "ss-trust-badges",
-      "blocks": {
-        "item_F8d6M8": {
-          "type": "item",
-          "settings": {
-            "icon": "truck",
-            "text": "<p><strong>Livraison rapide 48h/72h</strong></p>"
-          }
-        },
-        "item_R33cwE": {
-          "type": "item",
-          "settings": {
-            "icon": "return_arrow",
-            "text": "<p><strong>30j Satisfait ou Remboursé</strong></p>"
-          }
-        },
-        "item_g8atKi": {
-          "type": "item",
-          "settings": {
-            "icon": "chat-dots",
-            "text": "<p><strong>Service Client 24/7</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_F8d6M8",
-        "item_R33cwE",
-        "item_g8atKi"
-      ],
-      "name": "SS - Trust badges #1",
-      "settings": {
-        "trust_position": "below_buy",
-        "image_icon_size": 30,
-        "image_icon_size_mobile": 22,
-        "text_custom": true,
-        "text_font": "poppins_n4",
-        "text_size": 12,
-        "text_size_mobile": 10,
-        "text_advanced": false,
-        "text_height": 100,
-        "text_mt": 10,
-        "icon_color": "#1a1a1a",
-        "text_color": "#1a1a1a",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 20,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0
-      }
     }
   },
   "order": [
@@ -582,8 +451,6 @@
     "featured_product_ht8Nqc",
     "media_with_text_VRt7hY",
     "faq_CQxkC7",
-    "text_with_icons_PJUUgV",
-    "ss_payment_icons_DdQtbP",
-    "ss_trust_badges_APV8bc"
+    "ss_payment_icons_DdQtbP"
   ]
 }
