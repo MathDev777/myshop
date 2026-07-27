@@ -24,6 +24,112 @@
         "overlay_opacity": 30
       }
     },
+    "text_with_icons_A8pNhR": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_agYJpd": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
+            "title": "À colorier",
+            "content": "<p>Laisse libre cours<br/>à ta créativité.</p>"
+          }
+        },
+        "item_rFLUVz": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
+            "title": "Lavable",
+            "content": "<p>Passe en machine<br/>sans souci.</p>"
+          }
+        },
+        "item_JqaCNx": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
+            "title": "Pour toute la famille",
+            "content": "<p>Petits et grands s'amusent.</p>"
+          }
+        },
+        "item_tCXYFU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
+            "title": "Ultra douce",
+            "content": "<p>Confortable et agréable.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_agYJpd",
+        "item_rFLUVz",
+        "item_JqaCNx",
+        "item_tCXYFU"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_Gbcfqq": {
+      "type": "video",
+      "blocks": {
+        "play_hWg4ET": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_QmKhJ4": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_hWg4ET",
+        "heading_QmKhJ4"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured_product_ht8Nqc": {
       "type": "featured-product",
       "blocks": {
@@ -487,6 +593,8 @@
   },
   "order": [
     "image_with_text_overlay_mRjqjG",
+    "text_with_icons_A8pNhR",
+    "video_Gbcfqq",
     "featured_product_ht8Nqc",
     "media_with_text_VRt7hY",
     "faq_CQxkC7",
