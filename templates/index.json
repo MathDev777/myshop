@@ -142,7 +142,7 @@
         "text_fCzrnb": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Votre Carplay, Sans Fil !</strong></p>"
+            "text": "<p><strong>Courverture à colorier</strong></p>"
           }
         },
         "description_ydLPbQ": {
@@ -175,12 +175,6 @@
             "liquid": "<div id='ss-payment-icons'>"
           }
         },
-        "liquid_CRMLT8": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-trust-badges'></div>"
-          }
-        },
         "collapsible_text_nrT3U3": {
           "type": "collapsible_text",
           "settings": {
@@ -210,16 +204,6 @@
             "content": "<p>Nous traitons toutes les commandes dans un délai de 12h à 24h. Une fois votre commande expédiée, le délai de livraison estimé est de 4 à 6 jours ouvrables, en fonction de votre adresse de livraison et de la méthode choisie. En express le délai est de 2 à 3 jours ouvrables.</p><p>Vous recevrez un numéro de suivi dès que votre commande sera expédiée, vous permettant de suivre son acheminement.</p><p>Nous mettons tout en oeuvre pour garantir que votre commande vous parvienne dans les meilleurs délais. Si vous avez des questions concernant la livraison, n'hésitez pas à nous contacter. contact.ezconnect@gmail.com.</p>",
             "page": ""
           }
-        },
-        "collapsible_text_UXHb9k": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Politique de retour et de remboursement",
-            "content": "<p>Nous nous engageons à ce que vous soyez pleinement satisfait de votre achat. Si, pour une raison quelconque, vous n'êtes pas entièrement satisfait de votre commande, vous avez 30 jours à compter de la réception de votre produit pour nous le retourner.</p><p>Les frais de retour ainsi que les frais de livraison sont à la charge du client. Nous vous recommandons d'utiliser un service de suivi pour assurer la sécurité de votre retour.</p><p>Une fois l'article reçu et vérifié, nous procéderons à un remboursement complet du montant payé, excluant les frais de livraison.</p><p>Si vous avez des questions ou besoin d'assistance, n'hésitez pas à nous contacter. contact.ezconnect@gmail.com</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -229,11 +213,9 @@
         "separator_ARxwd4",
         "buy_buttons_ang6Kj",
         "liquid_DfUQac",
-        "liquid_CRMLT8",
         "collapsible_text_nrT3U3",
         "collapsible_text_JHGmmf",
-        "collapsible_text_ny6N4i",
-        "collapsible_text_UXHb9k"
+        "collapsible_text_ny6N4i"
       ],
       "name": "Featured product",
       "settings": {
@@ -257,27 +239,6 @@
     "media_with_text_VRt7hY": {
       "type": "media-with-text",
       "blocks": {
-        "image_9Brhb4": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Installation facile",
-            "content": "<p><strong>Satisfaction immédiate</strong> : Ressentez le plaisir d’un produit qui fonctionne dès la première utilisation, <strong>sans effort. </strong></p><p><strong>Étape 1 </strong>: Branchez la clé USB CarPlay sur le port USB de votre voiture.</p><p><strong>Etape 2</strong> : Connecté votre téléphone en bluetooth à la clé.</p><p><strong>Etape 3 </strong>: Attendez 5 sec :)</p><p><strong>Maintenant profite de ta clé CarPlay</strong></p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "rgba(0,0,0,0)",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
         "image_Qi9WTd": {
           "type": "image",
           "settings": {
@@ -322,7 +283,6 @@
         }
       },
       "block_order": [
-        "image_9Brhb4",
         "image_Qi9WTd",
         "image_aYE9Te"
       ],
