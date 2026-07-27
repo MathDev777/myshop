@@ -132,6 +132,104 @@
         "overlay_opacity": 30
       }
     },
+    "multi_column_cNQjer": {
+      "type": "multi-column",
+      "blocks": {
+        "item_A9PnE9": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Dans le jardin",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3M7DW9": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "A la plage",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dWVDCA": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Devant Netflix",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8GqqgC": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Dans le lit",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ALNrC4": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "En voiture",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zCBhtD": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Au camping",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_A9PnE9",
+        "item_3M7DW9",
+        "item_dWVDCA",
+        "item_8GqqgC",
+        "item_ALNrC4",
+        "item_zCBhtD"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ou l'utiliser ?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_ht8Nqc": {
       "type": "featured-product",
       "blocks": {
@@ -428,6 +526,7 @@
     "image_with_text_overlay_mRjqjG",
     "text_with_icons_A8pNhR",
     "video_Gbcfqq",
+    "multi_column_cNQjer",
     "featured_product_ht8Nqc",
     "media_with_text_VRt7hY",
     "faq_CQxkC7",
