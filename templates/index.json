@@ -213,6 +213,7 @@
         "item_ALNrC4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/En_voiture.png",
             "column_size": "3",
             "title": "En voiture",
             "heading_tag": "h4",
