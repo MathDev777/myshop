@@ -18,17 +18,10 @@
             "text": "La couverture qui devient votre plus beau souvenir.",
             "heading_tag": "h1"
           }
-        },
-        "richtext_Ajt6De": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Une activité créative et relaxante à partager en famille, en couple, entre amis.</p>"
-          }
         }
       },
       "block_order": [
-        "heading_wUpKzj",
-        "richtext_Ajt6De"
+        "heading_wUpKzj"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -36,11 +29,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_28_juil._2026_02_03_20.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_28_juil._2026_02_03_20.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 15
       }
     },
     "rich_text_wFfKiL": {
