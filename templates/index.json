@@ -225,6 +225,7 @@
         "item_zCBhtD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Au_camping.png",
             "column_size": "3",
             "title": "Au camping",
             "heading_tag": "h4",
