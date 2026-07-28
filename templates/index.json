@@ -9,6 +9,111 @@
  */
 {
   "sections": {
+    "featured_product_ht8Nqc": {
+      "type": "featured-product",
+      "blocks": {
+        "title_Pta4Fa": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "text_fCzrnb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Créez des souvenirs inoubliables en famille avec une couverture à colorier unique.</p>"
+          }
+        },
+        "separator_ARxwd4": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_ydLPbQ": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "buy_buttons_ang6Kj": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#bfa2db",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_DfUQac": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-payment-icons'>"
+          }
+        },
+        "collapsible_text_nrT3U3": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible_text_JHGmmf": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible_text_ny6N4i": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_Pta4Fa",
+        "text_fCzrnb",
+        "separator_ARxwd4",
+        "description_ydLPbQ",
+        "buy_buttons_ang6Kj",
+        "liquid_DfUQac",
+        "collapsible_text_nrT3U3",
+        "collapsible_text_JHGmmf",
+        "collapsible_text_ny6N4i"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "coussin-de-genoux-orthopedique",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "grid_one",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "multi_column_G63bC7": {
       "type": "multi-column",
       "blocks": {
@@ -210,111 +315,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "featured_product_ht8Nqc": {
-      "type": "featured-product",
-      "blocks": {
-        "title_Pta4Fa": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "text_fCzrnb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Créez des souvenirs inoubliables en famille avec une couverture à colorier unique.</p>"
-          }
-        },
-        "separator_ARxwd4": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_ydLPbQ": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "buy_buttons_ang6Kj": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "#bfa2db",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "liquid_DfUQac": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-payment-icons'>"
-          }
-        },
-        "collapsible_text_nrT3U3": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible_text_JHGmmf": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible_text_ny6N4i": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "",
-            "content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "title_Pta4Fa",
-        "text_fCzrnb",
-        "separator_ARxwd4",
-        "description_ydLPbQ",
-        "buy_buttons_ang6Kj",
-        "liquid_DfUQac",
-        "collapsible_text_nrT3U3",
-        "collapsible_text_JHGmmf",
-        "collapsible_text_ny6N4i"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "coussin-de-genoux-orthopedique",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "grid_one",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
       }
     },
     "faq_CQxkC7": {
