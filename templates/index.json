@@ -32,6 +32,7 @@
         "item_4HTV8H": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_juil._2026_02_38_57.png",
             "column_size": "3",
             "title": "🎨 Développe la créativité",
             "heading_tag": "h4",
