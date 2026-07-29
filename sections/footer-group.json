@@ -19,8 +19,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Newsletter",
-            "content": "<p>Reçoit des idées créatives et des offres exclusives !</p>"
+            "title": "10% de remise immédiate",
+            "content": "<p>En vous inscrivant à notre newsletter</p><p>Vous serez au courant de nos ventes privées, des promotions et des nouvelles collections.</p>"
           }
         },
         "links": {
