@@ -155,6 +155,9 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      "/* Tous les liens du menu en léger */ .header__primary-nav li > a, .header__primary-nav li > button, .header__primary-nav-item, .header nav li > a, .header nav li > button {font-weight: 400 !important; }",
+      " /* Deuxième lien : Meubles */ .header__primary-nav li:nth-child(2) > a, .header__primary-nav li:nth-child(2) > button, .header nav li:nth-child(2) > a, .header nav li:nth-child(2) > button {font-weight: 700 !important; }"
+    ]
   }
 }
