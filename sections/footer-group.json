@@ -23,20 +23,20 @@
             "content": "<p>En vous inscrivant à notre newsletter</p><p>Vous serez au courant de nos ventes privées, des promotions et des nouvelles collections.</p>"
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": "Nos politiques"
-          }
-        },
         "links_dhUezK": {
           "type": "links",
           "settings": {
             "menu": "main-menu",
             "show_menu_title": true,
             "menu_title": "Informations"
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": "Nos politiques"
           }
         },
         "text_cHPcVb": {
@@ -50,8 +50,8 @@
       },
       "block_order": [
         "newsletter_YFxDpm",
-        "links",
         "links_dhUezK",
+        "links",
         "text_cHPcVb"
       ],
       "settings": {

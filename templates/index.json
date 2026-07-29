@@ -15,7 +15,7 @@
         "heading_GqxPTa": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Mobilier, Décoration & Luminaires",
             "heading_tag": "h1"
           }
         }
@@ -26,7 +26,7 @@
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
         "mobile_text_position": "place-self-center text-center",
@@ -42,7 +42,7 @@
         "richtext_cWgbae": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Découvrez nos <strong>créations uniques </strong>en <strong>fibres naturelles </strong>pour une <strong>déco naturelle </strong>qui vous ressemble, entre authenticité et modernité.</p>"
           }
         }
       },
@@ -72,10 +72,10 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured collection",
-        "content": "",
+        "title": "Suspensions en Rotin",
+        "content": "<p>Offrez à vos espaces une <strong>lumière douce et chaleureuse </strong>avec notre collection emblématique de <strong>suspensions en rotin</strong>.</p>",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "Découvrir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -144,10 +144,10 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
-        "content": "",
+        "title": "Objets déco",
+        "content": "<p>Apportez une <strong>touche d’élégance naturelle </strong>à votre intérieur avec notre sélection d’<strong>objets déco en rotin et fibres naturelles</strong>.</p>",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "Voir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -236,10 +236,10 @@
         "show_comments_count": false,
         "show_category": true,
         "subheading": "",
-        "title": "Blog posts",
+        "title": "Nos actus & conseils déco",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "Voir tous les articles",
         "background": "",
         "background_gradient": "",
         "text_color": "",
