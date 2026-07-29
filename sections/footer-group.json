@@ -38,20 +38,29 @@
             "show_menu_title": true,
             "menu_title": "Aide"
           }
+        },
+        "text_cHPcVb": {
+          "type": "text",
+          "settings": {
+            "title": "🌿 Notre Philosophie",
+            "content": "<p>Chez <strong>Déco Rotin</strong>, nous croyons que la décoration ne se résume pas à embellir un intérieur — c’est une façon de <strong>se sentir bien chez soi</strong>, entouré de <strong>matières naturelles</strong>, d’objets qui ont une âme et qui racontent une histoire.</p>",
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
         "newsletter_YFxDpm",
         "links",
-        "links_dhUezK"
+        "links_dhUezK",
+        "text_cHPcVb"
       ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
         "show_policy_links": false,
-        "show_country_selector": false,
-        "show_country_flag": false,
-        "show_country_name": false,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
         "show_locale_selector": false
       }
     }
