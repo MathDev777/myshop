@@ -153,5 +153,11 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Tous les liens du menu en léger */.header__primary-nav-item {font-weight: 400;}",
+      "/* Les liens qui possèdent un sous-menu en gras */.header__primary-nav-item:has(details),.header__primary-nav-item:has(.header__dropdown-menu),.header__primary-nav-item:has(mega-menu) {font-weight: 600;}"
+    ]
   }
 }
