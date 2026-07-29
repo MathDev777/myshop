@@ -18,6 +18,16 @@
             "heading_tag": "h2"
           }
         },
+        "price_8GmnFf": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "separator_xHiP3Y": {
+          "type": "separator",
+          "settings": {}
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -40,6 +50,8 @@
       },
       "block_order": [
         "title",
+        "price_8GmnFf",
+        "separator_xHiP3Y",
         "description",
         "buy_buttons"
       ],
