@@ -352,7 +352,7 @@
         "content": "<p>Soyez informé(e) en avant-première de nos meilleures offres, nos promotions exclusives et les dernières tendances en matière d'éclairage. Inscrivez-vous et recevez un <strong>bon de réduction de 15 %*</strong>à utiliser lors de votre prochain achat.</p>",
         "button_text": "S'abonner",
         "subtext": "Abonnez-vous à la newsletter comptoirduluminaire.fr et recevez des offres spéciales attractives, valables sur notre gamme de luminaires, de ventilateurs, de lampes solaires et de produits pour la maison connectée. Et en plus, recevez toutes les informations sur les codes de réduction, produits en promotion et autres offres, mais également des conseils personnalisés et des recommandations. Vous pouvez annuler facilement et à tout moment en cliquant sur le lien approprié disponible dans chaque newsletter ou en nous contactant via notre formulaire de contact. Pour plus d'informations, consultez notre page Politique de confidentialité. *Valable dès 99 € de minimum d'achat.",
-        "background": "",
+        "background": "#F4F4F4",
         "background_gradient": "",
         "text_color": "",
         "button_background": "",
