@@ -42,8 +42,9 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": true,
-        "logo_max_width": 300,
-        "logo_mobile_max_width": 170,
+        "logo": "shopify://shop_images/ChatGPT_Image_30_juil._2026_19_32_16.png",
+        "logo_max_width": 140,
+        "logo_mobile_max_width": 150,
         "menu": "customer-account-main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
