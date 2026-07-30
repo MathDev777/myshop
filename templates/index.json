@@ -338,6 +338,49 @@
         "background_gradient": "",
         "text_color": "#ffffff"
       }
+    },
+    "newsletter_THyRgR": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Newsletter",
+        "content": "<p>Soyez informé(e) en avant-première de nos meilleures offres, nos promotions exclusives et les dernières tendances en matière d'éclairage. Inscrivez-vous et recevez un <strong>bon de réduction de 15 %*</strong>à utiliser lors de votre prochain achat.</p>",
+        "button_text": "S'abonner",
+        "subtext": "Abonnez-vous à la newsletter comptoirduluminaire.fr et recevez des offres spéciales attractives, valables sur notre gamme de luminaires, de ventilateurs, de lampes solaires et de produits pour la maison connectée. Et en plus, recevez toutes les informations sur les codes de réduction, produits en promotion et autres offres, mais également des conseils personnalisés et des recommandations. Vous pouvez annuler facilement et à tout moment en cliquant sur le lien approprié disponible dans chaque newsletter ou en nous contactant via notre formulaire de contact. Pour plus d'informations, consultez notre page Politique de confidentialité. *Valable dès 99 € de minimum d'achat.",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "featured_collection_knRUii": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "nouveautes",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nouveautés",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -347,6 +390,8 @@
     "featured_collection_6YJEgY",
     "image_with_text_overlay_64KJBc",
     "blog_posts_wGXmY4",
-    "text_with_icons_cp3PPA"
+    "text_with_icons_cp3PPA",
+    "newsletter_THyRgR",
+    "featured_collection_knRUii"
   ]
 }
