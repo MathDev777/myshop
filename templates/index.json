@@ -38,29 +38,6 @@
         "overlay_opacity": 10
       }
     },
-    "rich_text_y9rtqh": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_cWgbae": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Suspensions, lampes de table, lampadaires et luminaires design sélectionnés pour chaque intérieur.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_cWgbae"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "collection_list_VkLYhJ": {
       "type": "collection-list",
       "blocks": {
@@ -193,6 +170,32 @@
         "content": "",
         "link_url": "",
         "link_text": "Découvrir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_knRUii": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "nouveautes",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nouveautés",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -355,43 +358,16 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "featured_collection_knRUii": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "nouveautes",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Nouveautés",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
     "image_with_text_overlay_8VC6hb",
-    "rich_text_y9rtqh",
     "collection_list_VkLYhJ",
     "featured_collection_6YJEgY",
+    "featured_collection_knRUii",
     "image_with_text_overlay_64KJBc",
     "blog_posts_wGXmY4",
     "text_with_icons_cp3PPA",
-    "newsletter_THyRgR",
-    "featured_collection_knRUii"
+    "newsletter_THyRgR"
   ]
 }
