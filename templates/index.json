@@ -289,9 +289,9 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#1F1F1F",
+        "background": "#111111",
         "background_gradient": "",
-        "text_color": "#FFFFFF"
+        "text_color": "#ffffff"
       }
     }
   },
