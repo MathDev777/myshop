@@ -74,8 +74,8 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Suspensions en Rotin",
-        "content": "<p>Offrez à vos espaces une <strong>lumière douce et chaleureuse </strong>avec notre collection emblématique de <strong>suspensions en rotin</strong>.</p>",
+        "title": "Suspensions",
+        "content": "",
         "link_url": "",
         "link_text": "Découvrir",
         "background": "",
@@ -146,8 +146,8 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Objets déco",
-        "content": "<p>Apportez une <strong>touche d’élégance naturelle </strong>à votre intérieur avec notre sélection d’<strong>objets déco en rotin et fibres naturelles</strong>.</p>",
+        "title": "Catégories populaires",
+        "content": "",
         "link_url": "",
         "link_text": "Voir",
         "background": "",
@@ -182,36 +182,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "press_PCxqmn": {
-      "type": "press",
-      "blocks": {
-        "quote_XGJQtK": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "quote_XGJQtK"
-      ],
-      "name": "Press",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "blog_posts_wGXmY4": {
@@ -319,9 +289,9 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "",
+        "background": "#1F1F1F",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#FFFFFF"
       }
     }
   },
@@ -331,7 +301,6 @@
     "featured_collection_6YJEgY",
     "collection_list_VkLYhJ",
     "image_with_text_overlay_64KJBc",
-    "press_PCxqmn",
     "blog_posts_wGXmY4",
     "text_with_icons_cp3PPA"
   ]
