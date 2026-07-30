@@ -29,11 +29,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Image_collection_suspensions.jpg",
+        "mobile_image": "shopify://shop_images/Image_collection_suspensions.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 10
       }
     },
     "rich_text_y9rtqh": {
@@ -119,7 +121,7 @@
         "collection_JhGtLi": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "suspensions",
             "subheading": "",
             "title": "",
             "url": "",
@@ -312,7 +314,7 @@
       "name": "Text with icons",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "title": "",
         "heading_tag": "h5",
         "text_alignment": "center",
