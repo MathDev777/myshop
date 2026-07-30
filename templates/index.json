@@ -107,7 +107,7 @@
         "collection_nCzAbY": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "eclairage-exterieur",
             "subheading": "",
             "title": "",
             "url": "",
@@ -121,7 +121,7 @@
         "collection_iQDKqx": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "appliques-murales",
             "subheading": "",
             "title": "",
             "url": "",
@@ -343,8 +343,8 @@
   "order": [
     "image_with_text_overlay_8VC6hb",
     "rich_text_y9rtqh",
-    "featured_collection_6YJEgY",
     "collection_list_VkLYhJ",
+    "featured_collection_6YJEgY",
     "image_with_text_overlay_64KJBc",
     "blog_posts_wGXmY4",
     "text_with_icons_cp3PPA"
