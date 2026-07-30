@@ -18,23 +18,23 @@
     "icon_style": "duo",
     "button_style": "fill",
     "background": "#ffffff",
-    "text_color": "#2F2F2F",
-    "success_color": "#6FCF97",
-    "warning_color": "#F2C94C",
-    "error_color": "#EB5757",
+    "text_color": "#1F1F1F",
+    "success_color": "#5FAF6D",
+    "warning_color": "#C89B3C",
+    "error_color": "#D9534F",
     "header_background": "#ffffff",
-    "header_text_color": "#2F2F2F",
-    "footer_background": "#F6F6F6",
-    "footer_text_color": "#2F2F2F",
-    "primary_button_background": "#2F2F2F",
+    "header_text_color": "#1F1F1F",
+    "footer_background": "#F8F8F8",
+    "footer_text_color": "#1F1F1F",
+    "primary_button_background": "#1F1F1F",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#FFFFFF",
-    "secondary_button_text_color": "#2F2F2F",
-    "product_card_text_color": "#2F2F2F",
-    "product_rating_color": "#FFC857",
-    "product_on_sale_accent": "rgba(0,0,0,0)",
-    "product_sold_out_badge_background": "rgba(0,0,0,0)",
-    "product_primary_badge_background": "rgba(0,0,0,0)",
+    "secondary_button_text_color": "#1F1F1F",
+    "product_card_text_color": "#1F1F1F",
+    "product_rating_color": "#D4A84F",
+    "product_on_sale_accent": "#B65A3C",
+    "product_sold_out_badge_background": "#7A7A7A",
+    "product_primary_badge_background": "#1F1F1F",
     "heading_font": "sans_serif_n7",
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
@@ -156,8 +156,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "/* Tous les liens du menu en léger */ .header__primary-nav li > a, .header__primary-nav li > button, .header__primary-nav-item, .header nav li > a, .header nav li > button {font-weight: 400 !important; }",
-      " /* Deuxième lien : Meubles */ .header__primary-nav li:nth-child(2) > a, .header__primary-nav li:nth-child(2) > button, .header nav li:nth-child(2) > a, .header nav li:nth-child(2) > button {font-weight: 700 !important; }"
+      "/* Tous les liens du menu en léger */.header__primary-nav li > a,.header__primary-nav li > button,.header__primary-nav-item,.header nav li > a,.header nav li > button {font-weight: 400 !important;}",
+      " /* Deuxième lien : Meubles */.header__primary-nav li:nth-child(2) > a,.header__primary-nav li:nth-child(2) > button,.header nav li:nth-child(2) > a,.header nav li:nth-child(2) > button {font-weight: 700 !important;}"
     ]
   }
 }
