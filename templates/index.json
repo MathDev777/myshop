@@ -44,7 +44,7 @@
         "richtext_cWgbae": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Découvrez nos <strong>créations uniques </strong>en <strong>fibres naturelles </strong>pour une <strong>déco naturelle </strong>qui vous ressemble, entre authenticité et modernité.</p>"
+            "content": "<p>Suspensions, lampes de table, lampadaires et luminaires design sélectionnés pour chaque intérieur.</p>"
           }
         }
       },
@@ -163,7 +163,7 @@
         "heading_DqbCDf": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Trouvez le luminaire parfait pour chaque pièce.",
             "heading_tag": "h1"
           }
         }
