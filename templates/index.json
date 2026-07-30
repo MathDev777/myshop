@@ -90,6 +90,48 @@
     "collection_list_VkLYhJ": {
       "type": "collection-list",
       "blocks": {
+        "collection_4fr7CQ": {
+          "type": "collection",
+          "settings": {
+            "collection": "plafonniers",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_nCzAbY": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_iQDKqx": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_3hpDwx": {
           "type": "collection",
           "settings": {
@@ -134,6 +176,9 @@
         }
       },
       "block_order": [
+        "collection_4fr7CQ",
+        "collection_nCzAbY",
+        "collection_iQDKqx",
         "collection_3hpDwx",
         "collection_RfPemM",
         "collection_JhGtLi"
