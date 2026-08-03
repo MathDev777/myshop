@@ -369,7 +369,7 @@
         "icon_gap": 10,
         "icon_gap_mobile": 10,
         "mt": 0,
-        "mb": 2,
+        "mb": 0,
         "bg_color": ""
       }
     }
