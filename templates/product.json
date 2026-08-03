@@ -393,15 +393,15 @@
         "item_djhhcf": {
           "type": "item",
           "settings": {
-            "icon": "plant",
-            "title": "Text"
+            "icon": "atc",
+            "title": "Paiement"
           }
         },
         "item_y8kbmV": {
           "type": "item",
           "settings": {
-            "icon": "plant",
-            "title": "Text"
+            "icon": "payment",
+            "title": "Offre"
           }
         }
       },
