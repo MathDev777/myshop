@@ -72,7 +72,7 @@
             "icon_width": 20,
             "title": "Shipping",
             "content": "<p>Short content about your shipping rates or discounts.</p>",
-            "background": "#F4F4F4",
+            "background": "#f4f4f4",
             "text_color": "#111111"
           }
         },
@@ -135,7 +135,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "#F4F4F4",
+        "input_background": "#f4f4f4",
         "input_text_color": ""
       }
     },
@@ -364,7 +364,7 @@
         "text_size": 10,
         "color": "#111111",
         "icon_size": 60,
-        "icon_size_mobile": 40,
+        "icon_size_mobile": 30,
         "icons_advanced": false,
         "icon_gap": 10,
         "icon_gap_mobile": 10,
