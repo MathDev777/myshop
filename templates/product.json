@@ -24,6 +24,12 @@
             "show_taxes_notice": false
           }
         },
+        "inventory_hm7fcx": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
         "separator_xHiP3Y": {
           "type": "separator",
           "settings": {}
@@ -51,6 +57,7 @@
       "block_order": [
         "title",
         "price_8GmnFf",
+        "inventory_hm7fcx",
         "separator_xHiP3Y",
         "description",
         "buy_buttons"
