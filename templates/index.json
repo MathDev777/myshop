@@ -38,6 +38,29 @@
         "overlay_opacity": 10
       }
     },
+    "rich_text_ADXDh3": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_UeCW9E": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_UeCW9E"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection_list_VkLYhJ": {
       "type": "collection-list",
       "blocks": {
@@ -362,6 +385,7 @@
   },
   "order": [
     "image_with_text_overlay_8VC6hb",
+    "rich_text_ADXDh3",
     "collection_list_VkLYhJ",
     "featured_collection_6YJEgY",
     "featured_collection_knRUii",
