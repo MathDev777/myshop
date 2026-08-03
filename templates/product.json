@@ -393,8 +393,8 @@
         "item_bfMQFy": {
           "type": "item",
           "settings": {
-            "icon": "plant",
-            "title": "Text"
+            "icon": "truck",
+            "title": "Livraison"
           }
         },
         "item_djhhcf": {
@@ -482,7 +482,7 @@
       "settings": {
         "trust_position": "below_buy",
         "image_icon_size": 40,
-        "image_icon_size_mobile": 40,
+        "image_icon_size_mobile": 20,
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 12,
