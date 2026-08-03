@@ -419,7 +419,7 @@
         "item_gap": 10,
         "item_gap_mobile": 10,
         "content_align": "center",
-        "content_align_mobile": "center",
+        "content_align_mobile": "left",
         "icon_width": 30,
         "icon_width_mobile": 30,
         "text_custom": false,
