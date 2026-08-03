@@ -57,6 +57,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_LNJ467": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-payment-icons'></div>"
+          }
+        },
         "offer_AferTT": {
           "type": "offer",
           "settings": {
@@ -70,10 +76,14 @@
             "text_color": "#111111"
           }
         },
-        "liquid_LNJ467": {
-          "type": "liquid",
+        "collapsible_text_8n6Xak": {
+          "type": "collapsible_text",
           "settings": {
-            "liquid": "<div id='ss-payment-icons'></div>"
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
           }
         }
       },
@@ -85,8 +95,9 @@
         "description",
         "quantity_selector_zLjAMe",
         "buy_buttons",
+        "liquid_LNJ467",
         "offer_AferTT",
-        "liquid_LNJ467"
+        "collapsible_text_8n6Xak"
       ],
       "settings": {
         "full_width": true,
