@@ -85,6 +85,26 @@
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
+        },
+        "collapsible_text_fLVHxa": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_zzqVjA": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -97,7 +117,9 @@
         "buy_buttons",
         "liquid_LNJ467",
         "offer_AferTT",
-        "collapsible_text_8n6Xak"
+        "collapsible_text_8n6Xak",
+        "collapsible_text_fLVHxa",
+        "collapsible_text_zzqVjA"
       ],
       "settings": {
         "full_width": true,
