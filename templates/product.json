@@ -42,6 +42,17 @@
             "collapse_content": false
           }
         },
+        "variant_picker_zmjWVh": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
         "quantity_selector_zLjAMe": {
           "type": "quantity_selector",
           "settings": {}
@@ -61,12 +72,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div id='ss-payment-icons'></div>"
-          }
-        },
-        "liquid_64L8Vt": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-trust-badges-6'></div>"
           }
         },
         "offer_AferTT": {
@@ -119,10 +124,10 @@
         "inventory_hm7fcx",
         "separator_xHiP3Y",
         "description",
+        "variant_picker_zmjWVh",
         "quantity_selector_zLjAMe",
         "buy_buttons",
         "liquid_LNJ467",
-        "liquid_64L8Vt",
         "offer_AferTT",
         "collapsible_text_8n6Xak",
         "collapsible_text_fLVHxa",
@@ -190,7 +195,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "meilleures-ventes",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -379,67 +384,6 @@
         "mb": 0,
         "bg_color": ""
       }
-    },
-    "ss_trust_badges_6_3qBKAL": {
-      "type": "ss-trust-badges-6",
-      "blocks": {
-        "item_bfMQFy": {
-          "type": "item",
-          "settings": {
-            "icon": "truck",
-            "title": "Livraison"
-          }
-        },
-        "item_djhhcf": {
-          "type": "item",
-          "settings": {
-            "icon": "atc",
-            "title": "Paiement"
-          }
-        },
-        "item_y8kbmV": {
-          "type": "item",
-          "settings": {
-            "icon": "payment",
-            "title": "Offre"
-          }
-        }
-      },
-      "block_order": [
-        "item_bfMQFy",
-        "item_djhhcf",
-        "item_y8kbmV"
-      ],
-      "name": "SS - Trust badges #6",
-      "settings": {
-        "items_row": 3,
-        "items_row_mobile": 3,
-        "items_gap": 20,
-        "items_gap_mobile": 20,
-        "item_gap": 10,
-        "item_gap_mobile": 10,
-        "content_align": "center",
-        "content_align_mobile": "center",
-        "icon_width": 30,
-        "icon_width_mobile": 20,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 13,
-        "text_size_mobile": 13,
-        "text_line_height": 150,
-        "icon_color": "#000000",
-        "text_color": "#000000",
-        "background_color": "",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0
-      }
     }
   },
   "order": [
@@ -447,7 +391,6 @@
     "images_with_text_scrolling_egjUMK",
     "featured_collection_a8gMRa",
     "text_with_icons_98QHGP",
-    "ss_payment_icons_eWnhCc",
-    "ss_trust_badges_6_3qBKAL"
+    "ss_payment_icons_eWnhCc"
   ]
 }
