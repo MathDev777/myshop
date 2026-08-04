@@ -35,7 +35,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#111111",
-        "overlay_opacity": 20
+        "overlay_opacity": 15
       }
     },
     "rich_text_ADXDh3": {
@@ -107,11 +107,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Image_home_page_inter_prod_ordi.png",
+        "mobile_image": "shopify://shop_images/Image_home_page_inter_prod_mobile.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 15
       }
     },
     "blog_posts_wGXmY4": {
