@@ -87,121 +87,6 @@
         "product_card_text_color": ""
       }
     },
-    "collection_list_VkLYhJ": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_4fr7CQ": {
-          "type": "collection",
-          "settings": {
-            "collection": "plafonniers",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_nCzAbY": {
-          "type": "collection",
-          "settings": {
-            "collection": "eclairage-exterieur",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_iQDKqx": {
-          "type": "collection",
-          "settings": {
-            "collection": "appliques-murales",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_3hpDwx": {
-          "type": "collection",
-          "settings": {
-            "collection": "lampadaires",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_RfPemM": {
-          "type": "collection",
-          "settings": {
-            "collection": "lampes-de-table",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_JhGtLi": {
-          "type": "collection",
-          "settings": {
-            "collection": "suspensions",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_4fr7CQ",
-        "collection_nCzAbY",
-        "collection_iQDKqx",
-        "collection_3hpDwx",
-        "collection_RfPemM",
-        "collection_JhGtLi"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Catégories populaires",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "image_with_text_overlay_64KJBc": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -361,7 +246,6 @@
     "image_with_text_overlay_8VC6hb",
     "rich_text_ADXDh3",
     "featured_collection_6YJEgY",
-    "collection_list_VkLYhJ",
     "image_with_text_overlay_64KJBc",
     "blog_posts_wGXmY4",
     "text_with_icons_cp3PPA",
