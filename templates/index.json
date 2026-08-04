@@ -133,10 +133,10 @@
             "overlay_opacity": 30
           }
         },
-        "collection_6WYB4q": {
+        "collection_irYP4K": {
           "type": "collection",
           "settings": {
-            "collection": "decorations-murales",
+            "collection": "",
             "subheading": "",
             "title": "",
             "url": "",
@@ -147,7 +147,7 @@
             "overlay_opacity": 30
           }
         },
-        "collection_irYP4K": {
+        "collection_XefP3A": {
           "type": "collection",
           "settings": {
             "collection": "",
@@ -164,8 +164,8 @@
       },
       "block_order": [
         "collection_qwan8n",
-        "collection_6WYB4q",
-        "collection_irYP4K"
+        "collection_irYP4K",
+        "collection_XefP3A"
       ],
       "name": "Collection list",
       "settings": {
