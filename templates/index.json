@@ -15,8 +15,8 @@
         "heading_GqxPTa": {
           "type": "heading",
           "settings": {
-            "text": "Illuminez votre intérieur avec élégance",
-            "heading_tag": "h1"
+            "text": "Mobilier, Décoration & Luminaires en Rotin",
+            "heading_tag": "h3"
           }
         }
       },
@@ -29,13 +29,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/Image_collection_suspensions.jpg",
-        "mobile_image": "shopify://shop_images/Image_collection_suspensions.jpg",
+        "image": "shopify://shop_images/Header_ordinateur_impact.png",
+        "mobile_image": "shopify://shop_images/Header_mobile_impact.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#111111",
-        "overlay_opacity": 10
+        "overlay_opacity": 20
       }
     },
     "rich_text_ADXDh3": {
@@ -44,7 +44,7 @@
         "richtext_UeCW9E": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Découvrez nos <strong>créations uniques </strong>en <strong>fibres naturelles </strong>pour une <strong>déco naturelle </strong>qui vous ressemble, entre authenticité et modernité.</p>"
           }
         }
       },
