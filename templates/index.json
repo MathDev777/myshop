@@ -188,6 +188,19 @@
     },
     "blog_posts_wGXmY4": {
       "type": "blog-posts",
+      "blocks": {
+        "blog_ibPbCE": {
+          "type": "blog",
+          "settings": {
+            "blog": "comment-nettoyer-du-rotin-guide-complet-et-astuces-pratiques",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_ibPbCE"
+      ],
       "name": "Blog posts",
       "settings": {
         "full_width": true,
