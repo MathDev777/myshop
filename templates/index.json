@@ -119,7 +119,7 @@
     "blog_posts_wGXmY4": {
       "type": "blog-posts",
       "blocks": {
-        "blog_RCYmdM": {
+        "blog_Yherex": {
           "type": "blog",
           "settings": {
             "blog": "tendances-deco-2026-les-suspensions-en-rotin-en-vedette",
@@ -129,7 +129,7 @@
         }
       },
       "block_order": [
-        "blog_RCYmdM"
+        "blog_Yherex"
       ],
       "name": "Blog posts",
       "settings": {
