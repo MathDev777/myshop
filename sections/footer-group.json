@@ -17,8 +17,8 @@
         "text_Jeqjwr": {
           "type": "text",
           "settings": {
-            "title": "Nous contactez",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Nous contacter",
+            "content": "<p>Par mail :</p><p>Adresse : 71 rue Joliot Curie, 59286 Roost-warendin<br/><br/>Page contact</p><p>Nous répondons sous 24 heures 7 jours sur 7.</p>",
             "enable_follow_on_shop": true
           }
         },
@@ -29,20 +29,11 @@
             "show_menu_title": true,
             "menu_title": "Informations"
           }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": "Nos politiques"
-          }
         }
       },
       "block_order": [
         "text_Jeqjwr",
-        "links_dhUezK",
-        "links"
+        "links_dhUezK"
       ],
       "settings": {
         "show_social_media": true,
