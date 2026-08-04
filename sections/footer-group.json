@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_Jeqjwr": {
+          "type": "text",
+          "settings": {
+            "title": "Nous contactez",
+            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "links_dhUezK": {
           "type": "links",
           "settings": {
@@ -32,6 +40,7 @@
         }
       },
       "block_order": [
+        "text_Jeqjwr",
         "links_dhUezK",
         "links"
       ],
