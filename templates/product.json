@@ -74,19 +74,6 @@
             "liquid": "<div id='ss-payment-icons'></div>"
           }
         },
-        "offer_AferTT": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "center",
-            "icon_position": "aligned",
-            "icon": "picto-coupon",
-            "icon_width": 20,
-            "title": "Shipping",
-            "content": "<p>Short content about your shipping rates or discounts.</p>",
-            "background": "#f4f4f4",
-            "text_color": "#111111"
-          }
-        },
         "collapsible_text_8n6Xak": {
           "type": "collapsible_text",
           "settings": {
@@ -128,7 +115,6 @@
         "quantity_selector_zLjAMe",
         "buy_buttons",
         "liquid_LNJ467",
-        "offer_AferTT",
         "collapsible_text_8n6Xak",
         "collapsible_text_fLVHxa",
         "collapsible_text_zzqVjA"
@@ -373,10 +359,10 @@
         "payment_position": "below_buy",
         "use_payments_store": true,
         "payment_title": "Paiement sécurisé :",
-        "text_size": 10,
+        "text_size": 14,
         "color": "#111111",
         "icon_size": 60,
-        "icon_size_mobile": 30,
+        "icon_size_mobile": 34,
         "icons_advanced": false,
         "icon_gap": 10,
         "icon_gap_mobile": 10,
