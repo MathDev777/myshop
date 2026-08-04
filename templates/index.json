@@ -116,20 +116,90 @@
         "overlay_opacity": 15
       }
     },
-    "blog_posts_wGXmY4": {
-      "type": "blog-posts",
+    "collection_list_3XL8hz": {
+      "type": "collection-list",
       "blocks": {
-        "article_pDPk3r": {
-          "type": "article",
+        "collection_qwan8n": {
+          "type": "collection",
           "settings": {
-            "article": "",
-            "background": "",
-            "text_color": ""
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6WYB4q": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_irYP4K": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
           }
         }
       },
       "block_order": [
-        "article_pDPk3r"
+        "collection_qwan8n",
+        "collection_6WYB4q",
+        "collection_irYP4K"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Objets Déco",
+        "content": "<p>Apportez une <strong>touche d’élégance naturelle </strong>à votre intérieur avec notre sélection d’<strong>objets déco en rotin et fibres naturelles</strong>.<br/><br/></p>",
+        "link_url": "",
+        "link_text": "Voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "blog_posts_wGXmY4": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_GDzHzT": {
+          "type": "blog",
+          "settings": {
+            "blog": "",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_GDzHzT"
       ],
       "name": "Blog posts",
       "settings": {
@@ -249,6 +319,7 @@
     "rich_text_ADXDh3",
     "featured_collection_6YJEgY",
     "image_with_text_overlay_64KJBc",
+    "collection_list_3XL8hz",
     "blog_posts_wGXmY4",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
