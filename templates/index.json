@@ -188,19 +188,6 @@
     },
     "blog_posts_wGXmY4": {
       "type": "blog-posts",
-      "blocks": {
-        "blog_GDzHzT": {
-          "type": "blog",
-          "settings": {
-            "blog": "",
-            "posts_count": 3,
-            "stack_items": false
-          }
-        }
-      },
-      "block_order": [
-        "blog_GDzHzT"
-      ],
       "name": "Blog posts",
       "settings": {
         "full_width": true,
