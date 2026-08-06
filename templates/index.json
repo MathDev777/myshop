@@ -15,8 +15,14 @@
         "heading_GqxPTa": {
           "type": "heading",
           "settings": {
-            "text": "Mobilier, Décoration & Luminaires en Rotin",
+            "text": "La lumière transforme chaque intérieur.",
             "heading_tag": "h3"
+          }
+        },
+        "richtext_PzPHrc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Découvrez des suspensions aux matières naturelles, pensées pour créer des espaces chaleureux, élégants et intemporels.</p>"
           }
         },
         "button_9nek4U": {
@@ -24,7 +30,7 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Découvrir nos suspensions",
+            "text": "Découvrir les suspensions",
             "url": "shopify://collections",
             "background": "",
             "text_color": ""
@@ -33,6 +39,7 @@
       },
       "block_order": [
         "heading_GqxPTa",
+        "richtext_PzPHrc",
         "button_9nek4U"
       ],
       "name": "Image with text overlay",
@@ -48,88 +55,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#2f2a24",
         "overlay_opacity": 20
-      }
-    },
-    "rich_text_ADXDh3": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_UeCW9E": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Découvrez nos <strong>créations uniques </strong>en <strong>fibres naturelles </strong>pour une <strong>déco naturelle </strong>qui vous ressemble, entre authenticité et modernité.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_UeCW9E"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "featured_collection_6YJEgY": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "suspensions-rotin",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 4,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Suspensions Rotin",
-        "content": "",
-        "link_url": "shopify://collections/suspensions-rotin",
-        "link_text": "Découvrir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "rich_text_ceAdLG": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_z9RGCd": {
-          "type": "heading",
-          "settings": {
-            "text": "Une tendance indémodable",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_NNqaxr": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Naturel, élégant et intemporel, le <strong>rotin traverse les époques sans jamais perdre de sa superbe</strong>. Matériau star des intérieurs bohèmes, scandinaves ou vintage, il s’impose aujourd’hui comme une <strong>valeur sûre de la décoration</strong>.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_z9RGCd",
-        "richtext_NNqaxr"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#F3EEE6",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "collection_list_3XL8hz": {
@@ -191,15 +116,41 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Objets Déco",
-        "content": "<p>Apportez une <strong>touche d’élégance naturelle </strong>à votre intérieur avec notre sélection d’<strong>objets déco en rotin et fibres naturelles</strong>.<br/><br/></p>",
-        "link_url": "",
-        "link_text": "Voir",
+        "title": "Explorez nos collections",
+        "content": "<p>Des collections inspirées des matières naturelles et du design intemporel.</p>",
+        "link_url": "shopify://collections",
+        "link_text": "Découvrir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "featured_collection_6YJEgY": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "meilleures-ventes",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Notre sélection",
+        "content": "<p>Une sélection de modèles choisis pour leur design, leur qualité et leur capacité à sublimer chaque pièce.</p>",
+        "link_url": "shopify://collections/meilleures-ventes",
+        "link_text": "Découvrir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "blog_posts_C4Ugm7": {
@@ -318,9 +269,9 @@
       "settings": {
         "full_width": true,
         "show_icon": false,
-        "title": "Newsletter",
-        "content": "<p>Avant-premières des collections, ventes privées, conseils déco et offres exclusives. Recevez aussi 10 % sur votre première commande.</p>",
-        "button_text": "S'abonner",
+        "title": "Entrez dans notre univers",
+        "content": "<p>Recevez nos nouveautés, inspirations déco et offres exclusives.</p>",
+        "button_text": "Je m'inscris",
         "subtext": "",
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
@@ -332,10 +283,8 @@
   },
   "order": [
     "image_with_text_overlay_8VC6hb",
-    "rich_text_ADXDh3",
-    "featured_collection_6YJEgY",
-    "rich_text_ceAdLG",
     "collection_list_3XL8hz",
+    "featured_collection_6YJEgY",
     "blog_posts_C4Ugm7",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
