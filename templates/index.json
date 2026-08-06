@@ -34,8 +34,8 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#111111",
-        "overlay_opacity": 15
+        "overlay_color": "#2F2A24",
+        "overlay_opacity": 20
       }
     },
     "rich_text_ADXDh3": {
@@ -112,8 +112,8 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 15
+        "overlay_color": "#2F2A24",
+        "overlay_opacity": 20
       }
     },
     "collection_list_3XL8hz": {

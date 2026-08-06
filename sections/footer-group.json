@@ -18,7 +18,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p>Par mail :</p><p>Adresse : 71 rue Joliot Curie, 59286 Roost-warendin<br/><br/>Page contact</p><p>Nous répondons sous 24 heures 7 jours sur 7.</p>",
+            "content": "<p>Par mail :</p><p>Adresse : 71 rue Joliot Curie, 59286 Roost-warendin<br/><br/><a href=\"/pages/contactez-nous\" title=\"Contactez-nous\">Page contact</a></p><p>Nous répondons sous 24 heures 7 jours sur 7.</p>",
             "enable_follow_on_shop": true
           }
         },
