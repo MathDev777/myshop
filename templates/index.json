@@ -308,9 +308,9 @@
         "subtext": "",
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": "#2F2A24",
+        "button_background": "#F3EEE6",
+        "button_text_color": "#2F2A24"
       }
     }
   },
