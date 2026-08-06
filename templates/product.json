@@ -74,36 +74,6 @@
           "settings": {
             "liquid": "<div id='ss-payment-icons'></div>"
           }
-        },
-        "collapsible_text_8n6Xak": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_fLVHxa": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_zzqVjA": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -115,10 +85,7 @@
         "variant_picker_zmjWVh",
         "quantity_selector_zLjAMe",
         "buy_buttons",
-        "liquid_LNJ467",
-        "collapsible_text_8n6Xak",
-        "collapsible_text_fLVHxa",
-        "collapsible_text_zzqVjA"
+        "liquid_LNJ467"
       ],
       "settings": {
         "full_width": true,
@@ -153,7 +120,7 @@
         "subheading": "",
         "title": "Découvrez aussi :",
         "content": "",
-        "link_url": "shopify://collections/suspensions-rotin",
+        "link_url": "shopify://collections/meilleures-ventes",
         "link_text": "Voir",
         "background": "",
         "background_gradient": "",
