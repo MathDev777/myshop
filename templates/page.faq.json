@@ -59,7 +59,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Heading",
+        "title": "Livraison & Commande",
         "content": "",
         "button_text": "",
         "button_url": "",
@@ -118,7 +118,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Heading",
+        "title": "Annulation & Retour",
         "content": "",
         "button_text": "",
         "button_url": "",
@@ -177,7 +177,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Heading",
+        "title": "Sécurité",
         "content": "",
         "button_text": "",
         "button_url": "",
