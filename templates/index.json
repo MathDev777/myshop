@@ -18,10 +18,22 @@
             "text": "Mobilier, Décoration & Luminaires en Rotin",
             "heading_tag": "h3"
           }
+        },
+        "button_9nek4U": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Découvrir nos suspensions",
+            "url": "shopify://collections",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
-        "heading_GqxPTa"
+        "heading_GqxPTa",
+        "button_9nek4U"
       ],
       "name": "Image with text overlay",
       "settings": {
