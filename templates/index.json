@@ -77,7 +77,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "meilleures-ventes",
+        "collection": "suspensions-rotin",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -86,9 +86,9 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Meilleures Ventes",
+        "title": "Suspensions Rotin",
         "content": "",
-        "link_url": "shopify://collections/meilleures-ventes",
+        "link_url": "shopify://collections/suspensions-rotin",
         "link_text": "Découvrir",
         "background": "",
         "background_gradient": "",
@@ -99,33 +99,37 @@
         "product_card_text_color": ""
       }
     },
-    "image_with_text_overlay_64KJBc": {
-      "type": "image-with-text-overlay",
+    "rich_text_ceAdLG": {
+      "type": "rich-text",
       "blocks": {
-        "heading_DqbCDf": {
+        "heading_z9RGCd": {
           "type": "heading",
           "settings": {
-            "text": "Trouvez le luminaire parfait pour chaque pièce.",
-            "heading_tag": "h4"
+            "text": "Une tendance indémodable",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_NNqaxr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Naturel, élégant et intemporel, le <strong>rotin traverse les époques sans jamais perdre de sa superbe</strong>. Matériau star des intérieurs bohèmes, scandinaves ou vintage, il s’impose aujourd’hui comme une <strong>valeur sûre de la décoration</strong>.</p>"
           }
         }
       },
       "block_order": [
-        "heading_DqbCDf"
+        "heading_z9RGCd",
+        "richtext_NNqaxr"
       ],
-      "name": "Image with text overlay",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Image_home_page_inter_prod_ordi.png",
-        "mobile_image": "shopify://shop_images/Image_home_page_inter_prod_mobile.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#2f2a24",
-        "overlay_opacity": 20
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#F3EEE6",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "collection_list_3XL8hz": {
@@ -196,39 +200,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "rich_text_ceAdLG": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_z9RGCd": {
-          "type": "heading",
-          "settings": {
-            "text": "Une tendance indémodable",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_NNqaxr": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Naturel, élégant et intemporel, le <strong>rotin traverse les époques sans jamais perdre de sa superbe</strong>. Matériau star des intérieurs bohèmes, scandinaves ou vintage, il s’impose aujourd’hui comme une <strong>valeur sûre de la décoration</strong>.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_z9RGCd",
-        "richtext_NNqaxr"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#F3EEE6",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "blog_posts_C4Ugm7": {
@@ -363,9 +334,8 @@
     "image_with_text_overlay_8VC6hb",
     "rich_text_ADXDh3",
     "featured_collection_6YJEgY",
-    "image_with_text_overlay_64KJBc",
-    "collection_list_3XL8hz",
     "rich_text_ceAdLG",
+    "collection_list_3XL8hz",
     "blog_posts_C4Ugm7",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
