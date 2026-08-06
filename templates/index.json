@@ -48,8 +48,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/Header_ordinateur_impact.png",
-        "mobile_image": "shopify://shop_images/Header_mobile_impact.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -138,7 +136,7 @@
         "show_progress_bar": false,
         "products_count": 4,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
+        "products_per_row_desktop": 4,
         "subheading": "",
         "title": "Notre sélection",
         "content": "<p>Une sélection de modèles choisis pour leur design, leur qualité et leur capacité à sublimer chaque pièce.</p>",
@@ -151,41 +149,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "blog_posts_C4Ugm7": {
-      "type": "blog-posts",
-      "blocks": {
-        "blog_jQFBxR": {
-          "type": "blog",
-          "settings": {
-            "blog": "",
-            "posts_count": 3,
-            "stack_items": false
-          }
-        }
-      },
-      "block_order": [
-        "blog_jQFBxR"
-      ],
-      "name": "Blog posts",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": true,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "Nos actus & conseils déco",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "text_with_icons_cp3PPA": {
@@ -285,7 +248,6 @@
     "image_with_text_overlay_8VC6hb",
     "collection_list_3XL8hz",
     "featured_collection_6YJEgY",
-    "blog_posts_C4Ugm7",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
   ]
