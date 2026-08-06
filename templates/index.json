@@ -192,8 +192,8 @@
         "heading_z9RGCd": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Une tendance indémodable",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -201,7 +201,7 @@
         "richtext_NNqaxr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Naturel, élégant et intemporel, le <strong>rotin traverse les époques sans jamais perdre de sa superbe</strong>. Matériau star des intérieurs bohèmes, scandinaves ou vintage, il s’impose aujourd’hui comme une <strong>valeur sûre de la décoration</strong>.</p>"
           }
         }
       },
