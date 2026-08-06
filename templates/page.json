@@ -16,6 +16,32 @@
         "content_width": "80ch"
       }
     },
+    "rich_text_eY43tg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wefWnH": {
+          "type": "heading",
+          "settings": {
+            "text": "Qui sommes-nous ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wefWnH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text_with_icons_RkhAyk": {
       "type": "text-with-icons",
       "blocks": {
@@ -94,6 +120,7 @@
   },
   "order": [
     "main",
+    "rich_text_eY43tg",
     "text_with_icons_RkhAyk"
   ]
 }
