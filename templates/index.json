@@ -34,7 +34,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#2F2A24",
+        "overlay_color": "#2f2a24",
         "overlay_opacity": 20
       }
     },
@@ -112,7 +112,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#2F2A24",
+        "overlay_color": "#2f2a24",
         "overlay_opacity": 20
       }
     },
@@ -288,7 +288,7 @@
         "full_width": true,
         "stack_on_mobile": true,
         "title": "",
-        "heading_tag": "h5",
+        "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "medium",
         "background": "#f3eee6",
