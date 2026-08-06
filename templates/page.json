@@ -19,6 +19,19 @@
     "text_with_icons_RkhAyk": {
       "type": "text-with-icons",
       "blocks": {
+        "item_xcmT88": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#F3EEE6",
+            "icon_color": "",
+            "title": "Heading",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
         "item_YBBhKK": {
           "type": "item",
           "settings": {
@@ -60,6 +73,7 @@
         }
       },
       "block_order": [
+        "item_xcmT88",
         "item_YBBhKK",
         "item_H9pknX",
         "item_rjJzcG"
