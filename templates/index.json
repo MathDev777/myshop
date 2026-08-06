@@ -186,20 +186,20 @@
         "heading_gradient": ""
       }
     },
-    "blog_posts_wGXmY4": {
+    "blog_posts_C4Ugm7": {
       "type": "blog-posts",
       "blocks": {
-        "blog_ibPbCE": {
+        "blog_jQFBxR": {
           "type": "blog",
           "settings": {
-            "blog": "comment-nettoyer-du-rotin-guide-complet-et-astuces-pratiques",
+            "blog": "",
             "posts_count": 3,
             "stack_items": false
           }
         }
       },
       "block_order": [
-        "blog_ibPbCE"
+        "blog_jQFBxR"
       ],
       "name": "Blog posts",
       "settings": {
@@ -213,7 +213,7 @@
         "title": "Nos actus & conseils déco",
         "content": "",
         "link_url": "",
-        "link_text": "Voir tous les articles",
+        "link_text": "Voir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -320,7 +320,7 @@
     "featured_collection_6YJEgY",
     "image_with_text_overlay_64KJBc",
     "collection_list_3XL8hz",
-    "blog_posts_wGXmY4",
+    "blog_posts_C4Ugm7",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
   ]
