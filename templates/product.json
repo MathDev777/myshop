@@ -18,6 +18,12 @@
             "heading_tag": "h2"
           }
         },
+        "text_UcnJng": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "price_8GmnFf": {
           "type": "price",
           "settings": {
@@ -78,6 +84,7 @@
       },
       "block_order": [
         "title",
+        "text_UcnJng",
         "price_8GmnFf",
         "inventory_hm7fcx",
         "separator_xHiP3Y",
