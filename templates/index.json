@@ -11,12 +11,26 @@
   "sections": {
     "image_with_text_overlay_8VC6hb": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_EthMJt": {
+          "type": "heading",
+          "settings": {
+            "text": "La lumière au cœur de votre décoration.",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EthMJt"
+      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/suspension_naturel.jpg",
+        "mobile_image": "shopify://shop_images/suspension_naturel.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
