@@ -19,24 +19,116 @@
     "rich_text_eY43tg": {
       "type": "rich-text",
       "blocks": {
-        "heading_wefWnH": {
+        "heading_QpDpHD": {
           "type": "heading",
           "settings": {
-            "text": "Qui sommes-nous ?",
+            "text": "La lumière au service de votre intérieur",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
+        },
+        "richtext_PtdMCR": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chez ........, nous sélectionnons des <strong>suspensions design</strong> inspirées des matières naturelles et des tendances de la décoration contemporaine. Notre collection rassemble des <strong>luminaires</strong> en <strong>rotin</strong>, <strong>bois</strong> et autres matériaux soigneusement choisis afin de créer des espaces chaleureux, élégants et intemporels.</p><p>Nous croyons qu'un luminaire ne se limite pas à éclairer une pièce. Il structure un espace, crée une ambiance et met en valeur chaque détail de votre décoration.</p>"
+          }
+        },
+        "heading_JNfcwB": {
+          "type": "heading",
+          "settings": {
+            "text": "Une sélection pensée pour durer",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_AEjy8X": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chaque <strong>suspension</strong> est choisie selon des critères exigeants :</p><ul><li>Un design intemporel.<br/></li><li>Des matériaux naturels et esthétiques.<br/></li><li>Une qualité de fabrication soignée.<br/></li><li>Une intégration harmonieuse dans les intérieurs modernes.</li></ul><p>Notre objectif est de proposer des <strong>luminaires suspendus</strong> qui trouvent naturellement leur place dans une salle à manger, un salon, une chambre ou une cuisine.</p>"
+          }
+        },
+        "heading_FyMJYz": {
+          "type": "heading",
+          "settings": {
+            "text": "Des collections inspirées des plus belles tendances",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_rDpbdL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Notre catalogue évolue autour de styles reconnus dans l'univers de la décoration intérieure :</p><ul><li><strong>Suspensions en rotin</strong>.<br/></li><li><strong>Suspensions en bois</strong>.<br/></li><li>Style <strong>Japandi</strong>.<br/></li><li>Univers <strong>Wabi-Sabi</strong>.<br/></li><li>Matériaux naturels et lignes épurées.<br/></li></ul><p>Chaque collection est pensée pour vous permettre de créer un intérieur cohérent, chaleureux et durable.</p>"
+          }
+        },
+        "heading_KLABJW": {
+          "type": "heading",
+          "settings": {
+            "text": "Une expérience d'achat simple",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_UNBKdm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nous accordons une attention particulière à chaque étape de votre commande.</p><p>Des fiches produits détaillées, des photographies de qualité et une navigation fluide vous permettent de choisir la suspension adaptée à votre projet de décoration.</p><p>Notre équipe reste également disponible pour répondre à vos questions avant et après votre achat.</p>"
+          }
+        },
+        "heading_P3xTJx": {
+          "type": "heading",
+          "settings": {
+            "text": "Notre engagement",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_yECkNc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nous souhaitons rendre les <strong>luminaires design</strong> accessibles tout en privilégiant une sélection élégante et durable.</p><p>Au-delà des tendances, nous recherchons des modèles capables de traverser les années et de conserver toute leur place dans votre intérieur.</p>"
+          }
+        },
+        "heading_anCyAA": {
+          "type": "heading",
+          "settings": {
+            "text": "Notre promesse",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_7cCNLQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Créer un intérieur harmonieux commence souvent par un luminaire.</p><p>Chez ....., nous sélectionnons chaque suspension avec une idée simple : proposer des luminaires qui apportent autant de caractère que de lumière.</p><p><strong>Parce que la lumière ne se contente pas d'éclairer. Elle révèle votre intérieur.</strong></p>"
+          }
         }
       },
       "block_order": [
-        "heading_wefWnH"
+        "heading_QpDpHD",
+        "richtext_PtdMCR",
+        "heading_JNfcwB",
+        "richtext_AEjy8X",
+        "heading_FyMJYz",
+        "richtext_rDpbdL",
+        "heading_KLABJW",
+        "richtext_UNBKdm",
+        "heading_P3xTJx",
+        "richtext_yECkNc",
+        "heading_anCyAA",
+        "richtext_7cCNLQ"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
-        "text_position": "center",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": ""
