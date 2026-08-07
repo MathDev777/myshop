@@ -11,37 +11,6 @@
   "sections": {
     "image_with_text_overlay_8VC6hb": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_GqxPTa": {
-          "type": "heading",
-          "settings": {
-            "text": "La lumière transforme chaque intérieur.",
-            "heading_tag": "h3"
-          }
-        },
-        "richtext_PzPHrc": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Découvrez des suspensions aux matières naturelles, pensées pour créer des espaces chaleureux, élégants et intemporels.</p>"
-          }
-        },
-        "button_9nek4U": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "Découvrir les suspensions",
-            "url": "shopify://collections",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_GqxPTa",
-        "richtext_PzPHrc",
-        "button_9nek4U"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
