@@ -19,6 +19,15 @@
     "rich_text_eY43tg": {
       "type": "rich-text",
       "blocks": {
+        "image_L3TXmR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Photos_d_ambiance.jpg",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "heading_QpDpHD": {
           "type": "heading",
           "settings": {
@@ -31,7 +40,7 @@
         "richtext_PtdMCR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Chez ........, nous sélectionnons des <strong>suspensions design</strong> inspirées des matières naturelles et des tendances de la décoration contemporaine. Notre collection rassemble des <strong>luminaires</strong> en <strong>rotin</strong>, <strong>bois</strong> et autres matériaux soigneusement choisis afin de créer des espaces chaleureux, élégants et intemporels.</p><p>Nous croyons qu'un luminaire ne se limite pas à éclairer une pièce. Il structure un espace, crée une ambiance et met en valeur chaque détail de votre décoration.</p>"
+            "content": "<p>Chez <strong>Le Comptoir du luminaire</strong>, nous sélectionnons des <strong>suspensions design</strong> inspirées des matières naturelles et des tendances de la décoration contemporaine. Notre collection rassemble des <strong>luminaires</strong> en <strong>rotin</strong>, <strong>bois</strong> et autres matériaux soigneusement choisis afin de créer des espaces chaleureux, élégants et intemporels.</p><p>Nous croyons qu'un luminaire ne se limite pas à éclairer une pièce. Il structure un espace, crée une ambiance et met en valeur chaque détail de votre décoration.</p>"
           }
         },
         "heading_JNfcwB": {
@@ -106,11 +115,12 @@
         "richtext_7cCNLQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Créer un intérieur harmonieux commence souvent par un luminaire.</p><p>Chez ....., nous sélectionnons chaque suspension avec une idée simple : proposer des luminaires qui apportent autant de caractère que de lumière.</p><p><strong>Parce que la lumière ne se contente pas d'éclairer. Elle révèle votre intérieur.</strong></p>"
+            "content": "<p>Créer un intérieur harmonieux commence souvent par un luminaire.</p><p>Chez <strong>Le Comptoir du luminaire</strong>, nous sélectionnons chaque suspension avec une idée simple : proposer des luminaires qui apportent autant de caractère que de lumière.</p><p><strong>Parce que la lumière ne se contente pas d'éclairer. Elle révèle votre intérieur.</strong></p>"
           }
         }
       },
       "block_order": [
+        "image_L3TXmR",
         "heading_QpDpHD",
         "richtext_PtdMCR",
         "heading_JNfcwB",
