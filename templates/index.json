@@ -47,12 +47,14 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "sm",
+        "image_size": "auto",
+        "image": "shopify://shop_images/suspension_rotin_salon_mobile.jpg",
+        "mobile_image": "shopify://shop_images/suspension_rotin_salon_mobile.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#2f2a24",
-        "overlay_opacity": 20
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "collection_list_3XL8hz": {
