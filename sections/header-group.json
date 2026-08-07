@@ -16,8 +16,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo_max_width": 205,
-        "logo_mobile_max_width": 120,
+        "logo": "shopify://shop_images/Logo_Le_Comptoir_du_Luminaire_76dd6407-7ca6-4f6e-be6e-737c650352de.png",
+        "logo_max_width": 300,
+        "logo_mobile_max_width": 170,
         "menu": "customer-account-main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -56,9 +57,9 @@
         "text_size": "text-base",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#F3EEE6",
+        "background": "#f3eee6",
         "background_gradient": "",
-        "text_color": "#2F2A24"
+        "text_color": "#2f2a24"
       }
     }
   },
