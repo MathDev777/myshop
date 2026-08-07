@@ -11,32 +11,6 @@
   "type": "header",
   "name": "Header group",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "message_Cird4P": {
-          "type": "message",
-          "settings": {
-            "text": "Livraison gratuite (sans minimum d'achat)",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "message_Cird4P"
-      ],
-      "settings": {
-        "enable_sticky": false,
-        "autoplay": true,
-        "cycle_speed": 4,
-        "text_size": "text-base",
-        "navigation_mode": "arrows",
-        "scrolling_speed": 10,
-        "background": "#2F2A24",
-        "background_gradient": "",
-        "text_color": "#FFFFFF"
-      }
-    },
     "header": {
       "type": "header",
       "settings": {
@@ -60,10 +34,36 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message_Cird4P": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite (sans minimum d'achat)",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_Cird4P"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 4,
+        "text_size": "text-base",
+        "navigation_mode": "arrows",
+        "scrolling_speed": 10,
+        "background": "#F3EEE6",
+        "background_gradient": "",
+        "text_color": "#2F2A24"
+      }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }
