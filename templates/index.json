@@ -24,6 +24,29 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_b6FgT4": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_itKpWC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chez <strong>Le Comptoir du Luminaire</strong>, nous sélectionnons des suspensions en rotin, bois et matériaux naturels inspirées des styles Japandi et Wabi-Sabi. Notre collection est pensée pour créer des espaces chaleureux, élégants et intemporels, où chaque luminaire trouve naturellement sa place.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_itKpWC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection_list_3XL8hz": {
       "type": "collection-list",
       "blocks": {
@@ -133,13 +156,13 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Laissez la lumière révéler votre intérieur.",
-            "content": "<p>Chez <strong>Le Comptoir du Luminaire</strong>, nous sélectionnons des suspensions en rotin, bois et matériaux naturels inspirées des styles Japandi et Wabi-Sabi. Notre collection est pensée pour créer des espaces chaleureux, élégants et intemporels, où chaque luminaire trouve naturellement sa place.</p>",
-            "link_text": "→ Découvrir les suspensions",
-            "link_url": "shopify://collections",
-            "background": "#f3eee6",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
             "background_gradient": "",
-            "text_color": "#2f2a24",
+            "text_color": "rgba(0,0,0,0)",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -251,6 +274,7 @@
   },
   "order": [
     "image_with_text_overlay_8VC6hb",
+    "rich_text_b6FgT4",
     "collection_list_3XL8hz",
     "featured_collection_6YJEgY",
     "media_with_text_xBKWTt",
