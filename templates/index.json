@@ -96,42 +96,6 @@
         "heading_gradient": ""
       }
     },
-    "media_with_text_xBKWTt": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_HYaq7n": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Photos_d_ambiance.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Des matières naturelles, une lumière intemporelle",
-            "content": "<p>Chez <strong>Le Comptoir du Luminaire</strong>, nous sélectionnons des suspensions en rotin, bois et matériaux naturels pensées pour créer des espaces chaleureux, élégants et intemporels. Chaque modèle est choisi pour apporter caractère et harmonie à votre décoration.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#F3EEE6",
-            "background_gradient": "",
-            "text_color": "#2F2A24",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_HYaq7n"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
     "featured_collection_6YJEgY": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -156,6 +120,42 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "media_with_text_xBKWTt": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HYaq7n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Photos_d_ambiance.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Laissez la lumière révéler votre intérieur.",
+            "content": "<p>Chez <strong>Le Comptoir du Luminaire</strong>, nous sélectionnons des suspensions en rotin, bois et matériaux naturels inspirées des styles Japandi et Wabi-Sabi. Notre collection est pensée pour créer des espaces chaleureux, élégants et intemporels, où chaque luminaire trouve naturellement sa place.</p>",
+            "link_text": "→ Découvrir les suspensions",
+            "link_url": "shopify://collections",
+            "background": "#F3EEE6",
+            "background_gradient": "",
+            "text_color": "#2F2A24",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HYaq7n"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "text_with_icons_cp3PPA": {
