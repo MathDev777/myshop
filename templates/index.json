@@ -96,6 +96,42 @@
         "heading_gradient": ""
       }
     },
+    "media_with_text_xBKWTt": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HYaq7n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Photos_d_ambiance.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Des matières naturelles, une lumière intemporelle",
+            "content": "<p>Chez <strong>Le Comptoir du Luminaire</strong>, nous sélectionnons des suspensions en rotin, bois et matériaux naturels pensées pour créer des espaces chaleureux, élégants et intemporels. Chaque modèle est choisi pour apporter caractère et harmonie à votre décoration.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#F3EEE6",
+            "background_gradient": "",
+            "text_color": "#2F2A24",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HYaq7n"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
     "featured_collection_6YJEgY": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -191,7 +227,7 @@
         "title": "",
         "heading_tag": "h6",
         "text_alignment": "center",
-        "icon_spacing": "medium",
+        "icon_spacing": "small",
         "background": "#f3eee6",
         "background_gradient": "",
         "text_color": "#2f2a24"
@@ -219,6 +255,7 @@
     "image_with_text_overlay_8VC6hb",
     "collection_list_3XL8hz",
     "featured_collection_6YJEgY",
+    "media_with_text_xBKWTt",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
   ]
