@@ -24,8 +24,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nos délais de livraison varient selon le modèle commandé et sa disponibilité. Une estimation est indiquée sur chaque fiche produit. Une fois votre commande expédiée, vous recevez un lien de suivi par e-mail.</p>",
             "page": ""
           }
         },
@@ -34,8 +34,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Comment suivre ma commande ?",
+            "content": "<p>Dès l’expédition de votre commande, un numéro de suivi vous est envoyé par e-mail. Il vous permet de suivre l’acheminement de votre colis jusqu’à sa livraison.</p>",
             "page": ""
           }
         },
@@ -44,8 +44,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Puis-je modifier ou annuler ma commande après l’achat ?",
+            "content": "<p>Contactez-nous le plus rapidement possible. Si votre commande n’a pas encore été préparée ou expédiée, nous ferons notre maximum pour effectuer la modification demandée.</p>",
             "page": ""
           }
         }
@@ -83,18 +83,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
-        },
-        "item_BxUaQF": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Que faire si mon colis arrive endommagé ?",
+            "content": "<p>Contactez-nous rapidement avec votre numéro de commande et des photos du colis et du produit. Nous examinerons la situation afin de vous proposer une solution adaptée.</p>",
             "page": ""
           }
         },
@@ -103,16 +93,26 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Comment effectuer un retour ?",
+            "content": "<p>Avant tout retour, contactez notre service client. Nous vous communiquerons la procédure ainsi que l’adresse de retour correspondant à votre commande. N’expédiez pas un produit sans avoir reçu les instructions de retour.</p>",
+            "page": ""
+          }
+        },
+        "item_BxUaQF": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Quand serai-je remboursé ?",
+            "content": "<p>Après réception et vérification du produit retourné, le remboursement est effectué sur le moyen de paiement utilisé lors de la commande, dans les délais prévus par notre politique de remboursement.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "item_EryyNJ",
-        "item_BxUaQF",
-        "item_Nkb6fm"
+        "item_Nkb6fm",
+        "item_BxUaQF"
       ],
       "name": "Accordion content",
       "settings": {
@@ -137,26 +137,6 @@
     "accordion_content_AmKKyR": {
       "type": "accordion-content",
       "blocks": {
-        "item_KX8AHN": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
-        },
-        "item_CKqDxw": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
-        },
         "item_8JtrrN": {
           "type": "item",
           "settings": {
@@ -166,18 +146,38 @@
             "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
             "page": ""
           }
+        },
+        "item_CKqDxw": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Puis-je installer moi-même ma suspension ?",
+            "content": "<p>L’installation doit être réalisée conformément aux instructions fournies avec le luminaire. En cas de doute sur votre installation électrique, nous recommandons de faire appel à un professionnel qualifié.</p>",
+            "page": ""
+          }
+        },
+        "item_KX8AHN": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Le paiement est-il sécurisé ?",
+            "content": "<p>Oui. Les paiements sont traités via des prestataires sécurisés et les informations bancaires sont protégées lors de la transaction.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "item_KX8AHN",
+        "item_8JtrrN",
         "item_CKqDxw",
-        "item_8JtrrN"
+        "item_KX8AHN"
       ],
       "name": "Accordion content",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Sécurité",
+        "title": "Sécurité & Paiement",
         "content": "",
         "button_text": "",
         "button_url": "",
