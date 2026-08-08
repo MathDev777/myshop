@@ -55,6 +55,7 @@
     "cart_icon": "shopping_basket",
     "cart_empty_button_link": "",
     "cart_show_free_shipping_threshold": true,
+    "favicon": "shopify://shop_images/ChatGPT_Favicon.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
