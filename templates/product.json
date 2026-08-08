@@ -112,6 +112,32 @@
         "input_text_color": ""
       }
     },
+    "featured_collection_a8gMRa": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "meilleures-ventes",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Découvrez aussi :",
+        "content": "",
+        "link_url": "shopify://collections/meilleures-ventes",
+        "link_text": "Voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "testimonials_Y8C933": {
       "type": "testimonials",
       "blocks": {
@@ -120,7 +146,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "John S.",
             "title": "Testimonial 1",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
@@ -142,7 +168,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Joshua A.",
             "title": "Testimonial 3",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
@@ -170,32 +196,6 @@
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
-      }
-    },
-    "featured_collection_a8gMRa": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "meilleures-ventes",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 4,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Découvrez aussi :",
-        "content": "",
-        "link_url": "shopify://collections/meilleures-ventes",
-        "link_text": "Voir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "text_with_icons_98QHGP": {
