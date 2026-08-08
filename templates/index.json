@@ -157,40 +157,21 @@
         "product_card_text_color": ""
       }
     },
-    "media_with_text_xBKWTt": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_HYaq7n": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Photos_d_ambiance.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "rgba(0,0,0,0)",
-            "background_gradient": "",
-            "text_color": "rgba(0,0,0,0)",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_HYaq7n"
-      ],
-      "name": "Media with text",
+    "image_with_text_overlay_AGt7Q7": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Photos_d_ambiance.jpg",
+        "mobile_image": "shopify://shop_images/Photos_d_ambiance.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "text_with_icons_cp3PPA": {
@@ -291,7 +272,7 @@
     "rich_text_b6FgT4",
     "collection_list_3XL8hz",
     "featured_collection_6YJEgY",
-    "media_with_text_xBKWTt",
+    "image_with_text_overlay_AGt7Q7",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
   ]
