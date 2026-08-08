@@ -16,7 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": true,
         "show_collection_title": true,
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "collection_title_size": "h2",
         "image_size": "auto",
@@ -41,6 +41,56 @@
         "show_filter_group_name": false,
         "show_filter_values_count": true,
         "open_first_filter_group": false
+      }
+    },
+    "rich_text_HwJ39G": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aTYpGR": {
+          "type": "heading",
+          "settings": {
+            "text": "Découvrez notre collection de suspensions en rotin",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_iMnV4d": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Naturelle, chaleureuse et intemporelle, la <strong>suspension en rotin</strong> s’impose comme un choix idéal pour créer une ambiance douce et élégante dans votre intérieur. Avec son tressage léger et ses teintes chaleureuses, elle apporte immédiatement du relief à une pièce tout en conservant une sensation de légèreté.</p><p>Notre collection de <strong>suspensions rotin</strong> réunit des modèles aux formes variées : cloche, dôme, goutte, ombrelle, fleur ou encore formes organiques. Chaque luminaire est sélectionné pour s’intégrer facilement dans des univers bohèmes, Japandi, Wabi-Sabi, scandinaves ou contemporains.</p>"
+          }
+        },
+        "heading_MAFbcJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir une suspension en rotin ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_8DDGFc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Le rotin séduit par son aspect naturel et sa capacité à réchauffer visuellement un espace. Lorsqu’il est utilisé pour un luminaire suspendu, son tressage laisse filtrer la lumière et crée de subtils jeux d’ombre sur les murs et le plafond.</p><p>Une <strong>suspension en rotin naturel</strong> permet ainsi d’apporter du caractère sans alourdir la décoration. Elle s’associe facilement avec le bois clair, le lin, le travertin, les murs beige ou blanc cassé et les matières naturelles.</p><p>C’est aussi un choix particulièrement adapté si vous recherchez une décoration chaleureuse et intemporelle, loin des tendances trop éphémères.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aTYpGR",
+        "richtext_iMnV4d",
+        "heading_MAFbcJ",
+        "richtext_8DDGFc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "text_with_icons_EL693X": {
@@ -122,6 +172,7 @@
   "order": [
     "banner",
     "main",
+    "rich_text_HwJ39G",
     "text_with_icons_EL693X"
   ]
 }
