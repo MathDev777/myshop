@@ -137,16 +137,6 @@
     "accordion_content_AmKKyR": {
       "type": "accordion-content",
       "blocks": {
-        "item_8JtrrN": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
-        },
         "item_CKqDxw": {
           "type": "item",
           "settings": {
@@ -169,7 +159,6 @@
         }
       },
       "block_order": [
-        "item_8JtrrN",
         "item_CKqDxw",
         "item_KX8AHN"
       ],
@@ -214,7 +203,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Service Client",
+        "title": "Service Client & Contact",
         "content": "",
         "button_text": "",
         "button_url": "",
