@@ -28,7 +28,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify://shop_images/suspension_naturel.jpg",
         "mobile_image": "shopify://shop_images/suspension_naturel.jpg",
         "mobile_text_position": "place-self-end-start text-start",
