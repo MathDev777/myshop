@@ -193,6 +193,43 @@
         "accordion_text_color": ""
       }
     },
+    "accordion_content_DX3rrT": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_exncUU": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Comment vous contacter ?",
+            "content": "<p>Vous pouvez nous contacter via notre formulaire de contact ou par e-mail. Nous faisons notre possible pour répondre rapidement à toutes les demandes.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_exncUU"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Service Client",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "text_with_icons_YJj77a": {
       "type": "text-with-icons",
       "blocks": {
@@ -274,6 +311,7 @@
     "accordion_content_WtgjUz",
     "accordion_content_MmAJPB",
     "accordion_content_AmKKyR",
+    "accordion_content_DX3rrT",
     "text_with_icons_YJj77a"
   ]
 }
