@@ -265,6 +265,66 @@
         "button_background": "#f3eee6",
         "button_text_color": "#2f2a24"
       }
+    },
+    "testimonials_PpwwYV": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_Wc7FND": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_kbg3Uw": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_AWG6FB": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_Wc7FND",
+        "testimonial_kbg3Uw",
+        "testimonial_AWG6FB"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Avis Clients",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -273,6 +333,7 @@
     "collection_list_3XL8hz",
     "featured_collection_6YJEgY",
     "image_with_text_overlay_AGt7Q7",
+    "testimonials_PpwwYV",
     "text_with_icons_cp3PPA",
     "newsletter_THyRgR"
   ]
