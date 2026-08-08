@@ -112,6 +112,66 @@
         "input_text_color": ""
       }
     },
+    "testimonials_Y8C933": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_X9fd7h": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_yhEqcL": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_MXgDeV": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_X9fd7h",
+        "testimonial_yhEqcL",
+        "testimonial_MXgDeV"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Avis Clients",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "featured_collection_a8gMRa": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -310,6 +370,7 @@
   "order": [
     "main",
     "featured_collection_a8gMRa",
+    "testimonials_Y8C933",
     "text_with_icons_98QHGP",
     "ss_payment_icons_eWnhCc"
   ]
